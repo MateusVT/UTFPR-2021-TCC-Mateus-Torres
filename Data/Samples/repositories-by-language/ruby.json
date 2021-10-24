@@ -1,0 +1,378 @@
+[{
+        "owner": "hashicorp",
+        "name": "vagrant",
+        "url": "http://www.github.com/hashicorp/vagrant",
+        "language": "Ruby",
+        "nameconcat": "hashicorp/vagrant"
+    },
+    {
+        "owner": "jekyll",
+        "name": "jekyll",
+        "url": "http://www.github.com/jekyll/jekyll",
+        "language": "Ruby",
+        "nameconcat": "jekyll/jekyll"
+    },
+    {
+        "owner": "tootsuite",
+        "name": "mastodon",
+        "url": "http://www.github.com/tootsuite/mastodon",
+        "language": "Ruby",
+        "nameconcat": "tootsuite/mastodon"
+    },
+    {
+        "owner": "gitlabhq",
+        "name": "gitlabhq",
+        "url": "http://www.github.com/gitlabhq/gitlabhq",
+        "language": "Ruby",
+        "nameconcat": "gitlabhq/gitlabhq"
+    },
+    {
+        "owner": "discourse",
+        "name": "discourse",
+        "url": "http://www.github.com/discourse/discourse",
+        "language": "Ruby",
+        "nameconcat": "discourse/discourse"
+    },
+    {
+        "owner": "diaspora",
+        "name": "diaspora",
+        "url": "http://www.github.com/diaspora/diaspora",
+        "language": "Ruby",
+        "nameconcat": "diaspora/diaspora"
+    },
+    {
+        "owner": "spree",
+        "name": "spree",
+        "url": "http://www.github.com/spree/spree",
+        "language": "Ruby",
+        "nameconcat": "spree/spree"
+    },
+    {
+        "owner": "chef",
+        "name": "chef",
+        "url": "http://www.github.com/chef/chef",
+        "language": "Ruby",
+        "nameconcat": "chef/chef"
+    },
+    {
+        "owner": "puppetlabs",
+        "name": "puppet",
+        "url": "http://www.github.com/puppetlabs/puppet",
+        "language": "Ruby",
+        "nameconcat": "puppetlabs/puppet"
+    },
+    {
+        "owner": "elastic",
+        "name": "logstash",
+        "url": "http://www.github.com/elastic/logstash",
+        "language": "Ruby",
+        "nameconcat": "elastic/logstash"
+    },
+    {
+        "owner": "Homebrew",
+        "name": "brew",
+        "url": "http://www.github.com/Homebrew/brew",
+        "language": "Ruby",
+        "nameconcat": "Homebrew/brew"
+    },
+    {
+        "owner": "Homebrew",
+        "name": "homebrew-cask",
+        "url": "http://www.github.com/Homebrew/homebrew-cask",
+        "language": "Ruby",
+        "nameconcat": "Homebrew/homebrew-cask"
+    },
+    {
+        "owner": "CocoaPods",
+        "name": "CocoaPods",
+        "url": "http://www.github.com/CocoaPods/CocoaPods",
+        "language": "Ruby",
+        "nameconcat": "CocoaPods/CocoaPods"
+    },
+    {
+        "owner": "Homebrew",
+        "name": "homebrew-core",
+        "url": "http://www.github.com/Homebrew/homebrew-core",
+        "language": "Ruby",
+        "nameconcat": "Homebrew/homebrew-core"
+    },
+    {
+        "owner": "rubocop-hq",
+        "name": "rubocop",
+        "url": "http://www.github.com/rubocop-hq/rubocop",
+        "language": "Ruby",
+        "nameconcat": "rubocop-hq/rubocop"
+    },
+    {
+        "owner": "github",
+        "name": "linguist",
+        "url": "http://www.github.com/github/linguist",
+        "language": "Ruby",
+        "nameconcat": "github/linguist"
+    },
+    {
+        "owner": "fastlane",
+        "name": "fastlane",
+        "url": "http://www.github.com/fastlane/fastlane",
+        "language": "Ruby",
+        "nameconcat": "fastlane/fastlane"
+    },
+    {
+        "owner": "cucumber",
+        "name": "cucumber-ruby",
+        "url": "http://www.github.com/cucumber/cucumber-ruby",
+        "language": "Ruby",
+        "nameconcat": "cucumber/cucumber-ruby"
+    },
+    {
+        "owner": "activeadmin",
+        "name": "activeadmin",
+        "url": "http://www.github.com/activeadmin/activeadmin",
+        "language": "Ruby",
+        "nameconcat": "activeadmin/activeadmin"
+    },
+    {
+        "owner": "rails",
+        "name": "rails",
+        "url": "http://www.github.com/rails/rails",
+        "language": "Ruby",
+        "nameconcat": "rails/rails"
+    },
+    {
+        "owner": "rapid7",
+        "name": "metasploit-framework",
+        "url": "http://www.github.com/rapid7/metasploit-framework",
+        "language": "Ruby",
+        "nameconcat": "rapid7/metasploit-framework"
+    },
+    {
+        "owner": "ruby",
+        "name": "ruby",
+        "url": "http://www.github.com/ruby/ruby",
+        "language": "Ruby",
+        "nameconcat": "ruby/ruby"
+    },
+    {
+        "owner": "bundler",
+        "name": "bundler",
+        "url": "http://www.github.com/bundler/bundler",
+        "language": "Ruby",
+        "nameconcat": "bundler/bundler"
+    },
+    {
+        "owner": "fog",
+        "name": "fog",
+        "url": "http://www.github.com/fog/fog",
+        "language": "Ruby",
+        "nameconcat": "fog/fog"
+    },
+    {
+        "owner": "opal",
+        "name": "opal",
+        "url": "http://www.github.com/opal/opal",
+        "language": "Ruby",
+        "nameconcat": "opal/opal"
+    },
+    {
+        "owner": "jeremyevans",
+        "name": "sequel",
+        "url": "http://www.github.com/jeremyevans/sequel",
+        "language": "Ruby",
+        "nameconcat": "jeremyevans/sequel"
+    },
+    {
+        "owner": "mongodb",
+        "name": "mongoid",
+        "url": "http://www.github.com/mongodb/mongoid",
+        "language": "Ruby",
+        "nameconcat": "mongodb/mongoid"
+    },
+    {
+        "owner": "refinery",
+        "name": "refinerycms",
+        "url": "http://www.github.com/refinery/refinerycms",
+        "language": "Ruby",
+        "nameconcat": "refinery/refinerycms"
+    },
+    {
+        "owner": "haml",
+        "name": "haml",
+        "url": "http://www.github.com/haml/haml",
+        "language": "Ruby",
+        "nameconcat": "haml/haml"
+    },
+    {
+        "owner": "jruby",
+        "name": "jruby",
+        "url": "http://www.github.com/jruby/jruby",
+        "language": "Ruby",
+        "nameconcat": "jruby/jruby"
+    },
+    {
+        "owner": "padrino",
+        "name": "padrino-framework",
+        "url": "http://www.github.com/padrino/padrino-framework",
+        "language": "Ruby",
+        "nameconcat": "padrino/padrino-framework"
+    },
+    {
+        "owner": "opf",
+        "name": "openproject",
+        "url": "http://www.github.com/opf/openproject",
+        "language": "Ruby",
+        "nameconcat": "opf/openproject"
+    },
+    {
+        "owner": "fatfreecrm",
+        "name": "fat_free_crm",
+        "url": "http://www.github.com/fatfreecrm/fat_free_crm",
+        "language": "Ruby",
+        "nameconcat": "fatfreecrm/fat_free_crm"
+    },
+    {
+        "owner": "aws",
+        "name": "aws-sdk-ruby",
+        "url": "http://www.github.com/aws/aws-sdk-ruby",
+        "language": "Ruby",
+        "nameconcat": "aws/aws-sdk-ruby"
+    },
+    {
+        "owner": "instructure",
+        "name": "canvas-lms",
+        "url": "http://www.github.com/instructure/canvas-lms",
+        "language": "Ruby",
+        "nameconcat": "instructure/canvas-lms"
+    },
+    {
+        "owner": "solidusio",
+        "name": "solidus",
+        "url": "http://www.github.com/solidusio/solidus",
+        "language": "Ruby",
+        "nameconcat": "solidusio/solidus"
+    },
+    {
+        "owner": "rubygems",
+        "name": "rubygems",
+        "url": "http://www.github.com/rubygems/rubygems",
+        "language": "Ruby",
+        "nameconcat": "rubygems/rubygems"
+    },
+    {
+        "owner": "oracle",
+        "name": "truffleruby",
+        "url": "http://www.github.com/oracle/truffleruby",
+        "language": "Ruby",
+        "nameconcat": "oracle/truffleruby"
+    },
+    {
+        "owner": "inspec",
+        "name": "inspec",
+        "url": "http://www.github.com/inspec/inspec",
+        "language": "Ruby",
+        "nameconcat": "inspec/inspec"
+    },
+    {
+        "owner": "loomio",
+        "name": "loomio",
+        "url": "http://www.github.com/loomio/loomio",
+        "language": "Ruby",
+        "nameconcat": "loomio/loomio"
+    },
+    {
+        "owner": "cloudfoundry",
+        "name": "bosh",
+        "url": "http://www.github.com/cloudfoundry/bosh",
+        "language": "Ruby",
+        "nameconcat": "cloudfoundry/bosh"
+    },
+    {
+        "owner": "rubygems",
+        "name": "rubygems.org",
+        "url": "http://www.github.com/rubygems/rubygems.org",
+        "language": "Ruby",
+        "nameconcat": "rubygems/rubygems.org"
+    },
+    {
+        "owner": "sharetribe",
+        "name": "sharetribe",
+        "url": "http://www.github.com/sharetribe/sharetribe",
+        "language": "Ruby",
+        "nameconcat": "sharetribe/sharetribe"
+    },
+    {
+        "owner": "nanoc",
+        "name": "nanoc",
+        "url": "http://www.github.com/nanoc/nanoc",
+        "language": "Ruby",
+        "nameconcat": "nanoc/nanoc"
+    },
+    {
+        "owner": "publify",
+        "name": "publify",
+        "url": "http://www.github.com/publify/publify",
+        "language": "Ruby",
+        "nameconcat": "publify/publify"
+    },
+    {
+        "owner": "citation-style-language",
+        "name": "styles",
+        "url": "http://www.github.com/citation-style-language/styles",
+        "language": "Ruby",
+        "nameconcat": "citation-style-language/styles"
+    },
+    {
+        "owner": "zammad",
+        "name": "zammad",
+        "url": "http://www.github.com/zammad/zammad",
+        "language": "Ruby",
+        "nameconcat": "zammad/zammad"
+    },
+    {
+        "owner": "theforeman",
+        "name": "foreman",
+        "url": "http://www.github.com/theforeman/foreman",
+        "language": "Ruby",
+        "nameconcat": "theforeman/foreman"
+    },
+    {
+        "owner": "illacceptanything",
+        "name": "illacceptanything",
+        "url": "http://www.github.com/illacceptanything/illacceptanything",
+        "language": "Ruby",
+        "nameconcat": "illacceptanything/illacceptanything"
+    },
+    {
+        "owner": "catarse",
+        "name": "catarse",
+        "url": "http://www.github.com/catarse/catarse",
+        "language": "Ruby",
+        "nameconcat": "catarse/catarse"
+    },
+    {
+        "owner": "Homebrew",
+        "name": "homebrew-cask-fonts",
+        "url": "http://www.github.com/Homebrew/homebrew-cask-fonts",
+        "language": "Ruby",
+        "nameconcat": "Homebrew/homebrew-cask-fonts"
+    },
+    {
+        "owner": "mongodb",
+        "name": "mongo-ruby-driver",
+        "url": "http://www.github.com/mongodb/mongo-ruby-driver",
+        "language": "Ruby",
+        "nameconcat": "mongodb/mongo-ruby-driver"
+    },
+    {
+        "owner": "zendesk",
+        "name": "samson",
+        "url": "http://www.github.com/zendesk/samson",
+        "language": "Ruby",
+        "nameconcat": "zendesk/samson"
+    },
+    {
+        "owner": "education",
+        "name": "classroom",
+        "url": "http://www.github.com/education/classroom",
+        "language": "Ruby",
+        "nameconcat": "education/classroom"
+    }]

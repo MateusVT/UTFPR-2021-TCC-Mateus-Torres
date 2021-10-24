@@ -1,0 +1,13 @@
+Total de amostras: 1063
+
+Por linguagem:
+Python 	   = 173
+Java 	   = 142
+C 		   = 118
+C++ 	   = 179
+JavaScript = 153
+C#		   = 61
+Go		   = 68
+PHP		   = 84
+Ruby	   = 54
+Typescript = 31

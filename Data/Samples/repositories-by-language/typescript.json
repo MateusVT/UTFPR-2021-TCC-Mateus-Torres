@@ -1,0 +1,219 @@
+[
+    {
+        "owner": "Foundry376",
+        "name": "Mailspring",
+        "url": "http://www.github.com/Foundry376/Mailspring",
+        "language": "TypeScript",
+        "nameconcat": "Foundry376/Mailspring"
+    },
+    {
+        "owner": "botpress",
+        "name": "botpress",
+        "url": "http://www.github.com/botpress/botpress",
+        "language": "TypeScript",
+        "nameconcat": "botpress/botpress"
+    },
+    {
+        "owner": "grafana",
+        "name": "grafana",
+        "url": "http://www.github.com/grafana/grafana",
+        "language": "TypeScript",
+        "nameconcat": "grafana/grafana"
+    },
+    {
+        "owner": "desktop",
+        "name": "desktop",
+        "url": "http://www.github.com/desktop/desktop",
+        "language": "TypeScript",
+        "nameconcat": "desktop/desktop"
+    },
+    {
+        "owner": "microsoft",
+        "name": "vscode",
+        "url": "http://www.github.com/microsoft/vscode",
+        "language": "TypeScript",
+        "nameconcat": "microsoft/vscode"
+    },
+    {
+        "owner": "storybookjs",
+        "name": "storybook",
+        "url": "http://www.github.com/storybookjs/storybook",
+        "language": "TypeScript",
+        "nameconcat": "storybookjs/storybook"
+    },
+    {
+        "owner": "ant-design",
+        "name": "ant-design",
+        "url": "http://www.github.com/ant-design/ant-design",
+        "language": "TypeScript",
+        "nameconcat": "ant-design/ant-design"
+    },
+    {
+        "owner": "angular",
+        "name": "angular",
+        "url": "http://www.github.com/angular/angular",
+        "language": "TypeScript",
+        "nameconcat": "angular/angular"
+    },
+    {
+        "owner": "ionic-team",
+        "name": "ionic",
+        "url": "http://www.github.com/ionic-team/ionic",
+        "language": "TypeScript",
+        "nameconcat": "ionic-team/ionic"
+    },
+    {
+        "owner": "DefinitelyTyped",
+        "name": "DefinitelyTyped",
+        "url": "http://www.github.com/DefinitelyTyped/DefinitelyTyped",
+        "language": "TypeScript",
+        "nameconcat": "DefinitelyTyped/DefinitelyTyped"
+    },
+    {
+        "owner": "vuetifyjs",
+        "name": "vuetify",
+        "url": "http://www.github.com/vuetifyjs/vuetify",
+        "language": "TypeScript",
+        "nameconcat": "vuetifyjs/vuetify"
+    },
+    {
+        "owner": "angular",
+        "name": "components",
+        "url": "http://www.github.com/angular/components",
+        "language": "TypeScript",
+        "nameconcat": "angular/components"
+    },
+    {
+        "owner": "NativeScript",
+        "name": "NativeScript",
+        "url": "http://www.github.com/NativeScript/NativeScript",
+        "language": "TypeScript",
+        "nameconcat": "NativeScript/NativeScript"
+    },
+    {
+        "owner": "apollographql",
+        "name": "apollo-client",
+        "url": "http://www.github.com/apollographql/apollo-client",
+        "language": "TypeScript",
+        "nameconcat": "apollographql/apollo-client"
+    },
+    {
+        "owner": "BabylonJS",
+        "name": "Babylon.js",
+        "url": "http://www.github.com/BabylonJS/Babylon.js",
+        "language": "TypeScript",
+        "nameconcat": "BabylonJS/Babylon.js"
+    },
+    {
+        "owner": "tinymce",
+        "name": "tinymce",
+        "url": "http://www.github.com/tinymce/tinymce",
+        "language": "TypeScript",
+        "nameconcat": "tinymce/tinymce"
+    },
+    {
+        "owner": "OfficeDev",
+        "name": "office-ui-fabric-react",
+        "url": "http://www.github.com/OfficeDev/office-ui-fabric-react",
+        "language": "TypeScript",
+        "nameconcat": "OfficeDev/office-ui-fabric-react"
+    },
+    {
+        "owner": "primefaces",
+        "name": "primeng",
+        "url": "http://www.github.com/primefaces/primeng",
+        "language": "TypeScript",
+        "nameconcat": "primefaces/primeng"
+    },
+    {
+        "owner": "ag-grid",
+        "name": "ag-grid",
+        "url": "http://www.github.com/ag-grid/ag-grid",
+        "language": "TypeScript",
+        "nameconcat": "ag-grid/ag-grid"
+    },
+    {
+        "owner": "microsoft",
+        "name": "TypeScript",
+        "url": "http://www.github.com/microsoft/TypeScript",
+        "language": "TypeScript",
+        "nameconcat": "microsoft/TypeScript"
+    },
+    {
+        "owner": "nteract",
+        "name": "nteract",
+        "url": "http://www.github.com/nteract/nteract",
+        "language": "TypeScript",
+        "nameconcat": "nteract/nteract"
+    },
+    {
+        "owner": "bitpay",
+        "name": "copay",
+        "url": "http://www.github.com/bitpay/copay",
+        "language": "TypeScript",
+        "nameconcat": "bitpay/copay"
+    },
+    {
+        "owner": "palantir",
+        "name": "plottable",
+        "url": "http://www.github.com/palantir/plottable",
+        "language": "TypeScript",
+        "nameconcat": "palantir/plottable"
+    },
+    {
+        "owner": "mozilla",
+        "name": "voice-web",
+        "url": "http://www.github.com/mozilla/voice-web",
+        "language": "TypeScript",
+        "nameconcat": "mozilla/voice-web"
+    },
+    {
+        "owner": "vega",
+        "name": "vega-lite",
+        "url": "http://www.github.com/vega/vega-lite",
+        "language": "TypeScript",
+        "nameconcat": "vega/vega-lite"
+    },
+    {
+        "owner": "microsoft",
+        "name": "azure-pipelines-tasks",
+        "url": "http://www.github.com/microsoft/azure-pipelines-tasks",
+        "language": "TypeScript",
+        "nameconcat": "microsoft/azure-pipelines-tasks"
+    },
+    {
+        "owner": "jupyter-widgets",
+        "name": "ipywidgets",
+        "url": "http://www.github.com/jupyter-widgets/ipywidgets",
+        "language": "TypeScript",
+        "nameconcat": "jupyter-widgets/ipywidgets"
+    },
+    {
+        "owner": "kactus-io",
+        "name": "kactus",
+        "url": "http://www.github.com/kactus-io/kactus",
+        "language": "TypeScript",
+        "nameconcat": "kactus-io/kactus"
+    },
+    {
+        "owner": "itchio",
+        "name": "itch",
+        "url": "http://www.github.com/itchio/itch",
+        "language": "TypeScript",
+        "nameconcat": "itchio/itch"
+    },
+    {
+        "owner": "0xProject",
+        "name": "0x-monorepo",
+        "url": "http://www.github.com/0xProject/0x-monorepo",
+        "language": "TypeScript",
+        "nameconcat": "0xProject/0x-monorepo"
+    },
+    {
+        "owner": "microsoft",
+        "name": "web-build-tools",
+        "url": "http://www.github.com/microsoft/web-build-tools",
+        "language": "TypeScript",
+        "nameconcat": "microsoft/web-build-tools"
+    }
+]

@@ -1,0 +1,1211 @@
+[{
+        "owner": "docker",
+        "name": "compose",
+        "url": "http://www.github.com/docker/compose",
+        "language": "Python",
+        "nameconcat": "docker/compose"
+    },
+    {
+        "owner": "apache",
+        "name": "airflow",
+        "url": "http://www.github.com/apache/airflow",
+        "language": "Python",
+        "nameconcat": "apache/airflow"
+    },
+    {
+        "owner": "wagtail",
+        "name": "wagtail",
+        "url": "http://www.github.com/wagtail/wagtail",
+        "language": "Python",
+        "nameconcat": "wagtail/wagtail"
+    },
+    {
+        "owner": "divio",
+        "name": "django-cms",
+        "url": "http://www.github.com/divio/django-cms",
+        "language": "Python",
+        "nameconcat": "divio/django-cms"
+    },
+    {
+        "owner": "readthedocs",
+        "name": "readthedocs.org",
+        "url": "http://www.github.com/readthedocs/readthedocs.org",
+        "language": "Python",
+        "nameconcat": "readthedocs/readthedocs.org"
+    },
+    {
+        "owner": "zulip",
+        "name": "zulip",
+        "url": "http://www.github.com/zulip/zulip",
+        "language": "Python",
+        "nameconcat": "zulip/zulip"
+    },
+    {
+        "owner": "mailpile",
+        "name": "Mailpile",
+        "url": "http://www.github.com/mailpile/Mailpile",
+        "language": "Python",
+        "nameconcat": "mailpile/Mailpile"
+    },
+    {
+        "owner": "mirumee",
+        "name": "saleor",
+        "url": "http://www.github.com/mirumee/saleor",
+        "language": "Python",
+        "nameconcat": "mirumee/saleor"
+    },
+    {
+        "owner": "frappe",
+        "name": "erpnext",
+        "url": "http://www.github.com/frappe/erpnext",
+        "language": "Python",
+        "nameconcat": "frappe/erpnext"
+    },
+    {
+        "owner": "ansible",
+        "name": "ansible",
+        "url": "http://www.github.com/ansible/ansible",
+        "language": "Python",
+        "nameconcat": "ansible/ansible"
+    },
+    {
+        "owner": "saltstack",
+        "name": "salt",
+        "url": "http://www.github.com/saltstack/salt",
+        "language": "Python",
+        "nameconcat": "saltstack/salt"
+    },
+    {
+        "owner": "aws",
+        "name": "aws-cli",
+        "url": "http://www.github.com/aws/aws-cli",
+        "language": "Python",
+        "nameconcat": "aws/aws-cli"
+    },
+    {
+        "owner": "ansible",
+        "name": "awx",
+        "url": "http://www.github.com/ansible/awx",
+        "language": "Python",
+        "nameconcat": "ansible/awx"
+    },
+    {
+        "owner": "RasaHQ",
+        "name": "rasa",
+        "url": "http://www.github.com/RasaHQ/rasa",
+        "language": "Python",
+        "nameconcat": "RasaHQ/rasa"
+    },
+    {
+        "owner": "samuelclay",
+        "name": "NewsBlur",
+        "url": "http://www.github.com/samuelclay/NewsBlur",
+        "language": "Python",
+        "nameconcat": "samuelclay/NewsBlur"
+    },
+    {
+        "owner": "ytdl-org",
+        "name": "youtube-dl",
+        "url": "http://www.github.com/ytdl-org/youtube-dl",
+        "language": "Python",
+        "nameconcat": "ytdl-org/youtube-dl"
+    },
+    {
+        "owner": "beetbox",
+        "name": "beets",
+        "url": "http://www.github.com/beetbox/beets",
+        "language": "Python",
+        "nameconcat": "beetbox/beets"
+    },
+    {
+        "owner": "kovidgoyal",
+        "name": "calibre",
+        "url": "http://www.github.com/kovidgoyal/calibre",
+        "language": "Python",
+        "nameconcat": "kovidgoyal/calibre"
+    },
+    {
+        "owner": "mopidy",
+        "name": "mopidy",
+        "url": "http://www.github.com/mopidy/mopidy",
+        "language": "Python",
+        "nameconcat": "mopidy/mopidy"
+    },
+    {
+        "owner": "getsentry",
+        "name": "sentry",
+        "url": "http://www.github.com/getsentry/sentry",
+        "language": "Python",
+        "nameconcat": "getsentry/sentry"
+    },
+    {
+        "owner": "getredash",
+        "name": "redash",
+        "url": "http://www.github.com/getredash/redash",
+        "language": "Python",
+        "nameconcat": "getredash/redash"
+    },
+    {
+        "owner": "pyinstaller",
+        "name": "pyinstaller",
+        "url": "http://www.github.com/pyinstaller/pyinstaller",
+        "language": "Python",
+        "nameconcat": "pyinstaller/pyinstaller"
+    },
+    {
+        "owner": "pypa",
+        "name": "pip",
+        "url": "http://www.github.com/pypa/pip",
+        "language": "Python",
+        "nameconcat": "pypa/pip"
+    },
+    {
+        "owner": "pypa",
+        "name": "pipenv",
+        "url": "http://www.github.com/pypa/pipenv",
+        "language": "Python",
+        "nameconcat": "pypa/pipenv"
+    },
+    {
+        "owner": "certbot",
+        "name": "certbot",
+        "url": "http://www.github.com/certbot/certbot",
+        "language": "Python",
+        "nameconcat": "certbot/certbot"
+    },
+    {
+        "owner": "mitmproxy",
+        "name": "mitmproxy",
+        "url": "http://www.github.com/mitmproxy/mitmproxy",
+        "language": "Python",
+        "nameconcat": "mitmproxy/mitmproxy"
+    },
+    {
+        "owner": "sqlmapproject",
+        "name": "sqlmap",
+        "url": "http://www.github.com/sqlmapproject/sqlmap",
+        "language": "Python",
+        "nameconcat": "sqlmapproject/sqlmap"
+    },
+    {
+        "owner": "ipython",
+        "name": "ipython",
+        "url": "http://www.github.com/ipython/ipython",
+        "language": "Python",
+        "nameconcat": "ipython/ipython"
+    },
+    {
+        "owner": "python",
+        "name": "cpython",
+        "url": "http://www.github.com/python/cpython",
+        "language": "Python",
+        "nameconcat": "python/cpython"
+    },
+    {
+        "owner": "python",
+        "name": "mypy",
+        "url": "http://www.github.com/python/mypy",
+        "language": "Python",
+        "nameconcat": "python/mypy"
+    },
+    {
+        "owner": "tldr-pages",
+        "name": "tldr",
+        "url": "http://www.github.com/tldr-pages/tldr",
+        "language": "Python",
+        "nameconcat": "tldr-pages/tldr"
+    },
+    {
+        "owner": "giampaolo",
+        "name": "psutil",
+        "url": "http://www.github.com/giampaolo/psutil",
+        "language": "Python",
+        "nameconcat": "giampaolo/psutil"
+    },
+    {
+        "owner": "keras-team",
+        "name": "keras",
+        "url": "http://www.github.com/keras-team/keras",
+        "language": "Python",
+        "nameconcat": "keras-team/keras"
+    },
+    {
+        "owner": "django",
+        "name": "django",
+        "url": "http://www.github.com/django/django",
+        "language": "Python",
+        "nameconcat": "django/django"
+    },
+    {
+        "owner": "psf",
+        "name": "requests",
+        "url": "http://www.github.com/psf/requests",
+        "language": "Python",
+        "nameconcat": "psf/requests"
+    },
+    {
+        "owner": "scikit-learn",
+        "name": "scikit-learn",
+        "url": "http://www.github.com/scikit-learn/scikit-learn",
+        "language": "Python",
+        "nameconcat": "scikit-learn/scikit-learn"
+    },
+    {
+        "owner": "scrapy",
+        "name": "scrapy",
+        "url": "http://www.github.com/scrapy/scrapy",
+        "language": "Python",
+        "nameconcat": "scrapy/scrapy"
+    },
+    {
+        "owner": "pandas-dev",
+        "name": "pandas",
+        "url": "http://www.github.com/pandas-dev/pandas",
+        "language": "Python",
+        "nameconcat": "pandas-dev/pandas"
+    },
+    {
+        "owner": "encode",
+        "name": "django-rest-framework",
+        "url": "http://www.github.com/encode/django-rest-framework",
+        "language": "Python",
+        "nameconcat": "encode/django-rest-framework"
+    },
+    {
+        "owner": "explosion",
+        "name": "spaCy",
+        "url": "http://www.github.com/explosion/spaCy",
+        "language": "Python",
+        "nameconcat": "explosion/spaCy"
+    },
+    {
+        "owner": "celery",
+        "name": "celery",
+        "url": "http://www.github.com/celery/celery",
+        "language": "Python",
+        "nameconcat": "celery/celery"
+    },
+    {
+        "owner": "bokeh",
+        "name": "bokeh",
+        "url": "http://www.github.com/bokeh/bokeh",
+        "language": "Python",
+        "nameconcat": "bokeh/bokeh"
+    },
+    {
+        "owner": "matplotlib",
+        "name": "matplotlib",
+        "url": "http://www.github.com/matplotlib/matplotlib",
+        "language": "Python",
+        "nameconcat": "matplotlib/matplotlib"
+    },
+    {
+        "owner": "kivy",
+        "name": "kivy",
+        "url": "http://www.github.com/kivy/kivy",
+        "language": "Python",
+        "nameconcat": "kivy/kivy"
+    },
+    {
+        "owner": "quantopian",
+        "name": "zipline",
+        "url": "http://www.github.com/quantopian/zipline",
+        "language": "Python",
+        "nameconcat": "quantopian/zipline"
+    },
+    {
+        "owner": "Theano",
+        "name": "Theano",
+        "url": "http://www.github.com/Theano/Theano",
+        "language": "Python",
+        "nameconcat": "Theano/Theano"
+    },
+    {
+        "owner": "aio-libs",
+        "name": "aiohttp",
+        "url": "http://www.github.com/aio-libs/aiohttp",
+        "language": "Python",
+        "nameconcat": "aio-libs/aiohttp"
+    },
+    {
+        "owner": "nltk",
+        "name": "nltk",
+        "url": "http://www.github.com/nltk/nltk",
+        "language": "Python",
+        "nameconcat": "nltk/nltk"
+    },
+    {
+        "owner": "python-pillow",
+        "name": "Pillow",
+        "url": "http://www.github.com/python-pillow/Pillow",
+        "language": "Python",
+        "nameconcat": "python-pillow/Pillow"
+    },
+    {
+        "owner": "boto",
+        "name": "boto",
+        "url": "http://www.github.com/boto/boto",
+        "language": "Python",
+        "nameconcat": "boto/boto"
+    },
+    {
+        "owner": "scipy",
+        "name": "scipy",
+        "url": "http://www.github.com/scipy/scipy",
+        "language": "Python",
+        "nameconcat": "scipy/scipy"
+    },
+    {
+        "owner": "sympy",
+        "name": "sympy",
+        "url": "http://www.github.com/sympy/sympy",
+        "language": "Python",
+        "nameconcat": "sympy/sympy"
+    },
+    {
+        "owner": "networkx",
+        "name": "networkx",
+        "url": "http://www.github.com/networkx/networkx",
+        "language": "Python",
+        "nameconcat": "networkx/networkx"
+    },
+    {
+        "owner": "numenta",
+        "name": "nupic",
+        "url": "http://www.github.com/numenta/nupic",
+        "language": "Python",
+        "nameconcat": "numenta/nupic"
+    },
+    {
+        "owner": "dask",
+        "name": "dask",
+        "url": "http://www.github.com/dask/dask",
+        "language": "Python",
+        "nameconcat": "dask/dask"
+    },
+    {
+        "owner": "chainer",
+        "name": "chainer",
+        "url": "http://www.github.com/chainer/chainer",
+        "language": "Python",
+        "nameconcat": "chainer/chainer"
+    },
+    {
+        "owner": "gevent",
+        "name": "gevent",
+        "url": "http://www.github.com/gevent/gevent",
+        "language": "Python",
+        "nameconcat": "gevent/gevent"
+    },
+    {
+        "owner": "qutebrowser",
+        "name": "qutebrowser",
+        "url": "http://www.github.com/qutebrowser/qutebrowser",
+        "language": "Python",
+        "nameconcat": "qutebrowser/qutebrowser"
+    },
+    {
+        "owner": "pytest-dev",
+        "name": "pytest",
+        "url": "http://www.github.com/pytest-dev/pytest",
+        "language": "Python",
+        "nameconcat": "pytest-dev/pytest"
+    },
+    {
+        "owner": "spyder-ide",
+        "name": "spyder",
+        "url": "http://www.github.com/spyder-ide/spyder",
+        "language": "Python",
+        "nameconcat": "spyder-ide/spyder"
+    },
+    {
+        "owner": "trustedsec",
+        "name": "social-engineer-toolkit",
+        "url": "http://www.github.com/trustedsec/social-engineer-toolkit",
+        "language": "Python",
+        "nameconcat": "trustedsec/social-engineer-toolkit"
+    },
+    {
+        "owner": "matrix-org",
+        "name": "synapse",
+        "url": "http://www.github.com/matrix-org/synapse",
+        "language": "Python",
+        "nameconcat": "matrix-org/synapse"
+    },
+    {
+        "owner": "edx",
+        "name": "edx-platform",
+        "url": "http://www.github.com/edx/edx-platform",
+        "language": "Python",
+        "nameconcat": "edx/edx-platform"
+    },
+    {
+        "owner": "numba",
+        "name": "numba",
+        "url": "http://www.github.com/numba/numba",
+        "language": "Python",
+        "nameconcat": "numba/numba"
+    },
+    {
+        "owner": "pymc-devs",
+        "name": "pymc3",
+        "url": "http://www.github.com/pymc-devs/pymc3",
+        "language": "Python",
+        "nameconcat": "pymc-devs/pymc3"
+    },
+    {
+        "owner": "cython",
+        "name": "cython",
+        "url": "http://www.github.com/cython/cython",
+        "language": "Python",
+        "nameconcat": "cython/cython"
+    },
+    {
+        "owner": "fail2ban",
+        "name": "fail2ban",
+        "url": "http://www.github.com/fail2ban/fail2ban",
+        "language": "Python",
+        "nameconcat": "fail2ban/fail2ban"
+    },
+    {
+        "owner": "statsmodels",
+        "name": "statsmodels",
+        "url": "http://www.github.com/statsmodels/statsmodels",
+        "language": "Python",
+        "nameconcat": "statsmodels/statsmodels"
+    },
+    {
+        "owner": "lbryio",
+        "name": "lbry-sdk",
+        "url": "http://www.github.com/lbryio/lbry-sdk",
+        "language": "Python",
+        "nameconcat": "lbryio/lbry-sdk"
+    },
+    {
+        "owner": "buildbot",
+        "name": "buildbot",
+        "url": "http://www.github.com/buildbot/buildbot",
+        "language": "Python",
+        "nameconcat": "buildbot/buildbot"
+    },
+    {
+        "owner": "davidhalter",
+        "name": "jedi",
+        "url": "http://www.github.com/davidhalter/jedi",
+        "language": "Python",
+        "nameconcat": "davidhalter/jedi"
+    },
+    {
+        "owner": "django-oscar",
+        "name": "django-oscar",
+        "url": "http://www.github.com/django-oscar/django-oscar",
+        "language": "Python",
+        "nameconcat": "django-oscar/django-oscar"
+    },
+    {
+        "owner": "stephenmcd",
+        "name": "mezzanine",
+        "url": "http://www.github.com/stephenmcd/mezzanine",
+        "language": "Python",
+        "nameconcat": "stephenmcd/mezzanine"
+    },
+    {
+        "owner": "Kinto",
+        "name": "kinto",
+        "url": "http://www.github.com/Kinto/kinto",
+        "language": "Python",
+        "nameconcat": "Kinto/kinto"
+    },
+    {
+        "owner": "OpenMined",
+        "name": "PySyft",
+        "url": "http://www.github.com/OpenMined/PySyft",
+        "language": "Python",
+        "nameconcat": "OpenMined/PySyft"
+    },
+    {
+        "owner": "angr",
+        "name": "angr",
+        "url": "http://www.github.com/angr/angr",
+        "language": "Python",
+        "nameconcat": "angr/angr"
+    },
+    {
+        "owner": "cloudera",
+        "name": "hue",
+        "url": "http://www.github.com/cloudera/hue",
+        "language": "Python",
+        "nameconcat": "cloudera/hue"
+    },
+    {
+        "owner": "HypothesisWorks",
+        "name": "hypothesis",
+        "url": "http://www.github.com/HypothesisWorks/hypothesis",
+        "language": "Python",
+        "nameconcat": "HypothesisWorks/hypothesis"
+    },
+    {
+        "owner": "robotframework",
+        "name": "robotframework",
+        "url": "http://www.github.com/robotframework/robotframework",
+        "language": "Python",
+        "nameconcat": "robotframework/robotframework"
+    },
+    {
+        "owner": "spesmilo",
+        "name": "electrum",
+        "url": "http://www.github.com/spesmilo/electrum",
+        "language": "Python",
+        "nameconcat": "spesmilo/electrum"
+    },
+    {
+        "owner": "CouchPotato",
+        "name": "CouchPotatoServer",
+        "url": "http://www.github.com/CouchPotato/CouchPotatoServer",
+        "language": "Python",
+        "nameconcat": "CouchPotato/CouchPotatoServer"
+    },
+    {
+        "owner": "twisted",
+        "name": "twisted",
+        "url": "http://www.github.com/twisted/twisted",
+        "language": "Python",
+        "nameconcat": "twisted/twisted"
+    },
+    {
+        "owner": "StackStorm",
+        "name": "st2",
+        "url": "http://www.github.com/StackStorm/st2",
+        "language": "Python",
+        "nameconcat": "StackStorm/st2"
+    },
+    {
+        "owner": "xonsh",
+        "name": "xonsh",
+        "url": "http://www.github.com/xonsh/xonsh",
+        "language": "Python",
+        "nameconcat": "xonsh/xonsh"
+    },
+    {
+        "owner": "zzzeek",
+        "name": "sqlalchemy",
+        "url": "http://www.github.com/zzzeek/sqlalchemy",
+        "language": "Python",
+        "nameconcat": "zzzeek/sqlalchemy"
+    },
+    {
+        "owner": "cupy",
+        "name": "cupy",
+        "url": "http://www.github.com/cupy/cupy",
+        "language": "Python",
+        "nameconcat": "cupy/cupy"
+    },
+    {
+        "owner": "Pylons",
+        "name": "pyramid",
+        "url": "http://www.github.com/Pylons/pyramid",
+        "language": "Python",
+        "nameconcat": "Pylons/pyramid"
+    },
+    {
+        "owner": "scikit-image",
+        "name": "scikit-image",
+        "url": "http://www.github.com/scikit-image/scikit-image",
+        "language": "Python",
+        "nameconcat": "scikit-image/scikit-image"
+    },
+    {
+        "owner": "openstack",
+        "name": "openstack",
+        "url": "http://www.github.com/openstack/openstack",
+        "language": "Python",
+        "nameconcat": "openstack/openstack"
+    },
+    {
+        "owner": "conda",
+        "name": "conda",
+        "url": "http://www.github.com/conda/conda",
+        "language": "Python",
+        "nameconcat": "conda/conda"
+    },
+    {
+        "owner": "stamparm",
+        "name": "maltrail",
+        "url": "http://www.github.com/stamparm/maltrail",
+        "language": "Python",
+        "nameconcat": "stamparm/maltrail"
+    },
+    {
+        "owner": "Tribler",
+        "name": "tribler",
+        "url": "http://www.github.com/Tribler/tribler",
+        "language": "Python",
+        "nameconcat": "Tribler/tribler"
+    },
+    {
+        "owner": "pyca",
+        "name": "cryptography",
+        "url": "http://www.github.com/pyca/cryptography",
+        "language": "Python",
+        "nameconcat": "pyca/cryptography"
+    },
+    {
+        "owner": "felixonmars",
+        "name": "dnsmasq-china-list",
+        "url": "http://www.github.com/felixonmars/dnsmasq-china-list",
+        "language": "Python",
+        "nameconcat": "felixonmars/dnsmasq-china-list"
+    },
+    {
+        "owner": "golemfactory",
+        "name": "golem",
+        "url": "http://www.github.com/golemfactory/golem",
+        "language": "Python",
+        "nameconcat": "golemfactory/golem"
+    },
+    {
+        "owner": "andresriancho",
+        "name": "w3af",
+        "url": "http://www.github.com/andresriancho/w3af",
+        "language": "Python",
+        "nameconcat": "andresriancho/w3af"
+    },
+    {
+        "owner": "sphinx-doc",
+        "name": "sphinx",
+        "url": "http://www.github.com/sphinx-doc/sphinx",
+        "language": "Python",
+        "nameconcat": "sphinx-doc/sphinx"
+    },
+    {
+        "owner": "blaze",
+        "name": "blaze",
+        "url": "http://www.github.com/blaze/blaze",
+        "language": "Python",
+        "nameconcat": "blaze/blaze"
+    },
+    {
+        "owner": "freedomofpress",
+        "name": "securedrop",
+        "url": "http://www.github.com/freedomofpress/securedrop",
+        "language": "Python",
+        "nameconcat": "freedomofpress/securedrop"
+    },
+    {
+        "owner": "googleapis",
+        "name": "google-cloud-python",
+        "url": "http://www.github.com/googleapis/google-cloud-python",
+        "language": "Python",
+        "nameconcat": "googleapis/google-cloud-python"
+    },
+    {
+        "owner": "QUANTAXIS",
+        "name": "QUANTAXIS",
+        "url": "http://www.github.com/QUANTAXIS/QUANTAXIS",
+        "language": "Python",
+        "nameconcat": "QUANTAXIS/QUANTAXIS"
+    },
+    {
+        "owner": "openstack",
+        "name": "nova",
+        "url": "http://www.github.com/openstack/nova",
+        "language": "Python",
+        "nameconcat": "openstack/nova"
+    },
+    {
+        "owner": "Yelp",
+        "name": "mrjob",
+        "url": "http://www.github.com/Yelp/mrjob",
+        "language": "Python",
+        "nameconcat": "Yelp/mrjob"
+    },
+    {
+        "owner": "lutris",
+        "name": "lutris",
+        "url": "http://www.github.com/lutris/lutris",
+        "language": "Python",
+        "nameconcat": "lutris/lutris"
+    },
+    {
+        "owner": "ckan",
+        "name": "ckan",
+        "url": "http://www.github.com/ckan/ckan",
+        "language": "Python",
+        "nameconcat": "ckan/ckan"
+    },
+    {
+        "owner": "pritunl",
+        "name": "pritunl",
+        "url": "http://www.github.com/pritunl/pritunl",
+        "language": "Python",
+        "nameconcat": "pritunl/pritunl"
+    },
+    {
+        "owner": "infobyte",
+        "name": "faraday",
+        "url": "http://www.github.com/infobyte/faraday",
+        "language": "Python",
+        "nameconcat": "infobyte/faraday"
+    },
+    {
+        "owner": "mesonbuild",
+        "name": "meson",
+        "url": "http://www.github.com/mesonbuild/meson",
+        "language": "Python",
+        "nameconcat": "mesonbuild/meson"
+    },
+    {
+        "owner": "Nuitka",
+        "name": "Nuitka",
+        "url": "http://www.github.com/Nuitka/Nuitka",
+        "language": "Python",
+        "nameconcat": "Nuitka/Nuitka"
+    },
+    {
+        "owner": "dcos",
+        "name": "dcos",
+        "url": "http://www.github.com/dcos/dcos",
+        "language": "Python",
+        "nameconcat": "dcos/dcos"
+    },
+    {
+        "owner": "astropy",
+        "name": "astropy",
+        "url": "http://www.github.com/astropy/astropy",
+        "language": "Python",
+        "nameconcat": "astropy/astropy"
+    },
+    {
+        "owner": "datawire",
+        "name": "ambassador",
+        "url": "http://www.github.com/datawire/ambassador",
+        "language": "Python",
+        "nameconcat": "datawire/ambassador"
+    },
+    {
+        "owner": "polyaxon",
+        "name": "polyaxon",
+        "url": "http://www.github.com/polyaxon/polyaxon",
+        "language": "Python",
+        "nameconcat": "polyaxon/polyaxon"
+    },
+    {
+        "owner": "vispy",
+        "name": "vispy",
+        "url": "http://www.github.com/vispy/vispy",
+        "language": "Python",
+        "nameconcat": "vispy/vispy"
+    },
+    {
+        "owner": "ianmiell",
+        "name": "shutit",
+        "url": "http://www.github.com/ianmiell/shutit",
+        "language": "Python",
+        "nameconcat": "ianmiell/shutit"
+    },
+    {
+        "owner": "awesto",
+        "name": "django-shop",
+        "url": "http://www.github.com/awesto/django-shop",
+        "language": "Python",
+        "nameconcat": "awesto/django-shop"
+    },
+    {
+        "owner": "openstack",
+        "name": "swift",
+        "url": "http://www.github.com/openstack/swift",
+        "language": "Python",
+        "nameconcat": "openstack/swift"
+    },
+    {
+        "owner": "freqtrade",
+        "name": "freqtrade",
+        "url": "http://www.github.com/freqtrade/freqtrade",
+        "language": "Python",
+        "nameconcat": "freqtrade/freqtrade"
+    },
+    {
+        "owner": "biolab",
+        "name": "orange3",
+        "url": "http://www.github.com/biolab/orange3",
+        "language": "Python",
+        "nameconcat": "biolab/orange3"
+    },
+    {
+        "owner": "biopython",
+        "name": "biopython",
+        "url": "http://www.github.com/biopython/biopython",
+        "language": "Python",
+        "nameconcat": "biopython/biopython"
+    },
+    {
+        "owner": "blockstack",
+        "name": "blockstack-core",
+        "url": "http://www.github.com/blockstack/blockstack-core",
+        "language": "Python",
+        "nameconcat": "blockstack/blockstack-core"
+    },
+    {
+        "owner": "fonttools",
+        "name": "fonttools",
+        "url": "http://www.github.com/fonttools/fonttools",
+        "language": "Python",
+        "nameconcat": "fonttools/fonttools"
+    },
+    {
+        "owner": "mozilla",
+        "name": "MozDef",
+        "url": "http://www.github.com/mozilla/MozDef",
+        "language": "Python",
+        "nameconcat": "mozilla/MozDef"
+    },
+    {
+        "owner": "cobbler",
+        "name": "cobbler",
+        "url": "http://www.github.com/cobbler/cobbler",
+        "language": "Python",
+        "nameconcat": "cobbler/cobbler"
+    },
+    {
+        "owner": "metabrainz",
+        "name": "picard",
+        "url": "http://www.github.com/metabrainz/picard",
+        "language": "Python",
+        "nameconcat": "metabrainz/picard"
+    },
+    {
+        "owner": "python",
+        "name": "peps",
+        "url": "http://www.github.com/python/peps",
+        "language": "Python",
+        "nameconcat": "python/peps"
+    },
+    {
+        "owner": "web2py",
+        "name": "web2py",
+        "url": "http://www.github.com/web2py/web2py",
+        "language": "Python",
+        "nameconcat": "web2py/web2py"
+    },
+    {
+        "owner": "SickChill",
+        "name": "SickChill",
+        "url": "http://www.github.com/SickChill/SickChill",
+        "language": "Python",
+        "nameconcat": "SickChill/SickChill"
+    },
+    {
+        "owner": "getnikola",
+        "name": "nikola",
+        "url": "http://www.github.com/getnikola/nikola",
+        "language": "Python",
+        "nameconcat": "getnikola/nikola"
+    },
+    {
+        "owner": "raiden-network",
+        "name": "raiden",
+        "url": "http://www.github.com/raiden-network/raiden",
+        "language": "Python",
+        "nameconcat": "raiden-network/raiden"
+    },
+    {
+        "owner": "fossasia",
+        "name": "open-event-server",
+        "url": "http://www.github.com/fossasia/open-event-server",
+        "language": "Python",
+        "nameconcat": "fossasia/open-event-server"
+    },
+    {
+        "owner": "openshift",
+        "name": "openshift-ansible",
+        "url": "http://www.github.com/openshift/openshift-ansible",
+        "language": "Python",
+        "nameconcat": "openshift/openshift-ansible"
+    },
+    {
+        "owner": "internetarchive",
+        "name": "openlibrary",
+        "url": "http://www.github.com/internetarchive/openlibrary",
+        "language": "Python",
+        "nameconcat": "internetarchive/openlibrary"
+    },
+    {
+        "owner": "rafalp",
+        "name": "Misago",
+        "url": "http://www.github.com/rafalp/Misago",
+        "language": "Python",
+        "nameconcat": "rafalp/Misago"
+    },
+    {
+        "owner": "pyload",
+        "name": "pyload",
+        "url": "http://www.github.com/pyload/pyload",
+        "language": "Python",
+        "nameconcat": "pyload/pyload"
+    },
+    {
+        "owner": "Ultimaker",
+        "name": "Cura",
+        "url": "http://www.github.com/Ultimaker/Cura",
+        "language": "Python",
+        "nameconcat": "Ultimaker/Cura"
+    },
+    {
+        "owner": "enigmampc",
+        "name": "catalyst",
+        "url": "http://www.github.com/enigmampc/catalyst",
+        "language": "Python",
+        "nameconcat": "enigmampc/catalyst"
+    },
+    {
+        "owner": "apache",
+        "name": "libcloud",
+        "url": "http://www.github.com/apache/libcloud",
+        "language": "Python",
+        "nameconcat": "apache/libcloud"
+    },
+    {
+        "owner": "hypothesis",
+        "name": "h",
+        "url": "http://www.github.com/hypothesis/h",
+        "language": "Python",
+        "nameconcat": "hypothesis/h"
+    },
+    {
+        "owner": "SiCKRAGE",
+        "name": "SiCKRAGE",
+        "url": "http://www.github.com/SiCKRAGE/SiCKRAGE",
+        "language": "Python",
+        "nameconcat": "SiCKRAGE/SiCKRAGE"
+    },
+    {
+        "owner": "mozilla",
+        "name": "kuma",
+        "url": "http://www.github.com/mozilla/kuma",
+        "language": "Python",
+        "nameconcat": "mozilla/kuma"
+    },
+    {
+        "owner": "WeblateOrg",
+        "name": "weblate",
+        "url": "http://www.github.com/WeblateOrg/weblate",
+        "language": "Python",
+        "nameconcat": "WeblateOrg/weblate"
+    },
+    {
+        "owner": "lxml",
+        "name": "lxml",
+        "url": "http://www.github.com/lxml/lxml",
+        "language": "Python",
+        "nameconcat": "lxml/lxml"
+    },
+    {
+        "owner": "Azure",
+        "name": "azure-cli",
+        "url": "http://www.github.com/Azure/azure-cli",
+        "language": "Python",
+        "nameconcat": "Azure/azure-cli"
+    },
+    {
+        "owner": "Yelp",
+        "name": "paasta",
+        "url": "http://www.github.com/Yelp/paasta",
+        "language": "Python",
+        "nameconcat": "Yelp/paasta"
+    },
+    {
+        "owner": "git-cola",
+        "name": "git-cola",
+        "url": "http://www.github.com/git-cola/git-cola",
+        "language": "Python",
+        "nameconcat": "git-cola/git-cola"
+    },
+    {
+        "owner": "pyviz",
+        "name": "holoviews",
+        "url": "http://www.github.com/pyviz/holoviews",
+        "language": "Python",
+        "nameconcat": "pyviz/holoviews"
+    },
+    {
+        "owner": "freenas",
+        "name": "freenas",
+        "url": "http://www.github.com/freenas/freenas",
+        "language": "Python",
+        "nameconcat": "freenas/freenas"
+    },
+    {
+        "owner": "frappe",
+        "name": "frappe",
+        "url": "http://www.github.com/frappe/frappe",
+        "language": "Python",
+        "nameconcat": "frappe/frappe"
+    },
+    {
+        "owner": "Kapeli",
+        "name": "Dash-User-Contributions",
+        "url": "http://www.github.com/Kapeli/Dash-User-Contributions",
+        "language": "Python",
+        "nameconcat": "Kapeli/Dash-User-Contributions"
+    },
+    {
+        "owner": "sabnzbd",
+        "name": "sabnzbd",
+        "url": "http://www.github.com/sabnzbd/sabnzbd",
+        "language": "Python",
+        "nameconcat": "sabnzbd/sabnzbd"
+    },
+    {
+        "owner": "mypaint",
+        "name": "mypaint",
+        "url": "http://www.github.com/mypaint/mypaint",
+        "language": "Python",
+        "nameconcat": "mypaint/mypaint"
+    },
+    {
+        "owner": "sqlalchemy",
+        "name": "sqlalchemy",
+        "url": "http://www.github.com/sqlalchemy/sqlalchemy",
+        "language": "Python",
+        "nameconcat": "sqlalchemy/sqlalchemy"
+    },
+    {
+        "owner": "reviewboard",
+        "name": "reviewboard",
+        "url": "http://www.github.com/reviewboard/reviewboard",
+        "language": "Python",
+        "nameconcat": "reviewboard/reviewboard"
+    },
+    {
+        "owner": "hyperledger",
+        "name": "sawtooth-core",
+        "url": "http://www.github.com/hyperledger/sawtooth-core",
+        "language": "Python",
+        "nameconcat": "hyperledger/sawtooth-core"
+    },
+    {
+        "owner": "translate",
+        "name": "pootle",
+        "url": "http://www.github.com/translate/pootle",
+        "language": "Python",
+        "nameconcat": "translate/pootle"
+    },
+    {
+        "owner": "pantsbuild",
+        "name": "pants",
+        "url": "http://www.github.com/pantsbuild/pants",
+        "language": "Python",
+        "nameconcat": "pantsbuild/pants"
+    },
+    {
+        "owner": "spack",
+        "name": "spack",
+        "url": "http://www.github.com/spack/spack",
+        "language": "Python",
+        "nameconcat": "spack/spack"
+    },
+    {
+        "owner": "wbond",
+        "name": "package_control_channel",
+        "url": "http://www.github.com/wbond/package_control_channel",
+        "language": "Python",
+        "nameconcat": "wbond/package_control_channel"
+    },
+    {
+        "owner": "DataDog",
+        "name": "dd-agent",
+        "url": "http://www.github.com/DataDog/dd-agent",
+        "language": "Python",
+        "nameconcat": "DataDog/dd-agent"
+    },
+    {
+        "owner": "openstack",
+        "name": "horizon",
+        "url": "http://www.github.com/openstack/horizon",
+        "language": "Python",
+        "nameconcat": "openstack/horizon"
+    },
+    {
+        "owner": "Komodo",
+        "name": "KomodoEdit",
+        "url": "http://www.github.com/Komodo/KomodoEdit",
+        "language": "Python",
+        "nameconcat": "Komodo/KomodoEdit"
+    },
+    {
+        "owner": "PrefectHQ",
+        "name": "prefect",
+        "url": "http://www.github.com/PrefectHQ/prefect",
+        "language": "Python",
+        "nameconcat": "PrefectHQ/prefect"
+    },
+    {
+        "owner": "openstack",
+        "name": "openstack-ansible",
+        "url": "http://www.github.com/openstack/openstack-ansible",
+        "language": "Python",
+        "nameconcat": "openstack/openstack-ansible"
+    },
+    {
+        "owner": "SheffieldML",
+        "name": "GPy",
+        "url": "http://www.github.com/SheffieldML/GPy",
+        "language": "Python",
+        "nameconcat": "SheffieldML/GPy"
+    },
+    {
+        "owner": "openstack",
+        "name": "neutron",
+        "url": "http://www.github.com/openstack/neutron",
+        "language": "Python",
+        "nameconcat": "openstack/neutron"
+    },
+    {
+        "owner": "naparuba",
+        "name": "shinken",
+        "url": "http://www.github.com/naparuba/shinken",
+        "language": "Python",
+        "nameconcat": "naparuba/shinken"
+    },
+    {
+        "owner": "oppia",
+        "name": "oppia",
+        "url": "http://www.github.com/oppia/oppia",
+        "language": "Python",
+        "nameconcat": "oppia/oppia"
+    },
+    {
+        "owner": "datastax",
+        "name": "python-driver",
+        "url": "http://www.github.com/datastax/python-driver",
+        "language": "Python",
+        "nameconcat": "datastax/python-driver"
+    },
+    {
+        "owner": "Flexget",
+        "name": "Flexget",
+        "url": "http://www.github.com/Flexget/Flexget",
+        "language": "Python",
+        "nameconcat": "Flexget/Flexget"
+    },
+    {
+        "owner": "unknown-horizons",
+        "name": "unknown-horizons",
+        "url": "http://www.github.com/unknown-horizons/unknown-horizons",
+        "language": "Python",
+        "nameconcat": "unknown-horizons/unknown-horizons"
+    },
+    {
+        "owner": "emeryberger",
+        "name": "CSrankings",
+        "url": "http://www.github.com/emeryberger/CSrankings",
+        "language": "Python",
+        "nameconcat": "emeryberger/CSrankings"
+    },
+    {
+        "owner": "sagemath",
+        "name": "sage",
+        "url": "http://www.github.com/sagemath/sage",
+        "language": "Python",
+        "nameconcat": "sagemath/sage"
+    }]

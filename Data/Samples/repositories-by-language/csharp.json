@@ -1,0 +1,429 @@
+[
+    {
+        "owner": "OpenRA",
+        "name": "OpenRA",
+        "url": "http://www.github.com/OpenRA/OpenRA",
+        "language": "C#",
+        "nameconcat": "OpenRA/OpenRA"
+    },
+    {
+        "owner": "ShareX",
+        "name": "ShareX",
+        "url": "http://www.github.com/ShareX/ShareX",
+        "language": "C#",
+        "nameconcat": "ShareX/ShareX"
+    },
+    {
+        "owner": "PowerShell",
+        "name": "PowerShell",
+        "url": "http://www.github.com/PowerShell/PowerShell",
+        "language": "C#",
+        "nameconcat": "PowerShell/PowerShell"
+    },
+    {
+        "owner": "icsharpcode",
+        "name": "ILSpy",
+        "url": "http://www.github.com/icsharpcode/ILSpy",
+        "language": "C#",
+        "nameconcat": "icsharpcode/ILSpy"
+    },
+    {
+        "owner": "dotnet",
+        "name": "coreclr",
+        "url": "http://www.github.com/dotnet/coreclr",
+        "language": "C#",
+        "nameconcat": "dotnet/coreclr"
+    },
+    {
+        "owner": "dotnet",
+        "name": "roslyn",
+        "url": "http://www.github.com/dotnet/roslyn",
+        "language": "C#",
+        "nameconcat": "dotnet/roslyn"
+    },
+    {
+        "owner": "aspnet",
+        "name": "AspNetCore.Docs",
+        "url": "http://www.github.com/aspnet/AspNetCore.Docs",
+        "language": "C#",
+        "nameconcat": "aspnet/AspNetCore.Docs"
+    },
+    {
+        "owner": "dotnet",
+        "name": "corefx",
+        "url": "http://www.github.com/dotnet/corefx",
+        "language": "C#",
+        "nameconcat": "dotnet/corefx"
+    },
+    {
+        "owner": "aspnet",
+        "name": "AspNetCore",
+        "url": "http://www.github.com/aspnet/AspNetCore",
+        "language": "C#",
+        "nameconcat": "aspnet/AspNetCore"
+    },
+    {
+        "owner": "mono",
+        "name": "mono",
+        "url": "http://www.github.com/mono/mono",
+        "language": "C#",
+        "nameconcat": "mono/mono"
+    },
+    {
+        "owner": "aspnetboilerplate",
+        "name": "aspnetboilerplate",
+        "url": "http://www.github.com/aspnetboilerplate/aspnetboilerplate",
+        "language": "C#",
+        "nameconcat": "aspnetboilerplate/aspnetboilerplate"
+    },
+    {
+        "owner": "AvaloniaUI",
+        "name": "Avalonia",
+        "url": "http://www.github.com/AvaloniaUI/Avalonia",
+        "language": "C#",
+        "nameconcat": "AvaloniaUI/Avalonia"
+    },
+    {
+        "owner": "NancyFx",
+        "name": "Nancy",
+        "url": "http://www.github.com/NancyFx/Nancy",
+        "language": "C#",
+        "nameconcat": "NancyFx/Nancy"
+    },
+    {
+        "owner": "MahApps",
+        "name": "MahApps.Metro",
+        "url": "http://www.github.com/MahApps/MahApps.Metro",
+        "language": "C#",
+        "nameconcat": "MahApps/MahApps.Metro"
+    },
+    {
+        "owner": "cefsharp",
+        "name": "CefSharp",
+        "url": "http://www.github.com/cefsharp/CefSharp",
+        "language": "C#",
+        "nameconcat": "cefsharp/CefSharp"
+    },
+    {
+        "owner": "MonoGame",
+        "name": "MonoGame",
+        "url": "http://www.github.com/MonoGame/MonoGame",
+        "language": "C#",
+        "nameconcat": "MonoGame/MonoGame"
+    },
+    {
+        "owner": "JeffreySu",
+        "name": "WeiXinMPSDK",
+        "url": "http://www.github.com/JeffreySu/WeiXinMPSDK",
+        "language": "C#",
+        "nameconcat": "JeffreySu/WeiXinMPSDK"
+    },
+    {
+        "owner": "ServiceStack",
+        "name": "ServiceStack",
+        "url": "http://www.github.com/ServiceStack/ServiceStack",
+        "language": "C#",
+        "nameconcat": "ServiceStack/ServiceStack"
+    },
+    {
+        "owner": "Sonarr",
+        "name": "Sonarr",
+        "url": "http://www.github.com/Sonarr/Sonarr",
+        "language": "C#",
+        "nameconcat": "Sonarr/Sonarr"
+    },
+    {
+        "owner": "JustArchiNET",
+        "name": "ArchiSteamFarm",
+        "url": "http://www.github.com/JustArchiNET/ArchiSteamFarm",
+        "language": "C#",
+        "nameconcat": "JustArchiNET/ArchiSteamFarm"
+    },
+    {
+        "owner": "duplicati",
+        "name": "duplicati",
+        "url": "http://www.github.com/duplicati/duplicati",
+        "language": "C#",
+        "nameconcat": "duplicati/duplicati"
+    },
+    {
+        "owner": "gitextensions",
+        "name": "gitextensions",
+        "url": "http://www.github.com/gitextensions/gitextensions",
+        "language": "C#",
+        "nameconcat": "gitextensions/gitextensions"
+    },
+    {
+        "owner": "NLog",
+        "name": "NLog",
+        "url": "http://www.github.com/NLog/NLog",
+        "language": "C#",
+        "nameconcat": "NLog/NLog"
+    },
+    {
+        "owner": "nopSolutions",
+        "name": "nopCommerce",
+        "url": "http://www.github.com/nopSolutions/nopCommerce",
+        "language": "C#",
+        "nameconcat": "nopSolutions/nopCommerce"
+    },
+    {
+        "owner": "jellyfin",
+        "name": "jellyfin",
+        "url": "http://www.github.com/jellyfin/jellyfin",
+        "language": "C#",
+        "nameconcat": "jellyfin/jellyfin"
+    },
+    {
+        "owner": "EventStore",
+        "name": "EventStore",
+        "url": "http://www.github.com/EventStore/EventStore",
+        "language": "C#",
+        "nameconcat": "EventStore/EventStore"
+    },
+    {
+        "owner": "ppy",
+        "name": "osu",
+        "url": "http://www.github.com/ppy/osu",
+        "language": "C#",
+        "nameconcat": "ppy/osu"
+    },
+    {
+        "owner": "dotnet",
+        "name": "cli",
+        "url": "http://www.github.com/dotnet/cli",
+        "language": "C#",
+        "nameconcat": "dotnet/cli"
+    },
+    {
+        "owner": "akkadotnet",
+        "name": "akka.net",
+        "url": "http://www.github.com/akkadotnet/akka.net",
+        "language": "C#",
+        "nameconcat": "akkadotnet/akka.net"
+    },
+    {
+        "owner": "SixLabors",
+        "name": "ImageSharp",
+        "url": "http://www.github.com/SixLabors/ImageSharp",
+        "language": "C#",
+        "nameconcat": "SixLabors/ImageSharp"
+    },
+    {
+        "owner": "Radarr",
+        "name": "Radarr",
+        "url": "http://www.github.com/Radarr/Radarr",
+        "language": "C#",
+        "nameconcat": "Radarr/Radarr"
+    },
+    {
+        "owner": "MvvmCross",
+        "name": "MvvmCross",
+        "url": "http://www.github.com/MvvmCross/MvvmCross",
+        "language": "C#",
+        "nameconcat": "MvvmCross/MvvmCross"
+    },
+    {
+        "owner": "microsoft",
+        "name": "MixedRealityToolkit-Unity",
+        "url": "http://www.github.com/microsoft/MixedRealityToolkit-Unity",
+        "language": "C#",
+        "nameconcat": "microsoft/MixedRealityToolkit-Unity"
+    },
+    {
+        "owner": "VsVim",
+        "name": "VsVim",
+        "url": "http://www.github.com/VsVim/VsVim",
+        "language": "C#",
+        "nameconcat": "VsVim/VsVim"
+    },
+    {
+        "owner": "QuantConnect",
+        "name": "Lean",
+        "url": "http://www.github.com/QuantConnect/Lean",
+        "language": "C#",
+        "nameconcat": "QuantConnect/Lean"
+    },
+    {
+        "owner": "AngleSharp",
+        "name": "AngleSharp",
+        "url": "http://www.github.com/AngleSharp/AngleSharp",
+        "language": "C#",
+        "nameconcat": "AngleSharp/AngleSharp"
+    },
+    {
+        "owner": "umbraco",
+        "name": "Umbraco-CMS",
+        "url": "http://www.github.com/umbraco/Umbraco-CMS",
+        "language": "C#",
+        "nameconcat": "umbraco/Umbraco-CMS"
+    },
+    {
+        "owner": "elastic",
+        "name": "elasticsearch-net",
+        "url": "http://www.github.com/elastic/elasticsearch-net",
+        "language": "C#",
+        "nameconcat": "elastic/elasticsearch-net"
+    },
+    {
+        "owner": "mono",
+        "name": "monodevelop",
+        "url": "http://www.github.com/mono/monodevelop",
+        "language": "C#",
+        "nameconcat": "mono/monodevelop"
+    },
+    {
+        "owner": "dotnet",
+        "name": "corert",
+        "url": "http://www.github.com/dotnet/corert",
+        "language": "C#",
+        "nameconcat": "dotnet/corert"
+    },
+    {
+        "owner": "ravendb",
+        "name": "ravendb",
+        "url": "http://www.github.com/ravendb/ravendb",
+        "language": "C#",
+        "nameconcat": "ravendb/ravendb"
+    },
+    {
+        "owner": "microsoft",
+        "name": "PTVS",
+        "url": "http://www.github.com/microsoft/PTVS",
+        "language": "C#",
+        "nameconcat": "microsoft/PTVS"
+    },
+    {
+        "owner": "StockSharp",
+        "name": "StockSharp",
+        "url": "http://www.github.com/StockSharp/StockSharp",
+        "language": "C#",
+        "nameconcat": "StockSharp/StockSharp"
+    },
+    {
+        "owner": "abpframework",
+        "name": "abp",
+        "url": "http://www.github.com/abpframework/abp",
+        "language": "C#",
+        "nameconcat": "abpframework/abp"
+    },
+    {
+        "owner": "bridgedotnet",
+        "name": "Bridge",
+        "url": "http://www.github.com/bridgedotnet/Bridge",
+        "language": "C#",
+        "nameconcat": "bridgedotnet/Bridge"
+    },
+    {
+        "owner": "CosmosOS",
+        "name": "Cosmos",
+        "url": "http://www.github.com/CosmosOS/Cosmos",
+        "language": "C#",
+        "nameconcat": "CosmosOS/Cosmos"
+    },
+    {
+        "owner": "nunit",
+        "name": "nunit",
+        "url": "http://www.github.com/nunit/nunit",
+        "language": "C#",
+        "nameconcat": "nunit/nunit"
+    },
+    {
+        "owner": "SubtitleEdit",
+        "name": "subtitleedit",
+        "url": "http://www.github.com/SubtitleEdit/subtitleedit",
+        "language": "C#",
+        "nameconcat": "SubtitleEdit/subtitleedit"
+    },
+    {
+        "owner": "xamarin",
+        "name": "xamarin-macios",
+        "url": "http://www.github.com/xamarin/xamarin-macios",
+        "language": "C#",
+        "nameconcat": "xamarin/xamarin-macios"
+    },
+    {
+        "owner": "nhibernate",
+        "name": "nhibernate-core",
+        "url": "http://www.github.com/nhibernate/nhibernate-core",
+        "language": "C#",
+        "nameconcat": "nhibernate/nhibernate-core"
+    },
+    {
+        "owner": "github",
+        "name": "VisualStudio",
+        "url": "http://www.github.com/github/VisualStudio",
+        "language": "C#",
+        "nameconcat": "github/VisualStudio"
+    },
+    {
+        "owner": "Azure",
+        "name": "azure-powershell",
+        "url": "http://www.github.com/Azure/azure-powershell",
+        "language": "C#",
+        "nameconcat": "Azure/azure-powershell"
+    },
+    {
+        "owner": "Particular",
+        "name": "NServiceBus",
+        "url": "http://www.github.com/Particular/NServiceBus",
+        "language": "C#",
+        "nameconcat": "Particular/NServiceBus"
+    },
+    {
+        "owner": "github-for-unity",
+        "name": "Unity",
+        "url": "http://www.github.com/github-for-unity/Unity",
+        "language": "C#",
+        "nameconcat": "github-for-unity/Unity"
+    },
+    {
+        "owner": "Azure",
+        "name": "azure-sdk-for-net",
+        "url": "http://www.github.com/Azure/azure-sdk-for-net",
+        "language": "C#",
+        "nameconcat": "Azure/azure-sdk-for-net"
+    },
+    {
+        "owner": "opentk",
+        "name": "opentk",
+        "url": "http://www.github.com/opentk/opentk",
+        "language": "C#",
+        "nameconcat": "opentk/opentk"
+    },
+    {
+        "owner": "aws",
+        "name": "aws-sdk-net",
+        "url": "http://www.github.com/aws/aws-sdk-net",
+        "language": "C#",
+        "nameconcat": "aws/aws-sdk-net"
+    },
+    {
+        "owner": "NuGet",
+        "name": "NuGetGallery",
+        "url": "http://www.github.com/NuGet/NuGetGallery",
+        "language": "C#",
+        "nameconcat": "NuGet/NuGetGallery"
+    },
+    {
+        "owner": "lidarr",
+        "name": "Lidarr",
+        "url": "http://www.github.com/lidarr/Lidarr",
+        "language": "C#",
+        "nameconcat": "lidarr/Lidarr"
+    },
+    {
+        "owner": "castleproject",
+        "name": "Windsor",
+        "url": "http://www.github.com/castleproject/Windsor",
+        "language": "C#",
+        "nameconcat": "castleproject/Windsor"
+    },
+    {
+        "owner": "aspnet",
+        "name": "Extensions",
+        "url": "http://www.github.com/aspnet/Extensions",
+        "language": "C#",
+        "nameconcat": "aspnet/Extensions"
+    }
+]
