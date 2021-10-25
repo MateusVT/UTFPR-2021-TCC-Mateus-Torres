@@ -50,12 +50,15 @@ def getRepData(filePath):
         nSubs = reader['subscribers']
         labels = False
 
-        if reader['has_newcomer_labels']:
-            try:
-                if len(reader['weekly_distribuition_before']) > 5 and len(reader['weekly_distribuition_after']) != 5:#Condicional para identificar projetos com dados insuficientes para comparação
-                    labels=True
-            except(KeyError):
-                pass
+        # if reader['has_newcomer_labels']:
+        #     try:
+        #         if len(reader['weekly_distribuition_before']) > 5 and len(reader['weekly_distribuition_after']) > 5:#Condicional para identificar projetos com dados insuficientes para comparação
+        #             labels=True
+        #         else:
+        #             print(owner,repName)
+        #     except(KeyError):
+        #         print(owner,repName)
+        #         pass
 
     return (owner, repName, language, cDate, wd, lenWD, lenFC, nStars, nSubs, labels)
 
@@ -80,6 +83,7 @@ def getPrePostData(filePath):
 
         except(KeyError):                            
             print('ERROR: No pre/post data available.') # Caso dê algum problema na leitura dos dados
+            print(owner,repName)
             pass
     
     return(label ,dataTreatment, dataControl, discard)
@@ -178,9 +182,9 @@ files = [ file for file in glob(os.path.join(DATA_DIR, '*/*.json'))]
 
 
 # Coleta e armazena todos os dados
-dataLabel = {} # Todos repositórios
+dataLabel = {} # Repositórios com rótulo para novato
 dataNoLabel = {} # Repositórios sem rótulo para novato
-dataAll = {} # Repositórios com rótulo para novato
+dataAll = {} # Todos repositórios
 
 for file in files:
     owner, repName, language, cDate, wd, nWD, nFC, nStars, nSubs, labels = getRepData(file)
@@ -306,7 +310,8 @@ p6 = Process(target=generateDataCompLanguages, args=(dataAll,))
 p7 = Process(target=generateLanguageSummary, args=(dataAll,))
 
 # Para não rodar um dos processos acima basta remove-la da lista 'exec_list'
-exec_list = [p1, p2, p3, p4, p5, p6, p7]
+exec_list = [p7]
+#exec_list = [p1, p2, p3, p4, p5, p6, p7]
 
 # Para economizar recurso, utilizar multiproc=False (mais lento)
 def main(proc_list, multiproc=True):
