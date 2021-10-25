@@ -10,5 +10,7 @@
         "Help-Wanted",
         "state: help wanted (PR)",
         "status/help-wanted",
-        "status: help wanted"
+        "status: help wanted",
+        "Type: help-wanted",
+        "type/help-wanted"
     ]

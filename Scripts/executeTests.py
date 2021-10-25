@@ -52,7 +52,7 @@ def getRepData(filePath):
 
         if reader['has_newcomer_labels']:
             try:
-                if len(reader['weekly_distribuition_before']) > 5 and len(reader['weekly_distribuition_after']) != 5:
+                if len(reader['weekly_distribuition_before']) > 5 and len(reader['weekly_distribuition_after']) != 5:#Condicional para identificar projetos com dados insuficientes para comparação
                     labels=True
             except(KeyError):
                 pass
@@ -327,7 +327,8 @@ if __name__ == '__main__':
     print("---Execution time: %s seconds ---" % (time.time() - start_time))
 
 #Execução
-#Python 3
+#./executeTests.py <diretório-dos-json>
+
 #Pré-requisitos 
+#Python 3
 #Bibliotecas rpy2 e numpy instaladas.
-#./getAllData.py <diretório-dos-json>

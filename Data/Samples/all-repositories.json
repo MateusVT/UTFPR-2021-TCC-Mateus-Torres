@@ -294,25 +294,11 @@
         "nameconcat": "Homebrew/brew"
     },
     {
-        "owner": "Homebrew",
-        "name": "homebrew-cask",
-        "url": "http://www.github.com/Homebrew/homebrew-cask",
-        "language": "Ruby",
-        "nameconcat": "Homebrew/homebrew-cask"
-    },
-    {
         "owner": "CocoaPods",
         "name": "CocoaPods",
         "url": "http://www.github.com/CocoaPods/CocoaPods",
         "language": "Ruby",
         "nameconcat": "CocoaPods/CocoaPods"
-    },
-    {
-        "owner": "Homebrew",
-        "name": "homebrew-core",
-        "url": "http://www.github.com/Homebrew/homebrew-core",
-        "language": "Ruby",
-        "nameconcat": "Homebrew/homebrew-core"
     },
     {
         "owner": "rubocop-hq",
