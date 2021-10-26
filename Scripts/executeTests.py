@@ -219,6 +219,8 @@ def generateDataWithVsWithoutLabel(data_treatment, data_control, outName='result
     with open(outName, 'w') as outFile:
         outFile.write("p-value,identical,delta,eff_size,summary(treatment),treatment_size,summary(control),control_size\n")
         outFile.write("{},{},{},{},{},{},{},{}\n".format(pvalue, identical, d_est, eff_size, summarize(vec_treatment), len(vec_treatment), summarize(vec_control), len(vec_control)))
+        outFile.write("treatment={}\n".format(vec_treatment))
+        outFile.write("control={}".format(vec_control))
 
 
 ### Executa os testes nos projetos antes e depois da utilização da label e gera o CSV dos resultados
@@ -319,8 +321,8 @@ p6 = Process(target=generateDataCompLanguages, args=(data_all,))
 p7 = Process(target=generateLanguageSummary, args=(data_all,))
 
 # Para não rodar um dos processos acima basta remove-la da lista 'exec_list'
-#exec_list = [p7]
-exec_list = [p1, p2, p3, p4, p5, p6, p7]
+exec_list = [p2]
+#exec_list = [p1, p2, p3, p4, p5, p6, p7]
 
 # Para economizar recurso, utilizar multiproc=False (mais lento)
 def main(proc_list, multiproc=True):
