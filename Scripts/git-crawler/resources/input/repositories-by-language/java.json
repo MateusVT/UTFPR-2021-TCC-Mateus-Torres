@@ -1,0 +1,994 @@
+[{
+        "owner": "apache",
+        "name": "hadoop",
+        "url": "http://www.github.com/apache/hadoop",
+        "language": "Java",
+        "nameconcat": "apache/hadoop"
+    },
+    {
+        "owner": "apache",
+        "name": "storm",
+        "url": "http://www.github.com/apache/storm",
+        "language": "Java",
+        "nameconcat": "apache/storm"
+    },
+    {
+        "owner": "apache",
+        "name": "kafka",
+        "url": "http://www.github.com/apache/kafka",
+        "language": "Java",
+        "nameconcat": "apache/kafka"
+    },
+    {
+        "owner": "apache",
+        "name": "skywalking",
+        "url": "http://www.github.com/apache/skywalking",
+        "language": "Java",
+        "nameconcat": "apache/skywalking"
+    },
+    {
+        "owner": "naver",
+        "name": "pinpoint",
+        "url": "http://www.github.com/naver/pinpoint",
+        "language": "Java",
+        "nameconcat": "naver/pinpoint"
+    },
+    {
+        "owner": "arduino",
+        "name": "Arduino",
+        "url": "http://www.github.com/arduino/Arduino",
+        "language": "Java",
+        "nameconcat": "arduino/Arduino"
+    },
+    {
+        "owner": "bazelbuild",
+        "name": "bazel",
+        "url": "http://www.github.com/bazelbuild/bazel",
+        "language": "Java",
+        "nameconcat": "bazelbuild/bazel"
+    },
+    {
+        "owner": "facebook",
+        "name": "buck",
+        "url": "http://www.github.com/facebook/buck",
+        "language": "Java",
+        "nameconcat": "facebook/buck"
+    },
+    {
+        "owner": "jenkinsci",
+        "name": "jenkins",
+        "url": "http://www.github.com/jenkinsci/jenkins",
+        "language": "Java",
+        "nameconcat": "jenkinsci/jenkins"
+    },
+    {
+        "owner": "gocd",
+        "name": "gocd",
+        "url": "http://www.github.com/gocd/gocd",
+        "language": "Java",
+        "nameconcat": "gocd/gocd"
+    },
+    {
+        "owner": "zaproxy",
+        "name": "zaproxy",
+        "url": "http://www.github.com/zaproxy/zaproxy",
+        "language": "Java",
+        "nameconcat": "zaproxy/zaproxy"
+    },
+    {
+        "owner": "eclipse",
+        "name": "che",
+        "url": "http://www.github.com/eclipse/che",
+        "language": "Java",
+        "nameconcat": "eclipse/che"
+    },
+    {
+        "owner": "JetBrains",
+        "name": "intellij-community",
+        "url": "http://www.github.com/JetBrains/intellij-community",
+        "language": "Java",
+        "nameconcat": "JetBrains/intellij-community"
+    },
+    {
+        "owner": "dbeaver",
+        "name": "dbeaver",
+        "url": "http://www.github.com/dbeaver/dbeaver",
+        "language": "Java",
+        "nameconcat": "dbeaver/dbeaver"
+    },
+    {
+        "owner": "elastic",
+        "name": "elasticsearch",
+        "url": "http://www.github.com/elastic/elasticsearch",
+        "language": "Java",
+        "nameconcat": "elastic/elasticsearch"
+    },
+    {
+        "owner": "alibaba",
+        "name": "druid",
+        "url": "http://www.github.com/alibaba/druid",
+        "language": "Java",
+        "nameconcat": "alibaba/druid"
+    },
+    {
+        "owner": "realm",
+        "name": "realm-java",
+        "url": "http://www.github.com/realm/realm-java",
+        "language": "Java",
+        "nameconcat": "realm/realm-java"
+    },
+    {
+        "owner": "redisson",
+        "name": "redisson",
+        "url": "http://www.github.com/redisson/redisson",
+        "language": "Java",
+        "nameconcat": "redisson/redisson"
+    },
+    {
+        "owner": "prestodb",
+        "name": "presto",
+        "url": "http://www.github.com/prestodb/presto",
+        "language": "Java",
+        "nameconcat": "prestodb/presto"
+    },
+    {
+        "owner": "apache",
+        "name": "incubator-shardingsphere",
+        "url": "http://www.github.com/apache/incubator-shardingsphere",
+        "language": "Java",
+        "nameconcat": "apache/incubator-shardingsphere"
+    },
+    {
+        "owner": "apache",
+        "name": "incubator-druid",
+        "url": "http://www.github.com/apache/incubator-druid",
+        "language": "Java",
+        "nameconcat": "apache/incubator-druid"
+    },
+    {
+        "owner": "neo4j",
+        "name": "neo4j",
+        "url": "http://www.github.com/neo4j/neo4j",
+        "language": "Java",
+        "nameconcat": "neo4j/neo4j"
+    },
+    {
+        "owner": "apache",
+        "name": "cassandra",
+        "url": "http://www.github.com/apache/cassandra",
+        "language": "Java",
+        "nameconcat": "apache/cassandra"
+    },
+    {
+        "owner": "eugenp",
+        "name": "tutorials",
+        "url": "http://www.github.com/eugenp/tutorials",
+        "language": "Java",
+        "nameconcat": "eugenp/tutorials"
+    },
+    {
+        "owner": "spring-projects",
+        "name": "spring-boot",
+        "url": "http://www.github.com/spring-projects/spring-boot",
+        "language": "Java",
+        "nameconcat": "spring-projects/spring-boot"
+    },
+    {
+        "owner": "ReactiveX",
+        "name": "RxJava",
+        "url": "http://www.github.com/ReactiveX/RxJava",
+        "language": "Java",
+        "nameconcat": "ReactiveX/RxJava"
+    },
+    {
+        "owner": "google",
+        "name": "guava",
+        "url": "http://www.github.com/google/guava",
+        "language": "Java",
+        "nameconcat": "google/guava"
+    },
+    {
+        "owner": "spring-projects",
+        "name": "spring-framework",
+        "url": "http://www.github.com/spring-projects/spring-framework",
+        "language": "Java",
+        "nameconcat": "spring-projects/spring-framework"
+    },
+    {
+        "owner": "netty",
+        "name": "netty",
+        "url": "http://www.github.com/netty/netty",
+        "language": "Java",
+        "nameconcat": "netty/netty"
+    },
+    {
+        "owner": "libgdx",
+        "name": "libgdx",
+        "url": "http://www.github.com/libgdx/libgdx",
+        "language": "Java",
+        "nameconcat": "libgdx/libgdx"
+    },
+    {
+        "owner": "SeleniumHQ",
+        "name": "selenium",
+        "url": "http://www.github.com/SeleniumHQ/selenium",
+        "language": "Java",
+        "nameconcat": "SeleniumHQ/selenium"
+    },
+    {
+        "owner": "google",
+        "name": "ExoPlayer",
+        "url": "http://www.github.com/google/ExoPlayer",
+        "language": "Java",
+        "nameconcat": "google/ExoPlayer"
+    },
+    {
+        "owner": "oracle",
+        "name": "graal",
+        "url": "http://www.github.com/oracle/graal",
+        "language": "Java",
+        "nameconcat": "oracle/graal"
+    },
+    {
+        "owner": "apache",
+        "name": "flink",
+        "url": "http://www.github.com/apache/flink",
+        "language": "Java",
+        "nameconcat": "apache/flink"
+    },
+    {
+        "owner": "mockito",
+        "name": "mockito",
+        "url": "http://www.github.com/mockito/mockito",
+        "language": "Java",
+        "nameconcat": "mockito/mockito"
+    },
+    {
+        "owner": "dropwizard",
+        "name": "dropwizard",
+        "url": "http://www.github.com/dropwizard/dropwizard",
+        "language": "Java",
+        "nameconcat": "dropwizard/dropwizard"
+    },
+    {
+        "owner": "stanfordnlp",
+        "name": "CoreNLP",
+        "url": "http://www.github.com/stanfordnlp/CoreNLP",
+        "language": "Java",
+        "nameconcat": "stanfordnlp/CoreNLP"
+    },
+    {
+        "owner": "apereo",
+        "name": "cas",
+        "url": "http://www.github.com/apereo/cas",
+        "language": "Java",
+        "nameconcat": "apereo/cas"
+    },
+    {
+        "owner": "antlr",
+        "name": "antlr4",
+        "url": "http://www.github.com/antlr/antlr4",
+        "language": "Java",
+        "nameconcat": "antlr/antlr4"
+    },
+    {
+        "owner": "facebook",
+        "name": "litho",
+        "url": "http://www.github.com/facebook/litho",
+        "language": "Java",
+        "nameconcat": "facebook/litho"
+    },
+    {
+        "owner": "dianping",
+        "name": "cat",
+        "url": "http://www.github.com/dianping/cat",
+        "language": "Java",
+        "nameconcat": "dianping/cat"
+    },
+    {
+        "owner": "Graylog2",
+        "name": "graylog2-server",
+        "url": "http://www.github.com/Graylog2/graylog2-server",
+        "language": "Java",
+        "nameconcat": "Graylog2/graylog2-server"
+    },
+    {
+        "owner": "checkstyle",
+        "name": "checkstyle",
+        "url": "http://www.github.com/checkstyle/checkstyle",
+        "language": "Java",
+        "nameconcat": "checkstyle/checkstyle"
+    },
+    {
+        "owner": "robolectric",
+        "name": "robolectric",
+        "url": "http://www.github.com/robolectric/robolectric",
+        "language": "Java",
+        "nameconcat": "robolectric/robolectric"
+    },
+    {
+        "owner": "real-logic",
+        "name": "aeron",
+        "url": "http://www.github.com/real-logic/aeron",
+        "language": "Java",
+        "nameconcat": "real-logic/aeron"
+    },
+    {
+        "owner": "k9mail",
+        "name": "k-9",
+        "url": "http://www.github.com/k9mail/k-9",
+        "language": "Java",
+        "nameconcat": "k9mail/k-9"
+    },
+    {
+        "owner": "TechEmpower",
+        "name": "FrameworkBenchmarks",
+        "url": "http://www.github.com/TechEmpower/FrameworkBenchmarks",
+        "language": "Java",
+        "nameconcat": "TechEmpower/FrameworkBenchmarks"
+    },
+    {
+        "owner": "keycloak",
+        "name": "keycloak",
+        "url": "http://www.github.com/keycloak/keycloak",
+        "language": "Java",
+        "nameconcat": "keycloak/keycloak"
+    },
+    {
+        "owner": "Alluxio",
+        "name": "alluxio",
+        "url": "http://www.github.com/Alluxio/alluxio",
+        "language": "Java",
+        "nameconcat": "Alluxio/alluxio"
+    },
+    {
+        "owner": "h2oai",
+        "name": "h2o-3",
+        "url": "http://www.github.com/h2oai/h2o-3",
+        "language": "Java",
+        "nameconcat": "h2oai/h2o-3"
+    },
+    {
+        "owner": "hibernate",
+        "name": "hibernate-orm",
+        "url": "http://www.github.com/hibernate/hibernate-orm",
+        "language": "Java",
+        "nameconcat": "hibernate/hibernate-orm"
+    },
+    {
+        "owner": "orientechnologies",
+        "name": "orientdb",
+        "url": "http://www.github.com/orientechnologies/orientdb",
+        "language": "Java",
+        "nameconcat": "orientechnologies/orientdb"
+    },
+    {
+        "owner": "SonarSource",
+        "name": "sonarqube",
+        "url": "http://www.github.com/SonarSource/sonarqube",
+        "language": "Java",
+        "nameconcat": "SonarSource/sonarqube"
+    },
+    {
+        "owner": "spring-projects",
+        "name": "spring-security",
+        "url": "http://www.github.com/spring-projects/spring-security",
+        "language": "Java",
+        "nameconcat": "spring-projects/spring-security"
+    },
+    {
+        "owner": "apache",
+        "name": "tomcat",
+        "url": "http://www.github.com/apache/tomcat",
+        "language": "Java",
+        "nameconcat": "apache/tomcat"
+    },
+    {
+        "owner": "openhab",
+        "name": "openhab1-addons",
+        "url": "http://www.github.com/openhab/openhab1-addons",
+        "language": "Java",
+        "nameconcat": "openhab/openhab1-addons"
+    },
+    {
+        "owner": "Atmosphere",
+        "name": "atmosphere",
+        "url": "http://www.github.com/Atmosphere/atmosphere",
+        "language": "Java",
+        "nameconcat": "Atmosphere/atmosphere"
+    },
+    {
+        "owner": "apache",
+        "name": "groovy",
+        "url": "http://www.github.com/apache/groovy",
+        "language": "Java",
+        "nameconcat": "apache/groovy"
+    },
+    {
+        "owner": "apache",
+        "name": "jmeter",
+        "url": "http://www.github.com/apache/jmeter",
+        "language": "Java",
+        "nameconcat": "apache/jmeter"
+    },
+    {
+        "owner": "junit-team",
+        "name": "junit5",
+        "url": "http://www.github.com/junit-team/junit5",
+        "language": "Java",
+        "nameconcat": "junit-team/junit5"
+    },
+    {
+        "owner": "siacs",
+        "name": "Conversations",
+        "url": "http://www.github.com/siacs/Conversations",
+        "language": "Java",
+        "nameconcat": "siacs/Conversations"
+    },
+    {
+        "owner": "MinecraftForge",
+        "name": "MinecraftForge",
+        "url": "http://www.github.com/MinecraftForge/MinecraftForge",
+        "language": "Java",
+        "nameconcat": "MinecraftForge/MinecraftForge"
+    },
+    {
+        "owner": "hazelcast",
+        "name": "hazelcast",
+        "url": "http://www.github.com/hazelcast/hazelcast",
+        "language": "Java",
+        "nameconcat": "hazelcast/hazelcast"
+    },
+    {
+        "owner": "apache",
+        "name": "beam",
+        "url": "http://www.github.com/apache/beam",
+        "language": "Java",
+        "nameconcat": "apache/beam"
+    },
+    {
+        "owner": "gedoor",
+        "name": "MyBookshelf",
+        "url": "http://www.github.com/gedoor/MyBookshelf",
+        "language": "Java",
+        "nameconcat": "gedoor/MyBookshelf"
+    },
+    {
+        "owner": "pentaho",
+        "name": "pentaho-kettle",
+        "url": "http://www.github.com/pentaho/pentaho-kettle",
+        "language": "Java",
+        "nameconcat": "pentaho/pentaho-kettle"
+    },
+    {
+        "owner": "oblac",
+        "name": "jodd",
+        "url": "http://www.github.com/oblac/jodd",
+        "language": "Java",
+        "nameconcat": "oblac/jodd"
+    },
+    {
+        "owner": "apache",
+        "name": "hbase",
+        "url": "http://www.github.com/apache/hbase",
+        "language": "Java",
+        "nameconcat": "apache/hbase"
+    },
+    {
+        "owner": "languagetool-org",
+        "name": "languagetool",
+        "url": "http://www.github.com/languagetool-org/languagetool",
+        "language": "Java",
+        "nameconcat": "languagetool-org/languagetool"
+    },
+    {
+        "owner": "OpenAPITools",
+        "name": "openapi-generator",
+        "url": "http://www.github.com/OpenAPITools/openapi-generator",
+        "language": "Java",
+        "nameconcat": "OpenAPITools/openapi-generator"
+    },
+    {
+        "owner": "vespa-engine",
+        "name": "vespa",
+        "url": "http://www.github.com/vespa-engine/vespa",
+        "language": "Java",
+        "nameconcat": "vespa-engine/vespa"
+    },
+    {
+        "owner": "LawnchairLauncher",
+        "name": "Lawnchair",
+        "url": "http://www.github.com/LawnchairLauncher/Lawnchair",
+        "language": "Java",
+        "nameconcat": "LawnchairLauncher/Lawnchair"
+    },
+    {
+        "owner": "rstudio",
+        "name": "rstudio",
+        "url": "http://www.github.com/rstudio/rstudio",
+        "language": "Java",
+        "nameconcat": "rstudio/rstudio"
+    },
+    {
+        "owner": "bisq-network",
+        "name": "bisq",
+        "url": "http://www.github.com/bisq-network/bisq",
+        "language": "Java",
+        "nameconcat": "bisq-network/bisq"
+    },
+    {
+        "owner": "owncloud",
+        "name": "android",
+        "url": "http://www.github.com/owncloud/android",
+        "language": "Java",
+        "nameconcat": "owncloud/android"
+    },
+    {
+        "owner": "knowm",
+        "name": "XChange",
+        "url": "http://www.github.com/knowm/XChange",
+        "language": "Java",
+        "nameconcat": "knowm/XChange"
+    },
+    {
+        "owner": "apache",
+        "name": "hive",
+        "url": "http://www.github.com/apache/hive",
+        "language": "Java",
+        "nameconcat": "apache/hive"
+    },
+    {
+        "owner": "apache",
+        "name": "ignite",
+        "url": "http://www.github.com/apache/ignite",
+        "language": "Java",
+        "nameconcat": "apache/ignite"
+    },
+    {
+        "owner": "micronaut-projects",
+        "name": "micronaut-core",
+        "url": "http://www.github.com/micronaut-projects/micronaut-core",
+        "language": "Java",
+        "nameconcat": "micronaut-projects/micronaut-core"
+    },
+    {
+        "owner": "javaparser",
+        "name": "javaparser",
+        "url": "http://www.github.com/javaparser/javaparser",
+        "language": "Java",
+        "nameconcat": "javaparser/javaparser"
+    },
+    {
+        "owner": "JanusGraph",
+        "name": "janusgraph",
+        "url": "http://www.github.com/JanusGraph/janusgraph",
+        "language": "Java",
+        "nameconcat": "JanusGraph/janusgraph"
+    },
+    {
+        "owner": "MovingBlocks",
+        "name": "Terasology",
+        "url": "http://www.github.com/MovingBlocks/Terasology",
+        "language": "Java",
+        "nameconcat": "MovingBlocks/Terasology"
+    },
+    {
+        "owner": "eclipse",
+        "name": "jetty.project",
+        "url": "http://www.github.com/eclipse/jetty.project",
+        "language": "Java",
+        "nameconcat": "eclipse/jetty.project"
+    },
+    {
+        "owner": "crate",
+        "name": "crate",
+        "url": "http://www.github.com/crate/crate",
+        "language": "Java",
+        "nameconcat": "crate/crate"
+    },
+    {
+        "owner": "bigbluebutton",
+        "name": "bigbluebutton",
+        "url": "http://www.github.com/bigbluebutton/bigbluebutton",
+        "language": "Java",
+        "nameconcat": "bigbluebutton/bigbluebutton"
+    },
+    {
+        "owner": "AntennaPod",
+        "name": "AntennaPod",
+        "url": "http://www.github.com/AntennaPod/AntennaPod",
+        "language": "Java",
+        "nameconcat": "AntennaPod/AntennaPod"
+    },
+    {
+        "owner": "pmd",
+        "name": "pmd",
+        "url": "http://www.github.com/pmd/pmd",
+        "language": "Java",
+        "nameconcat": "pmd/pmd"
+    },
+    {
+        "owner": "querydsl",
+        "name": "querydsl",
+        "url": "http://www.github.com/querydsl/querydsl",
+        "language": "Java",
+        "nameconcat": "querydsl/querydsl"
+    },
+    {
+        "owner": "runelite",
+        "name": "runelite",
+        "url": "http://www.github.com/runelite/runelite",
+        "language": "Java",
+        "nameconcat": "runelite/runelite"
+    },
+    {
+        "owner": "kiegroup",
+        "name": "drools",
+        "url": "http://www.github.com/kiegroup/drools",
+        "language": "Java",
+        "nameconcat": "kiegroup/drools"
+    },
+    {
+        "owner": "quarkusio",
+        "name": "quarkus",
+        "url": "http://www.github.com/quarkusio/quarkus",
+        "language": "Java",
+        "nameconcat": "quarkusio/quarkus"
+    },
+    {
+        "owner": "apache",
+        "name": "incubator-pinot",
+        "url": "http://www.github.com/apache/incubator-pinot",
+        "language": "Java",
+        "nameconcat": "apache/incubator-pinot"
+    },
+    {
+        "owner": "apache",
+        "name": "kylin",
+        "url": "http://www.github.com/apache/kylin",
+        "language": "Java",
+        "nameconcat": "apache/kylin"
+    },
+    {
+        "owner": "wildfly",
+        "name": "wildfly",
+        "url": "http://www.github.com/wildfly/wildfly",
+        "language": "Java",
+        "nameconcat": "wildfly/wildfly"
+    },
+    {
+        "owner": "tronprotocol",
+        "name": "java-tron",
+        "url": "http://www.github.com/tronprotocol/java-tron",
+        "language": "Java",
+        "nameconcat": "tronprotocol/java-tron"
+    },
+    {
+        "owner": "mongodb",
+        "name": "mongo-java-driver",
+        "url": "http://www.github.com/mongodb/mongo-java-driver",
+        "language": "Java",
+        "nameconcat": "mongodb/mongo-java-driver"
+    },
+    {
+        "owner": "wordpress-mobile",
+        "name": "WordPress-Android",
+        "url": "http://www.github.com/wordpress-mobile/WordPress-Android",
+        "language": "Java",
+        "nameconcat": "wordpress-mobile/WordPress-Android"
+    },
+    {
+        "owner": "jMonkeyEngine",
+        "name": "jmonkeyengine",
+        "url": "http://www.github.com/jMonkeyEngine/jmonkeyengine",
+        "language": "Java",
+        "nameconcat": "jMonkeyEngine/jmonkeyengine"
+    },
+    {
+        "owner": "flowable",
+        "name": "flowable-engine",
+        "url": "http://www.github.com/flowable/flowable-engine",
+        "language": "Java",
+        "nameconcat": "flowable/flowable-engine"
+    },
+    {
+        "owner": "ankidroid",
+        "name": "Anki-Android",
+        "url": "http://www.github.com/ankidroid/Anki-Android",
+        "language": "Java",
+        "nameconcat": "ankidroid/Anki-Android"
+    },
+    {
+        "owner": "eclipse",
+        "name": "openj9",
+        "url": "http://www.github.com/eclipse/openj9",
+        "language": "Java",
+        "nameconcat": "eclipse/openj9"
+    },
+    {
+        "owner": "ethereum",
+        "name": "ethereumj",
+        "url": "http://www.github.com/ethereum/ethereumj",
+        "language": "Java",
+        "nameconcat": "ethereum/ethereumj"
+    },
+    {
+        "owner": "jitsi",
+        "name": "jitsi",
+        "url": "http://www.github.com/jitsi/jitsi",
+        "language": "Java",
+        "nameconcat": "jitsi/jitsi"
+    },
+    {
+        "owner": "killbill",
+        "name": "killbill",
+        "url": "http://www.github.com/killbill/killbill",
+        "language": "Java",
+        "nameconcat": "killbill/killbill"
+    },
+    {
+        "owner": "igniterealtime",
+        "name": "Openfire",
+        "url": "http://www.github.com/igniterealtime/Openfire",
+        "language": "Java",
+        "nameconcat": "igniterealtime/Openfire"
+    },
+    {
+        "owner": "h2database",
+        "name": "h2database",
+        "url": "http://www.github.com/h2database/h2database",
+        "language": "Java",
+        "nameconcat": "h2database/h2database"
+    },
+    {
+        "owner": "ballerina-platform",
+        "name": "ballerina-lang",
+        "url": "http://www.github.com/ballerina-platform/ballerina-lang",
+        "language": "Java",
+        "nameconcat": "ballerina-platform/ballerina-lang"
+    },
+    {
+        "owner": "liquibase",
+        "name": "liquibase",
+        "url": "http://www.github.com/liquibase/liquibase",
+        "language": "Java",
+        "nameconcat": "liquibase/liquibase"
+    },
+    {
+        "owner": "ratpack",
+        "name": "ratpack",
+        "url": "http://www.github.com/ratpack/ratpack",
+        "language": "Java",
+        "nameconcat": "ratpack/ratpack"
+    },
+    {
+        "owner": "jeremylong",
+        "name": "DependencyCheck",
+        "url": "http://www.github.com/jeremylong/DependencyCheck",
+        "language": "Java",
+        "nameconcat": "jeremylong/DependencyCheck"
+    },
+    {
+        "owner": "apache",
+        "name": "maven",
+        "url": "http://www.github.com/apache/maven",
+        "language": "Java",
+        "nameconcat": "apache/maven"
+    },
+    {
+        "owner": "AxonFramework",
+        "name": "AxonFramework",
+        "url": "http://www.github.com/AxonFramework/AxonFramework",
+        "language": "Java",
+        "nameconcat": "AxonFramework/AxonFramework"
+    },
+    {
+        "owner": "geometer",
+        "name": "FBReaderJ",
+        "url": "http://www.github.com/geometer/FBReaderJ",
+        "language": "Java",
+        "nameconcat": "geometer/FBReaderJ"
+    },
+    {
+        "owner": "geoserver",
+        "name": "geoserver",
+        "url": "http://www.github.com/geoserver/geoserver",
+        "language": "Java",
+        "nameconcat": "geoserver/geoserver"
+    },
+    {
+        "owner": "apache",
+        "name": "nifi",
+        "url": "http://www.github.com/apache/nifi",
+        "language": "Java",
+        "nameconcat": "apache/nifi"
+    },
+    {
+        "owner": "apache",
+        "name": "geode",
+        "url": "http://www.github.com/apache/geode",
+        "language": "Java",
+        "nameconcat": "apache/geode"
+    },
+    {
+        "owner": "apache",
+        "name": "incubator-gobblin",
+        "url": "http://www.github.com/apache/incubator-gobblin",
+        "language": "Java",
+        "nameconcat": "apache/incubator-gobblin"
+    },
+    {
+        "owner": "apache",
+        "name": "activemq",
+        "url": "http://www.github.com/apache/activemq",
+        "language": "Java",
+        "nameconcat": "apache/activemq"
+    },
+    {
+        "owner": "gchq",
+        "name": "Gaffer",
+        "url": "http://www.github.com/gchq/Gaffer",
+        "language": "Java",
+        "nameconcat": "gchq/Gaffer"
+    },
+    {
+        "owner": "vaadin",
+        "name": "framework",
+        "url": "http://www.github.com/vaadin/framework",
+        "language": "Java",
+        "nameconcat": "vaadin/framework"
+    },
+    {
+        "owner": "spotbugs",
+        "name": "spotbugs",
+        "url": "http://www.github.com/spotbugs/spotbugs",
+        "language": "Java",
+        "nameconcat": "spotbugs/spotbugs"
+    },
+    {
+        "owner": "VoltDB",
+        "name": "voltdb",
+        "url": "http://www.github.com/VoltDB/voltdb",
+        "language": "Java",
+        "nameconcat": "VoltDB/voltdb"
+    },
+    {
+        "owner": "nextcloud",
+        "name": "android",
+        "url": "http://www.github.com/nextcloud/android",
+        "language": "Java",
+        "nameconcat": "nextcloud/android"
+    },
+    {
+        "owner": "JabRef",
+        "name": "jabref",
+        "url": "http://www.github.com/JabRef/jabref",
+        "language": "Java",
+        "nameconcat": "JabRef/jabref"
+    },
+    {
+        "owner": "JetBrains",
+        "name": "intellij-plugins",
+        "url": "http://www.github.com/JetBrains/intellij-plugins",
+        "language": "Java",
+        "nameconcat": "JetBrains/intellij-plugins"
+    },
+    {
+        "owner": "spring-projects",
+        "name": "spring-batch",
+        "url": "http://www.github.com/spring-projects/spring-batch",
+        "language": "Java",
+        "nameconcat": "spring-projects/spring-batch"
+    },
+    {
+        "owner": "opentripplanner",
+        "name": "OpenTripPlanner",
+        "url": "http://www.github.com/opentripplanner/OpenTripPlanner",
+        "language": "Java",
+        "nameconcat": "opentripplanner/OpenTripPlanner"
+    },
+    {
+        "owner": "kiegroup",
+        "name": "optaplanner",
+        "url": "http://www.github.com/kiegroup/optaplanner",
+        "language": "Java",
+        "nameconcat": "kiegroup/optaplanner"
+    },
+    {
+        "owner": "oracle",
+        "name": "visualvm",
+        "url": "http://www.github.com/oracle/visualvm",
+        "language": "Java",
+        "nameconcat": "oracle/visualvm"
+    },
+    {
+        "owner": "BroadleafCommerce",
+        "name": "BroadleafCommerce",
+        "url": "http://www.github.com/BroadleafCommerce/BroadleafCommerce",
+        "language": "Java",
+        "nameconcat": "BroadleafCommerce/BroadleafCommerce"
+    },
+    {
+        "owner": "strapdata",
+        "name": "elassandra",
+        "url": "http://www.github.com/strapdata/elassandra",
+        "language": "Java",
+        "nameconcat": "strapdata/elassandra"
+    },
+    {
+        "owner": "open-keychain",
+        "name": "open-keychain",
+        "url": "http://www.github.com/open-keychain/open-keychain",
+        "language": "Java",
+        "nameconcat": "open-keychain/open-keychain"
+    },
+    {
+        "owner": "Sable",
+        "name": "soot",
+        "url": "http://www.github.com/Sable/soot",
+        "language": "Java",
+        "nameconcat": "Sable/soot"
+    },
+    {
+        "owner": "apache",
+        "name": "ambari",
+        "url": "http://www.github.com/apache/ambari",
+        "language": "Java",
+        "nameconcat": "apache/ambari"
+    },
+    {
+        "owner": "kaaproject",
+        "name": "kaa",
+        "url": "http://www.github.com/kaaproject/kaa",
+        "language": "Java",
+        "nameconcat": "kaaproject/kaa"
+    },
+    {
+        "owner": "BuildCraft",
+        "name": "BuildCraft",
+        "url": "http://www.github.com/BuildCraft/BuildCraft",
+        "language": "Java",
+        "nameconcat": "BuildCraft/BuildCraft"
+    },
+    {
+        "owner": "primefaces",
+        "name": "primefaces",
+        "url": "http://www.github.com/primefaces/primefaces",
+        "language": "Java",
+        "nameconcat": "primefaces/primefaces"
+    },
+    {
+        "owner": "hawtio",
+        "name": "hawtio",
+        "url": "http://www.github.com/hawtio/hawtio",
+        "language": "Java",
+        "nameconcat": "hawtio/hawtio"
+    },
+    {
+        "owner": "vector-im",
+        "name": "riot-android",
+        "url": "http://www.github.com/vector-im/riot-android",
+        "language": "Java",
+        "nameconcat": "vector-im/riot-android"
+    },
+    {
+        "owner": "camunda",
+        "name": "camunda-bpm-platform",
+        "url": "http://www.github.com/camunda/camunda-bpm-platform",
+        "language": "Java",
+        "nameconcat": "camunda/camunda-bpm-platform"
+    },
+    {
+        "owner": "wikimedia",
+        "name": "apps-android-wikipedia",
+        "url": "http://www.github.com/wikimedia/apps-android-wikipedia",
+        "language": "Java",
+        "nameconcat": "wikimedia/apps-android-wikipedia"
+    },
+    {
+        "owner": "cloudfoundry",
+        "name": "uaa",
+        "url": "http://www.github.com/cloudfoundry/uaa",
+        "language": "Java",
+        "nameconcat": "cloudfoundry/uaa"
+    }]

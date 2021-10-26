@@ -1,0 +1,1253 @@
+[{
+        "owner": "telegramdesktop",
+        "name": "tdesktop",
+        "url": "http://www.github.com/telegramdesktop/tdesktop",
+        "language": "C++",
+        "nameconcat": "telegramdesktop/tdesktop"
+    },
+    {
+        "owner": "EOSIO",
+        "name": "eos",
+        "url": "http://www.github.com/EOSIO/eos",
+        "language": "C++",
+        "nameconcat": "EOSIO/eos"
+    },
+    {
+        "owner": "bitcoin",
+        "name": "bitcoin",
+        "url": "http://www.github.com/bitcoin/bitcoin",
+        "language": "C++",
+        "nameconcat": "bitcoin/bitcoin"
+    },
+    {
+        "owner": "aria2",
+        "name": "aria2",
+        "url": "http://www.github.com/aria2/aria2",
+        "language": "C++",
+        "nameconcat": "aria2/aria2"
+    },
+    {
+        "owner": "qbittorrent",
+        "name": "qBittorrent",
+        "url": "http://www.github.com/qbittorrent/qBittorrent",
+        "language": "C++",
+        "nameconcat": "qbittorrent/qBittorrent"
+    },
+    {
+        "owner": "dolphin-emu",
+        "name": "dolphin",
+        "url": "http://www.github.com/dolphin-emu/dolphin",
+        "language": "C++",
+        "nameconcat": "dolphin-emu/dolphin"
+    },
+    {
+        "owner": "citra-emu",
+        "name": "citra",
+        "url": "http://www.github.com/citra-emu/citra",
+        "language": "C++",
+        "nameconcat": "citra-emu/citra"
+    },
+    {
+        "owner": "cocos2d",
+        "name": "cocos2d-x",
+        "url": "http://www.github.com/cocos2d/cocos2d-x",
+        "language": "C++",
+        "nameconcat": "cocos2d/cocos2d-x"
+    },
+    {
+        "owner": "yuzu-emu",
+        "name": "yuzu",
+        "url": "http://www.github.com/yuzu-emu/yuzu",
+        "language": "C++",
+        "nameconcat": "yuzu-emu/yuzu"
+    },
+    {
+        "owner": "OpenRCT2",
+        "name": "OpenRCT2",
+        "url": "http://www.github.com/OpenRCT2/OpenRCT2",
+        "language": "C++",
+        "nameconcat": "OpenRCT2/OpenRCT2"
+    },
+    {
+        "owner": "RPCS3",
+        "name": "rpcs3",
+        "url": "http://www.github.com/RPCS3/rpcs3",
+        "language": "C++",
+        "nameconcat": "RPCS3/rpcs3"
+    },
+    {
+        "owner": "aseprite",
+        "name": "aseprite",
+        "url": "http://www.github.com/aseprite/aseprite",
+        "language": "C++",
+        "nameconcat": "aseprite/aseprite"
+    },
+    {
+        "owner": "CRYTEK",
+        "name": "CRYENGINE",
+        "url": "http://www.github.com/CRYTEK/CRYENGINE",
+        "language": "C++",
+        "nameconcat": "CRYTEK/CRYENGINE"
+    },
+    {
+        "owner": "godotengine",
+        "name": "godot",
+        "url": "http://www.github.com/godotengine/godot",
+        "language": "C++",
+        "nameconcat": "godotengine/godot"
+    },
+    {
+        "owner": "ApolloAuto",
+        "name": "apollo",
+        "url": "http://www.github.com/ApolloAuto/apollo",
+        "language": "C++",
+        "nameconcat": "ApolloAuto/apollo"
+    },
+    {
+        "owner": "VowpalWabbit",
+        "name": "vowpal_wabbit",
+        "url": "http://www.github.com/VowpalWabbit/vowpal_wabbit",
+        "language": "C++",
+        "nameconcat": "VowpalWabbit/vowpal_wabbit"
+    },
+    {
+        "owner": "AudioKit",
+        "name": "AudioKit",
+        "url": "http://www.github.com/AudioKit/AudioKit",
+        "language": "C++",
+        "nameconcat": "AudioKit/AudioKit"
+    },
+    {
+        "owner": "xbmc",
+        "name": "xbmc",
+        "url": "http://www.github.com/xbmc/xbmc",
+        "language": "C++",
+        "nameconcat": "xbmc/xbmc"
+    },
+    {
+        "owner": "osquery",
+        "name": "osquery",
+        "url": "http://www.github.com/osquery/osquery",
+        "language": "C++",
+        "nameconcat": "osquery/osquery"
+    },
+    {
+        "owner": "Maximus5",
+        "name": "ConEmu",
+        "url": "http://www.github.com/Maximus5/ConEmu",
+        "language": "C++",
+        "nameconcat": "Maximus5/ConEmu"
+    },
+    {
+        "owner": "emscripten-core",
+        "name": "emscripten",
+        "url": "http://www.github.com/emscripten-core/emscripten",
+        "language": "C++",
+        "nameconcat": "emscripten-core/emscripten"
+    },
+    {
+        "owner": "facebook",
+        "name": "hhvm",
+        "url": "http://www.github.com/facebook/hhvm",
+        "language": "C++",
+        "nameconcat": "facebook/hhvm"
+    },
+    {
+        "owner": "v8",
+        "name": "v8",
+        "url": "http://www.github.com/v8/v8",
+        "language": "C++",
+        "nameconcat": "v8/v8"
+    },
+    {
+        "owner": "rethinkdb",
+        "name": "rethinkdb",
+        "url": "http://www.github.com/rethinkdb/rethinkdb",
+        "language": "C++",
+        "nameconcat": "rethinkdb/rethinkdb"
+    },
+    {
+        "owner": "mongodb",
+        "name": "mongo",
+        "url": "http://www.github.com/mongodb/mongo",
+        "language": "C++",
+        "nameconcat": "mongodb/mongo"
+    },
+    {
+        "owner": "facebook",
+        "name": "rocksdb",
+        "url": "http://www.github.com/facebook/rocksdb",
+        "language": "C++",
+        "nameconcat": "facebook/rocksdb"
+    },
+    {
+        "owner": "apple",
+        "name": "foundationdb",
+        "url": "http://www.github.com/apple/foundationdb",
+        "language": "C++",
+        "nameconcat": "apple/foundationdb"
+    },
+    {
+        "owner": "arangodb",
+        "name": "arangodb",
+        "url": "http://www.github.com/arangodb/arangodb",
+        "language": "C++",
+        "nameconcat": "arangodb/arangodb"
+    },
+    {
+        "owner": "yandex",
+        "name": "ClickHouse",
+        "url": "http://www.github.com/yandex/ClickHouse",
+        "language": "C++",
+        "nameconcat": "yandex/ClickHouse"
+    },
+    {
+        "owner": "ceph",
+        "name": "ceph",
+        "url": "http://www.github.com/ceph/ceph",
+        "language": "C++",
+        "nameconcat": "ceph/ceph"
+    },
+    {
+        "owner": "scylladb",
+        "name": "scylla",
+        "url": "http://www.github.com/scylladb/scylla",
+        "language": "C++",
+        "nameconcat": "scylladb/scylla"
+    },
+    {
+        "owner": "tensorflow",
+        "name": "tensorflow",
+        "url": "http://www.github.com/tensorflow/tensorflow",
+        "language": "C++",
+        "nameconcat": "tensorflow/tensorflow"
+    },
+    {
+        "owner": "electron",
+        "name": "electron",
+        "url": "http://www.github.com/electron/electron",
+        "language": "C++",
+        "nameconcat": "electron/electron"
+    },
+    {
+        "owner": "opencv",
+        "name": "opencv",
+        "url": "http://www.github.com/opencv/opencv",
+        "language": "C++",
+        "nameconcat": "opencv/opencv"
+    },
+    {
+        "owner": "protocolbuffers",
+        "name": "protobuf",
+        "url": "http://www.github.com/protocolbuffers/protobuf",
+        "language": "C++",
+        "nameconcat": "protocolbuffers/protobuf"
+    },
+    {
+        "owner": "pytorch",
+        "name": "pytorch",
+        "url": "http://www.github.com/pytorch/pytorch",
+        "language": "C++",
+        "nameconcat": "pytorch/pytorch"
+    },
+    {
+        "owner": "grpc",
+        "name": "grpc",
+        "url": "http://www.github.com/grpc/grpc",
+        "language": "C++",
+        "nameconcat": "grpc/grpc"
+    },
+    {
+        "owner": "apache",
+        "name": "incubator-mxnet",
+        "url": "http://www.github.com/apache/incubator-mxnet",
+        "language": "C++",
+        "nameconcat": "apache/incubator-mxnet"
+    },
+    {
+        "owner": "microsoft",
+        "name": "CNTK",
+        "url": "http://www.github.com/microsoft/CNTK",
+        "language": "C++",
+        "nameconcat": "microsoft/CNTK"
+    },
+    {
+        "owner": "ocornut",
+        "name": "imgui",
+        "url": "http://www.github.com/ocornut/imgui",
+        "language": "C++",
+        "nameconcat": "ocornut/imgui"
+    },
+    {
+        "owner": "swoole",
+        "name": "swoole-src",
+        "url": "http://www.github.com/swoole/swoole-src",
+        "language": "C++",
+        "nameconcat": "swoole/swoole-src"
+    },
+    {
+        "owner": "facebook",
+        "name": "folly",
+        "url": "http://www.github.com/facebook/folly",
+        "language": "C++",
+        "nameconcat": "facebook/folly"
+    },
+    {
+        "owner": "apache",
+        "name": "incubator-weex",
+        "url": "http://www.github.com/apache/incubator-weex",
+        "language": "C++",
+        "nameconcat": "apache/incubator-weex"
+    },
+    {
+        "owner": "PaddlePaddle",
+        "name": "Paddle",
+        "url": "http://www.github.com/PaddlePaddle/Paddle",
+        "language": "C++",
+        "nameconcat": "PaddlePaddle/Paddle"
+    },
+    {
+        "owner": "davisking",
+        "name": "dlib",
+        "url": "http://www.github.com/davisking/dlib",
+        "language": "C++",
+        "nameconcat": "davisking/dlib"
+    },
+    {
+        "owner": "openframeworks",
+        "name": "openFrameworks",
+        "url": "http://www.github.com/openframeworks/openFrameworks",
+        "language": "C++",
+        "nameconcat": "openframeworks/openFrameworks"
+    },
+    {
+        "owner": "apache",
+        "name": "thrift",
+        "url": "http://www.github.com/apache/thrift",
+        "language": "C++",
+        "nameconcat": "apache/thrift"
+    },
+    {
+        "owner": "bkaradzic",
+        "name": "bgfx",
+        "url": "http://www.github.com/bkaradzic/bgfx",
+        "language": "C++",
+        "nameconcat": "bkaradzic/bgfx"
+    },
+    {
+        "owner": "TrinityCore",
+        "name": "TrinityCore",
+        "url": "http://www.github.com/TrinityCore/TrinityCore",
+        "language": "C++",
+        "nameconcat": "TrinityCore/TrinityCore"
+    },
+    {
+        "owner": "zeromq",
+        "name": "libzmq",
+        "url": "http://www.github.com/zeromq/libzmq",
+        "language": "C++",
+        "nameconcat": "zeromq/libzmq"
+    },
+    {
+        "owner": "bulletphysics",
+        "name": "bullet3",
+        "url": "http://www.github.com/bulletphysics/bullet3",
+        "language": "C++",
+        "nameconcat": "bulletphysics/bullet3"
+    },
+    {
+        "owner": "apple",
+        "name": "swift",
+        "url": "http://www.github.com/apple/swift",
+        "language": "C++",
+        "nameconcat": "apple/swift"
+    },
+    {
+        "owner": "ethereum",
+        "name": "solidity",
+        "url": "http://www.github.com/ethereum/solidity",
+        "language": "C++",
+        "nameconcat": "ethereum/solidity"
+    },
+    {
+        "owner": "mawww",
+        "name": "kakoune",
+        "url": "http://www.github.com/mawww/kakoune",
+        "language": "C++",
+        "nameconcat": "mawww/kakoune"
+    },
+    {
+        "owner": "hrydgard",
+        "name": "ppsspp",
+        "url": "http://www.github.com/hrydgard/ppsspp",
+        "language": "C++",
+        "nameconcat": "hrydgard/ppsspp"
+    },
+    {
+        "owner": "Z3Prover",
+        "name": "z3",
+        "url": "http://www.github.com/Z3Prover/z3",
+        "language": "C++",
+        "nameconcat": "Z3Prover/z3"
+    },
+    {
+        "owner": "assimp",
+        "name": "assimp",
+        "url": "http://www.github.com/assimp/assimp",
+        "language": "C++",
+        "nameconcat": "assimp/assimp"
+    },
+    {
+        "owner": "phusion",
+        "name": "passenger",
+        "url": "http://www.github.com/phusion/passenger",
+        "language": "C++",
+        "nameconcat": "phusion/passenger"
+    },
+    {
+        "owner": "google",
+        "name": "or-tools",
+        "url": "http://www.github.com/google/or-tools",
+        "language": "C++",
+        "nameconcat": "google/or-tools"
+    },
+    {
+        "owner": "minetest",
+        "name": "minetest",
+        "url": "http://www.github.com/minetest/minetest",
+        "language": "C++",
+        "nameconcat": "minetest/minetest"
+    },
+    {
+        "owner": "catboost",
+        "name": "catboost",
+        "url": "http://www.github.com/catboost/catboost",
+        "language": "C++",
+        "nameconcat": "catboost/catboost"
+    },
+    {
+        "owner": "apache",
+        "name": "mesos",
+        "url": "http://www.github.com/apache/mesos",
+        "language": "C++",
+        "nameconcat": "apache/mesos"
+    },
+    {
+        "owner": "FreeCAD",
+        "name": "FreeCAD",
+        "url": "http://www.github.com/FreeCAD/FreeCAD",
+        "language": "C++",
+        "nameconcat": "FreeCAD/FreeCAD"
+    },
+    {
+        "owner": "mysql",
+        "name": "mysql-server",
+        "url": "http://www.github.com/mysql/mysql-server",
+        "language": "C++",
+        "nameconcat": "mysql/mysql-server"
+    },
+    {
+        "owner": "ArduPilot",
+        "name": "ardupilot",
+        "url": "http://www.github.com/ArduPilot/ardupilot",
+        "language": "C++",
+        "nameconcat": "ArduPilot/ardupilot"
+    },
+    {
+        "owner": "PointCloudLibrary",
+        "name": "pcl",
+        "url": "http://www.github.com/PointCloudLibrary/pcl",
+        "language": "C++",
+        "nameconcat": "PointCloudLibrary/pcl"
+    },
+    {
+        "owner": "zcash",
+        "name": "zcash",
+        "url": "http://www.github.com/zcash/zcash",
+        "language": "C++",
+        "nameconcat": "zcash/zcash"
+    },
+    {
+        "owner": "mamedev",
+        "name": "mame",
+        "url": "http://www.github.com/mamedev/mame",
+        "language": "C++",
+        "nameconcat": "mamedev/mame"
+    },
+    {
+        "owner": "monero-project",
+        "name": "monero",
+        "url": "http://www.github.com/monero-project/monero",
+        "language": "C++",
+        "nameconcat": "monero-project/monero"
+    },
+    {
+        "owner": "musescore",
+        "name": "MuseScore",
+        "url": "http://www.github.com/musescore/MuseScore",
+        "language": "C++",
+        "nameconcat": "musescore/MuseScore"
+    },
+    {
+        "owner": "ponylang",
+        "name": "ponyc",
+        "url": "http://www.github.com/ponylang/ponyc",
+        "language": "C++",
+        "nameconcat": "ponylang/ponyc"
+    },
+    {
+        "owner": "xenia-project",
+        "name": "xenia",
+        "url": "http://www.github.com/xenia-project/xenia",
+        "language": "C++",
+        "nameconcat": "xenia-project/xenia"
+    },
+    {
+        "owner": "includeos",
+        "name": "IncludeOS",
+        "url": "http://www.github.com/includeos/IncludeOS",
+        "language": "C++",
+        "nameconcat": "includeos/IncludeOS"
+    },
+    {
+        "owner": "baldurk",
+        "name": "renderdoc",
+        "url": "http://www.github.com/baldurk/renderdoc",
+        "language": "C++",
+        "nameconcat": "baldurk/renderdoc"
+    },
+    {
+        "owner": "ethereum",
+        "name": "aleth",
+        "url": "http://www.github.com/ethereum/aleth",
+        "language": "C++",
+        "nameconcat": "ethereum/aleth"
+    },
+    {
+        "owner": "PCSX2",
+        "name": "pcsx2",
+        "url": "http://www.github.com/PCSX2/pcsx2",
+        "language": "C++",
+        "nameconcat": "PCSX2/pcsx2"
+    },
+    {
+        "owner": "mapbox",
+        "name": "mapbox-gl-native",
+        "url": "http://www.github.com/mapbox/mapbox-gl-native",
+        "language": "C++",
+        "nameconcat": "mapbox/mapbox-gl-native"
+    },
+    {
+        "owner": "CleverRaven",
+        "name": "Cataclysm-DDA",
+        "url": "http://www.github.com/CleverRaven/Cataclysm-DDA",
+        "language": "C++",
+        "nameconcat": "CleverRaven/Cataclysm-DDA"
+    },
+    {
+        "owner": "flutter",
+        "name": "engine",
+        "url": "http://www.github.com/flutter/engine",
+        "language": "C++",
+        "nameconcat": "flutter/engine"
+    },
+    {
+        "owner": "google",
+        "name": "skia",
+        "url": "http://www.github.com/google/skia",
+        "language": "C++",
+        "nameconcat": "google/skia"
+    },
+    {
+        "owner": "ripple",
+        "name": "rippled",
+        "url": "http://www.github.com/ripple/rippled",
+        "language": "C++",
+        "nameconcat": "ripple/rippled"
+    },
+    {
+        "owner": "Project-OSRM",
+        "name": "osrm-backend",
+        "url": "http://www.github.com/Project-OSRM/osrm-backend",
+        "language": "C++",
+        "nameconcat": "Project-OSRM/osrm-backend"
+    },
+    {
+        "owner": "halide",
+        "name": "Halide",
+        "url": "http://www.github.com/halide/Halide",
+        "language": "C++",
+        "nameconcat": "halide/Halide"
+    },
+    {
+        "owner": "IntelRealSense",
+        "name": "librealsense",
+        "url": "http://www.github.com/IntelRealSense/librealsense",
+        "language": "C++",
+        "nameconcat": "IntelRealSense/librealsense"
+    },
+    {
+        "owner": "mapsme",
+        "name": "omim",
+        "url": "http://www.github.com/mapsme/omim",
+        "language": "C++",
+        "nameconcat": "mapsme/omim"
+    },
+    {
+        "owner": "LMMS",
+        "name": "lmms",
+        "url": "http://www.github.com/LMMS/lmms",
+        "language": "C++",
+        "nameconcat": "LMMS/lmms"
+    },
+    {
+        "owner": "swig",
+        "name": "swig",
+        "url": "http://www.github.com/swig/swig",
+        "language": "C++",
+        "nameconcat": "swig/swig"
+    },
+    {
+        "owner": "nghttp2",
+        "name": "nghttp2",
+        "url": "http://www.github.com/nghttp2/nghttp2",
+        "language": "C++",
+        "nameconcat": "nghttp2/nghttp2"
+    },
+    {
+        "owner": "ledger",
+        "name": "ledger",
+        "url": "http://www.github.com/ledger/ledger",
+        "language": "C++",
+        "nameconcat": "ledger/ledger"
+    },
+    {
+        "owner": "ethereum-mining",
+        "name": "ethminer",
+        "url": "http://www.github.com/ethereum-mining/ethminer",
+        "language": "C++",
+        "nameconcat": "ethereum-mining/ethminer"
+    },
+    {
+        "owner": "MariaDB",
+        "name": "server",
+        "url": "http://www.github.com/MariaDB/server",
+        "language": "C++",
+        "nameconcat": "MariaDB/server"
+    },
+    {
+        "owner": "mlpack",
+        "name": "mlpack",
+        "url": "http://www.github.com/mlpack/mlpack",
+        "language": "C++",
+        "nameconcat": "mlpack/mlpack"
+    },
+    {
+        "owner": "qgis",
+        "name": "QGIS",
+        "url": "http://www.github.com/qgis/QGIS",
+        "language": "C++",
+        "nameconcat": "qgis/QGIS"
+    },
+    {
+        "owner": "OpenMW",
+        "name": "openmw",
+        "url": "http://www.github.com/OpenMW/openmw",
+        "language": "C++",
+        "nameconcat": "OpenMW/openmw"
+    },
+    {
+        "owner": "urho3d",
+        "name": "Urho3D",
+        "url": "http://www.github.com/urho3d/Urho3D",
+        "language": "C++",
+        "nameconcat": "urho3d/Urho3D"
+    },
+    {
+        "owner": "PX4",
+        "name": "Firmware",
+        "url": "http://www.github.com/PX4/Firmware",
+        "language": "C++",
+        "nameconcat": "PX4/Firmware"
+    },
+    {
+        "owner": "openscad",
+        "name": "openscad",
+        "url": "http://www.github.com/openscad/openscad",
+        "language": "C++",
+        "nameconcat": "openscad/openscad"
+    },
+    {
+        "owner": "arrayfire",
+        "name": "arrayfire",
+        "url": "http://www.github.com/arrayfire/arrayfire",
+        "language": "C++",
+        "nameconcat": "arrayfire/arrayfire"
+    },
+    {
+        "owner": "cuberite",
+        "name": "cuberite",
+        "url": "http://www.github.com/cuberite/cuberite",
+        "language": "C++",
+        "nameconcat": "cuberite/cuberite"
+    },
+    {
+        "owner": "supercollider",
+        "name": "supercollider",
+        "url": "http://www.github.com/supercollider/supercollider",
+        "language": "C++",
+        "nameconcat": "supercollider/supercollider"
+    },
+    {
+        "owner": "mumble-voip",
+        "name": "mumble",
+        "url": "http://www.github.com/mumble-voip/mumble",
+        "language": "C++",
+        "nameconcat": "mumble-voip/mumble"
+    },
+    {
+        "owner": "supertuxkart",
+        "name": "stk-code",
+        "url": "http://www.github.com/supertuxkart/stk-code",
+        "language": "C++",
+        "nameconcat": "supertuxkart/stk-code"
+    },
+    {
+        "owner": "NixOS",
+        "name": "nix",
+        "url": "http://www.github.com/NixOS/nix",
+        "language": "C++",
+        "nameconcat": "NixOS/nix"
+    },
+    {
+        "owner": "qTox",
+        "name": "qTox",
+        "url": "http://www.github.com/qTox/qTox",
+        "language": "C++",
+        "nameconcat": "qTox/qTox"
+    },
+    {
+        "owner": "wxWidgets",
+        "name": "wxWidgets",
+        "url": "http://www.github.com/wxWidgets/wxWidgets",
+        "language": "C++",
+        "nameconcat": "wxWidgets/wxWidgets"
+    },
+    {
+        "owner": "mosra",
+        "name": "magnum",
+        "url": "http://www.github.com/mosra/magnum",
+        "language": "C++",
+        "nameconcat": "mosra/magnum"
+    },
+    {
+        "owner": "wesnoth",
+        "name": "wesnoth",
+        "url": "http://www.github.com/wesnoth/wesnoth",
+        "language": "C++",
+        "nameconcat": "wesnoth/wesnoth"
+    },
+    {
+        "owner": "llvm-mirror",
+        "name": "clang",
+        "url": "http://www.github.com/llvm-mirror/clang",
+        "language": "C++",
+        "nameconcat": "llvm-mirror/clang"
+    },
+    {
+        "owner": "shogun-toolbox",
+        "name": "shogun",
+        "url": "http://www.github.com/shogun-toolbox/shogun",
+        "language": "C++",
+        "nameconcat": "shogun-toolbox/shogun"
+    },
+    {
+        "owner": "mapnik",
+        "name": "mapnik",
+        "url": "http://www.github.com/mapnik/mapnik",
+        "language": "C++",
+        "nameconcat": "mapnik/mapnik"
+    },
+    {
+        "owner": "danmar",
+        "name": "cppcheck",
+        "url": "http://www.github.com/danmar/cppcheck",
+        "language": "C++",
+        "nameconcat": "danmar/cppcheck"
+    },
+    {
+        "owner": "clementine-player",
+        "name": "Clementine",
+        "url": "http://www.github.com/clementine-player/Clementine",
+        "language": "C++",
+        "nameconcat": "clementine-player/Clementine"
+    },
+    {
+        "owner": "slic3r",
+        "name": "Slic3r",
+        "url": "http://www.github.com/slic3r/Slic3r",
+        "language": "C++",
+        "nameconcat": "slic3r/Slic3r"
+    },
+    {
+        "owner": "cloudera",
+        "name": "Impala",
+        "url": "http://www.github.com/cloudera/Impala",
+        "language": "C++",
+        "nameconcat": "cloudera/Impala"
+    },
+    {
+        "owner": "dogecoin",
+        "name": "dogecoin",
+        "url": "http://www.github.com/dogecoin/dogecoin",
+        "language": "C++",
+        "nameconcat": "dogecoin/dogecoin"
+    },
+    {
+        "owner": "ketoo",
+        "name": "NoahGameFrame",
+        "url": "http://www.github.com/ketoo/NoahGameFrame",
+        "language": "C++",
+        "nameconcat": "ketoo/NoahGameFrame"
+    },
+    {
+        "owner": "omnisci",
+        "name": "omniscidb",
+        "url": "http://www.github.com/omnisci/omniscidb",
+        "language": "C++",
+        "nameconcat": "omnisci/omniscidb"
+    },
+    {
+        "owner": "arvidn",
+        "name": "libtorrent",
+        "url": "http://www.github.com/arvidn/libtorrent",
+        "language": "C++",
+        "nameconcat": "arvidn/libtorrent"
+    },
+    {
+        "owner": "actor-framework",
+        "name": "actor-framework",
+        "url": "http://www.github.com/actor-framework/actor-framework",
+        "language": "C++",
+        "nameconcat": "actor-framework/actor-framework"
+    },
+    {
+        "owner": "weidai11",
+        "name": "cryptopp",
+        "url": "http://www.github.com/weidai11/cryptopp",
+        "language": "C++",
+        "nameconcat": "weidai11/cryptopp"
+    },
+    {
+        "owner": "PowerDNS",
+        "name": "pdns",
+        "url": "http://www.github.com/PowerDNS/pdns",
+        "language": "C++",
+        "nameconcat": "PowerDNS/pdns"
+    },
+    {
+        "owner": "steemit",
+        "name": "steem",
+        "url": "http://www.github.com/steemit/steem",
+        "language": "C++",
+        "nameconcat": "steemit/steem"
+    },
+    {
+        "owner": "KDE",
+        "name": "krita",
+        "url": "http://www.github.com/KDE/krita",
+        "language": "C++",
+        "nameconcat": "KDE/krita"
+    },
+    {
+        "owner": "gnuradio",
+        "name": "gnuradio",
+        "url": "http://www.github.com/gnuradio/gnuradio",
+        "language": "C++",
+        "nameconcat": "gnuradio/gnuradio"
+    },
+    {
+        "owner": "panda3d",
+        "name": "panda3d",
+        "url": "http://www.github.com/panda3d/panda3d",
+        "language": "C++",
+        "nameconcat": "panda3d/panda3d"
+    },
+    {
+        "owner": "OpenTTD",
+        "name": "OpenTTD",
+        "url": "http://www.github.com/OpenTTD/OpenTTD",
+        "language": "C++",
+        "nameconcat": "OpenTTD/OpenTTD"
+    },
+    {
+        "owner": "facebook",
+        "name": "fbthrift",
+        "url": "http://www.github.com/facebook/fbthrift",
+        "language": "C++",
+        "nameconcat": "facebook/fbthrift"
+    },
+    {
+        "owner": "llvm",
+        "name": "llvm-project",
+        "url": "http://www.github.com/llvm/llvm-project",
+        "language": "C++",
+        "nameconcat": "llvm/llvm-project"
+    },
+    {
+        "owner": "spring",
+        "name": "spring",
+        "url": "http://www.github.com/spring/spring",
+        "language": "C++",
+        "nameconcat": "spring/spring"
+    },
+    {
+        "owner": "The-Powder-Toy",
+        "name": "The-Powder-Toy",
+        "url": "http://www.github.com/The-Powder-Toy/The-Powder-Toy",
+        "language": "C++",
+        "nameconcat": "The-Powder-Toy/The-Powder-Toy"
+    },
+    {
+        "owner": "JohnSully",
+        "name": "KeyDB",
+        "url": "http://www.github.com/JohnSully/KeyDB",
+        "language": "C++",
+        "nameconcat": "JohnSully/KeyDB"
+    },
+    {
+        "owner": "WeAreROLI",
+        "name": "JUCE",
+        "url": "http://www.github.com/WeAreROLI/JUCE",
+        "language": "C++",
+        "nameconcat": "WeAreROLI/JUCE"
+    },
+    {
+        "owner": "facebook",
+        "name": "mysql-5.6",
+        "url": "http://www.github.com/facebook/mysql-5.6",
+        "language": "C++",
+        "nameconcat": "facebook/mysql-5.6"
+    },
+    {
+        "owner": "znc",
+        "name": "znc",
+        "url": "http://www.github.com/znc/znc",
+        "language": "C++",
+        "nameconcat": "znc/znc"
+    },
+    {
+        "owner": "Subsurface-divelog",
+        "name": "subsurface",
+        "url": "http://www.github.com/Subsurface-divelog/subsurface",
+        "language": "C++",
+        "nameconcat": "Subsurface-divelog/subsurface"
+    },
+    {
+        "owner": "clasp-developers",
+        "name": "clasp",
+        "url": "http://www.github.com/clasp-developers/clasp",
+        "language": "C++",
+        "nameconcat": "clasp-developers/clasp"
+    },
+    {
+        "owner": "Andersbakken",
+        "name": "rtags",
+        "url": "http://www.github.com/Andersbakken/rtags",
+        "language": "C++",
+        "nameconcat": "Andersbakken/rtags"
+    },
+    {
+        "owner": "openscenegraph",
+        "name": "OpenSceneGraph",
+        "url": "http://www.github.com/openscenegraph/OpenSceneGraph",
+        "language": "C++",
+        "nameconcat": "openscenegraph/OpenSceneGraph"
+    },
+    {
+        "owner": "prusa3d",
+        "name": "PrusaSlicer",
+        "url": "http://www.github.com/prusa3d/PrusaSlicer",
+        "language": "C++",
+        "nameconcat": "prusa3d/PrusaSlicer"
+    },
+    {
+        "owner": "CGAL",
+        "name": "cgal",
+        "url": "http://www.github.com/CGAL/cgal",
+        "language": "C++",
+        "nameconcat": "CGAL/cgal"
+    },
+    {
+        "owner": "0ad",
+        "name": "0ad",
+        "url": "http://www.github.com/0ad/0ad",
+        "language": "C++",
+        "nameconcat": "0ad/0ad"
+    },
+    {
+        "owner": "google",
+        "name": "angle",
+        "url": "http://www.github.com/google/angle",
+        "language": "C++",
+        "nameconcat": "google/angle"
+    },
+    {
+        "owner": "appleseedhq",
+        "name": "appleseed",
+        "url": "http://www.github.com/appleseedhq/appleseed",
+        "language": "C++",
+        "nameconcat": "appleseedhq/appleseed"
+    },
+    {
+        "owner": "zeroc-ice",
+        "name": "ice",
+        "url": "http://www.github.com/zeroc-ice/ice",
+        "language": "C++",
+        "nameconcat": "zeroc-ice/ice"
+    },
+    {
+        "owner": "GameFoundry",
+        "name": "bsf",
+        "url": "http://www.github.com/GameFoundry/bsf",
+        "language": "C++",
+        "nameconcat": "GameFoundry/bsf"
+    },
+    {
+        "owner": "mixxxdj",
+        "name": "mixxx",
+        "url": "http://www.github.com/mixxxdj/mixxx",
+        "language": "C++",
+        "nameconcat": "mixxxdj/mixxx"
+    },
+    {
+        "owner": "Stellarium",
+        "name": "stellarium",
+        "url": "http://www.github.com/Stellarium/stellarium",
+        "language": "C++",
+        "nameconcat": "Stellarium/stellarium"
+    },
+    {
+        "owner": "miguelfreitas",
+        "name": "twister-core",
+        "url": "http://www.github.com/miguelfreitas/twister-core",
+        "language": "C++",
+        "nameconcat": "miguelfreitas/twister-core"
+    },
+    {
+        "owner": "eigenteam",
+        "name": "eigen-git-mirror",
+        "url": "http://www.github.com/eigenteam/eigen-git-mirror",
+        "language": "C++",
+        "nameconcat": "eigenteam/eigen-git-mirror"
+    },
+    {
+        "owner": "OSGeo",
+        "name": "gdal",
+        "url": "http://www.github.com/OSGeo/gdal",
+        "language": "C++",
+        "nameconcat": "OSGeo/gdal"
+    },
+    {
+        "owner": "RobotLocomotion",
+        "name": "drake",
+        "url": "http://www.github.com/RobotLocomotion/drake",
+        "language": "C++",
+        "nameconcat": "RobotLocomotion/drake"
+    },
+    {
+        "owner": "OGRECave",
+        "name": "ogre",
+        "url": "http://www.github.com/OGRECave/ogre",
+        "language": "C++",
+        "nameconcat": "OGRECave/ogre"
+    },
+    {
+        "owner": "everitoken",
+        "name": "evt",
+        "url": "http://www.github.com/everitoken/evt",
+        "language": "C++",
+        "nameconcat": "everitoken/evt"
+    },
+    {
+        "owner": "leanprover",
+        "name": "lean",
+        "url": "http://www.github.com/leanprover/lean",
+        "language": "C++",
+        "nameconcat": "leanprover/lean"
+    },
+    {
+        "owner": "STEllAR-GROUP",
+        "name": "hpx",
+        "url": "http://www.github.com/STEllAR-GROUP/hpx",
+        "language": "C++",
+        "nameconcat": "STEllAR-GROUP/hpx"
+    },
+    {
+        "owner": "PurpleI2P",
+        "name": "i2pd",
+        "url": "http://www.github.com/PurpleI2P/i2pd",
+        "language": "C++",
+        "nameconcat": "PurpleI2P/i2pd"
+    },
+    {
+        "owner": "mavlink",
+        "name": "qgroundcontrol",
+        "url": "http://www.github.com/mavlink/qgroundcontrol",
+        "language": "C++",
+        "nameconcat": "mavlink/qgroundcontrol"
+    },
+    {
+        "owner": "eranif",
+        "name": "codelite",
+        "url": "http://www.github.com/eranif/codelite",
+        "language": "C++",
+        "nameconcat": "eranif/codelite"
+    },
+    {
+        "owner": "Icinga",
+        "name": "icinga2",
+        "url": "http://www.github.com/Icinga/icinga2",
+        "language": "C++",
+        "nameconcat": "Icinga/icinga2"
+    },
+    {
+        "owner": "gongminmin",
+        "name": "KlayGE",
+        "url": "http://www.github.com/gongminmin/KlayGE",
+        "language": "C++",
+        "nameconcat": "gongminmin/KlayGE"
+    },
+    {
+        "owner": "randombit",
+        "name": "botan",
+        "url": "http://www.github.com/randombit/botan",
+        "language": "C++",
+        "nameconcat": "randombit/botan"
+    },
+    {
+        "owner": "harfbuzz",
+        "name": "harfbuzz",
+        "url": "http://www.github.com/harfbuzz/harfbuzz",
+        "language": "C++",
+        "nameconcat": "harfbuzz/harfbuzz"
+    },
+    {
+        "owner": "toggl",
+        "name": "toggldesktop",
+        "url": "http://www.github.com/toggl/toggldesktop",
+        "language": "C++",
+        "nameconcat": "toggl/toggldesktop"
+    },
+    {
+        "owner": "Ardour",
+        "name": "ardour",
+        "url": "http://www.github.com/Ardour/ardour",
+        "language": "C++",
+        "nameconcat": "Ardour/ardour"
+    },
+    {
+        "owner": "owncloud",
+        "name": "client",
+        "url": "http://www.github.com/owncloud/client",
+        "language": "C++",
+        "nameconcat": "owncloud/client"
+    },
+    {
+        "owner": "Kitware",
+        "name": "VTK",
+        "url": "http://www.github.com/Kitware/VTK",
+        "language": "C++",
+        "nameconcat": "Kitware/VTK"
+    },
+    {
+        "owner": "rathena",
+        "name": "rathena",
+        "url": "http://www.github.com/rathena/rathena",
+        "language": "C++",
+        "nameconcat": "rathena/rathena"
+    },
+    {
+        "owner": "scummvm",
+        "name": "scummvm",
+        "url": "http://www.github.com/scummvm/scummvm",
+        "language": "C++",
+        "nameconcat": "scummvm/scummvm"
+    },
+    {
+        "owner": "vcmi",
+        "name": "vcmi",
+        "url": "http://www.github.com/vcmi/vcmi",
+        "language": "C++",
+        "nameconcat": "vcmi/vcmi"
+    },
+    {
+        "owner": "crawl",
+        "name": "crawl",
+        "url": "http://www.github.com/crawl/crawl",
+        "language": "C++",
+        "nameconcat": "crawl/crawl"
+    },
+    {
+        "owner": "OpenXcom",
+        "name": "OpenXcom",
+        "url": "http://www.github.com/OpenXcom/OpenXcom",
+        "language": "C++",
+        "nameconcat": "OpenXcom/OpenXcom"
+    },
+    {
+        "owner": "embree",
+        "name": "embree",
+        "url": "http://www.github.com/embree/embree",
+        "language": "C++",
+        "nameconcat": "embree/embree"
+    },
+    {
+        "owner": "qtumproject",
+        "name": "qtum",
+        "url": "http://www.github.com/qtumproject/qtum",
+        "language": "C++",
+        "nameconcat": "qtumproject/qtum"
+    },
+    {
+        "owner": "Cxbx-Reloaded",
+        "name": "Cxbx-Reloaded",
+        "url": "http://www.github.com/Cxbx-Reloaded/Cxbx-Reloaded",
+        "language": "C++",
+        "nameconcat": "Cxbx-Reloaded/Cxbx-Reloaded"
+    },
+    {
+        "owner": "stepmania",
+        "name": "stepmania",
+        "url": "http://www.github.com/stepmania/stepmania",
+        "language": "C++",
+        "nameconcat": "stepmania/stepmania"
+    },
+    {
+        "owner": "apache",
+        "name": "trafficserver",
+        "url": "http://www.github.com/apache/trafficserver",
+        "language": "C++",
+        "nameconcat": "apache/trafficserver"
+    },
+    {
+        "owner": "cnr-isti-vclab",
+        "name": "meshlab",
+        "url": "http://www.github.com/cnr-isti-vclab/meshlab",
+        "language": "C++",
+        "nameconcat": "cnr-isti-vclab/meshlab"
+    },
+    {
+        "owner": "opentx",
+        "name": "opentx",
+        "url": "http://www.github.com/opentx/opentx",
+        "language": "C++",
+        "nameconcat": "opentx/opentx"
+    },
+    {
+        "owner": "qt-creator",
+        "name": "qt-creator",
+        "url": "http://www.github.com/qt-creator/qt-creator",
+        "language": "C++",
+        "nameconcat": "qt-creator/qt-creator"
+    }]
