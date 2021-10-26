@@ -3444,13 +3444,6 @@
         "nameconcat": "Azure/azure-sdk-for-node"
     },
     {
-        "owner": "coderaiser",
-        "name": "cloudcmd",
-        "url": "http://www.github.com/coderaiser/cloudcmd",
-        "language": "JavaScript",
-        "nameconcat": "coderaiser/cloudcmd"
-    },
-    {
         "owner": "apache",
         "name": "hadoop",
         "url": "http://www.github.com/apache/hadoop",

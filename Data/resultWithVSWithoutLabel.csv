@@ -1,2 +1,0 @@
-[p-value,identical,delta,eff_size, summary(treatment | control)]
-2.2e-16,False,0.3012004,small, Min=5;Median=342.500;Mean=635.005;Max=17140;stdDev=1058.704 | Min=0;Median=198.000;Mean=345.576;Max=4385;stdDev=483.874

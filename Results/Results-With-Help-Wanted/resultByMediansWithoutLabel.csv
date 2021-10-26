@@ -1,0 +1,16 @@
+Comparing first contributions using the median of created_at
+p-value,identical,delta,eff_size,summary_treatment,summary_control
+0.003464,False,-0.1692211,small,Min=0;Median=172.000;Mean=322.915;Max=3133;std_dev=468.700,Min=29;Median=220.000;Mean=369.415;Max=4385;std_dev=516.141
+
+Comparing first contributions using the median of number_weekly_dist
+p-value,identical,delta,eff_size,summary_treatment,summary_control
+0.00548,False,0.1607789,small,Min=29;Median=215.000;Mean=368.578;Max=4385;std_dev=517.510,Min=0;Median=173.500;Mean=323.980;Max=3133;std_dev=467.540
+
+Comparing first contributions using the median of stars
+p-value,identical,delta,eff_size,summary_treatment,summary_control
+2.2e-16,False,0.5182915,large,Min=14;Median=310.000;Mean=495.106;Max=4000;std_dev=553.085,Min=0;Median=124.000;Mean=198.085;Max=4385;std_dev=370.775
+
+Comparing first contributions using the median of subs
+p-value,identical,delta,eff_size,summary_treatment,summary_control
+2.2e-16,False,0.4840201,large,Min=16;Median=301.000;Mean=487.518;Max=4000;std_dev=553.956,Min=0;Median=131.000;Mean=205.635;Max=4385;std_dev=375.377
+
