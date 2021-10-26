@@ -1,0 +1,2 @@
+p-value,identical,delta,eff_size,summary(treatment),treatment_size,summary(control),control_size
+2.2e-16,False,0.3455063,medium,Min=5;Median=369.500;Mean=665.283;Max=17140;std_dev=1069.066,544,Min=0;Median=198.000;Mean=366.380;Max=6828;std_dev=606.720,516

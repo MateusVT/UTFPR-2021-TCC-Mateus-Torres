@@ -337,6 +337,7 @@ def main(proc_list, multiproc=True):
             proc.join()
 
 if __name__ == '__main__':
+    print("--- Starting execution! ---")
     main(exec_list)
     print("---Execution time: %s seconds ---" % (time.time() - start_time))
 

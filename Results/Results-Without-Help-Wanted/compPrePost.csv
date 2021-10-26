@@ -1,0 +1,545 @@
+owner/repo,lang,label,wilcoxon_pvalue,identical,delta,eff_size,invalid,summary_treatment,summary_control
+Airblader/i3,C,support,7.257E-01,True,0.01132498,negligible,False,Min=0;Median=0.000;Mean=0.087;Max=2;std_dev=0.296,Min=0;Median=0.000;Mean=0.082;Max=2;std_dev=0.310
+ARMmbed/mbedtls,C,good first issue,3.627E-12,False,0.3563535,medium,False,Min=0;Median=1.000;Mean=1.364;Max=8;std_dev=1.375,Min=0;Median=0.000;Mean=0.595;Max=3;std_dev=0.827
+audacity/audacity,C,good first issue,3.238E-09,False,0.3783974,medium,False,Min=0;Median=1.000;Mean=1.333;Max=6;std_dev=1.541,Min=0;Median=0.000;Mean=0.411;Max=4;std_dev=0.693
+borgbackup/borg,C,good first issue,,,,,True,,
+cleanflight/cleanflight,C,Support,3.077E-09,False,0.3512626,medium,False,Min=0;Median=0.000;Mean=1.003;Max=8;std_dev=1.529,Min=0;Median=0.000;Mean=0.125;Max=2;std_dev=0.396
+cloudius-systems/osv,C,easy,9.891E-01,True,-0.0006281407,negligible,False,Min=0;Median=0.000;Mean=0.121;Max=2;std_dev=0.341,Min=0;Median=0.000;Mean=0.203;Max=3;std_dev=0.647
+collectd/collectd,C,good first issue,2.329E-04,False,0.3130154,small,False,Min=0;Median=1.000;Mean=1.155;Max=5;std_dev=1.164,Min=0;Median=0.000;Mean=0.543;Max=3;std_dev=0.808
+facebook/zstd,C,good first issue,5.022E-09,False,0.3322595,medium,False,Min=0;Median=1.000;Mean=1.027;Max=7;std_dev=1.024,Min=0;Median=0.000;Mean=0.536;Max=8;std_dev=0.989
+flatpak/flatpak,C,Hacktoberfest,7.545E-01,True,-0.02055457,negligible,False,Min=0;Median=0.000;Mean=0.617;Max=5;std_dev=0.865,Min=0;Median=0.000;Mean=0.659;Max=5;std_dev=0.922
+fontforge/fontforge,C,bite-sized,,,,,True,,
+FreeRDP/FreeRDP,C,trivial,,,,,True,,
+gluster/glusterfs,C,starter task,5.404E-04,False,0.1088235,negligible,False,Min=0;Median=0.000;Mean=0.328;Max=6;std_dev=0.764,Min=0;Median=0.000;Mean=0.125;Max=2;std_dev=0.359
+greenplum-db/gpdb,C,community,1.333E-03,False,0.1957968,small,False,Min=0;Median=1.000;Mean=1.276;Max=20;std_dev=2.060,Min=0;Median=0.000;Mean=0.680;Max=4;std_dev=0.841
+i3/i3,C,good first issue,3.589E-01,False,-0.05633482,negligible,False,Min=0;Median=0.500;Mean=0.731;Max=4;std_dev=0.892,Min=0;Median=1.000;Mean=0.862;Max=6;std_dev=1.058
+ImageMagick/ImageMagick,C,up for grabs,2.279E-02,False,0.1993377,small,False,Min=0;Median=0.000;Mean=0.507;Max=5;std_dev=0.768,Min=0;Median=0.000;Mean=0.200;Max=1;std_dev=0.406
+iNavFlight/inav,C,Support,8.313E-16,False,0.4988855,large,False,Min=0;Median=1.000;Mean=1.079;Max=5;std_dev=1.091,Min=0;Median=0.000;Mean=0.215;Max=2;std_dev=0.476
+irssi/irssi,C,easy,,,,,True,,
+libgit2/libgit2,C,up for grabs,3.767E-02,False,0.1177977,negligible,False,Min=0;Median=1.000;Mean=1.062;Max=5;std_dev=1.077,Min=0;Median=1.000;Mean=0.821;Max=4;std_dev=0.916
+libretro/RetroArch,C,prs welcome,2.200E-16,False,0.5975011,large,False,Min=0;Median=1.000;Mean=1.294;Max=7;std_dev=1.260,Min=0;Median=0.000;Mean=0.161;Max=4;std_dev=0.500
+lxc/lxc,C,Easy,1.136E-04,False,0.2181672,small,False,Min=0;Median=1.000;Mean=0.866;Max=5;std_dev=0.965,Min=0;Median=0.000;Mean=0.525;Max=6;std_dev=0.884
+MarlinFirmware/Marlin,C,good first issue,2.200E-16,False,0.7332148,large,False,Min=0;Median=4.000;Mean=4.799;Max=19;std_dev=2.926,Min=0;Median=1.000;Mean=1.382;Max=7;std_dev=1.464
+neomutt/neomutt,C,hacktoberfest,3.275E-02,False,0.1785846,small,False,Min=0;Median=0.000;Mean=0.580;Max=6;std_dev=0.890,Min=0;Median=0.000;Mean=0.268;Max=2;std_dev=0.501
+netdata/netdata,C,good first issue,2.200E-16,False,0.7350158,large,False,Min=0;Median=2.000;Mean=1.871;Max=14;std_dev=1.952,Min=0;Median=0.000;Mean=0.000;Max=0;std_dev=0.000
+nmap/nmap,C,good first issue,2.200E-16,False,0.4571542,medium,False,Min=0;Median=1.000;Mean=1.032;Max=4;std_dev=1.029,Min=0;Median=0.000;Mean=0.261;Max=3;std_dev=0.632
+numpy/numpy,C,good first issue,2.200E-16,False,0.8061466,large,False,Min=0;Median=3.000;Mean=3.403;Max=20;std_dev=2.831,Min=0;Median=0.000;Mean=0.394;Max=3;std_dev=0.676
+obsproject/obs-studio,C,Good first issue,2.200E-16,False,0.5764984,large,False,Min=0;Median=3.000;Mean=3.183;Max=10;std_dev=2.220,Min=0;Median=1.000;Mean=1.161;Max=6;std_dev=1.194
+OpenSC/OpenSC,C,Support,1.826E-07,False,0.2340199,small,False,Min=0;Median=0.000;Mean=0.495;Max=5;std_dev=0.744,Min=0;Median=0.000;Mean=0.162;Max=2;std_dev=0.387
+openssl/openssl,C,good first issue,2.200E-16,False,0.505977,large,False,Min=0;Median=3.000;Mean=3.513;Max=10;std_dev=2.240,Min=0;Median=1.000;Mean=1.627;Max=8;std_dev=1.568
+php/php-src,C,Quickfix,2.200E-16,False,0.5188578,large,False,Min=0;Median=2.000;Mean=2.654;Max=15;std_dev=1.984,Min=0;Median=1.000;Mean=1.076;Max=6;std_dev=1.296
+qmk/qmk_firmware,C,good first issue,2.200E-16,False,0.9347319,large,False,Min=2;Median=10.000;Mean=11.944;Max=41;std_dev=7.108,Min=0;Median=1.000;Mean=1.881;Max=8;std_dev=1.926
+radare/radare2,C,good first issue,,,,,True,,
+rsyslog/rsyslog,C,small,1.110E-04,False,0.3502304,medium,False,Min=0;Median=0.000;Mean=0.655;Max=4;std_dev=0.848,Min=0;Median=0.000;Mean=0.143;Max=2;std_dev=0.430
+rubinius/rubinius,C,Community,5.576E-02,False,-0.06620342,negligible,False,Min=0;Median=0.000;Mean=0.364;Max=5;std_dev=0.773,Min=0;Median=0.000;Mean=0.715;Max=13;std_dev=1.570
+swaywm/sway,C,good first issue,2.200E-16,False,0.5387791,large,False,Min=0;Median=2.000;Mean=2.296;Max=9;std_dev=1.668,Min=0;Median=1.000;Mean=0.859;Max=7;std_dev=1.077
+the-tcpdump-group/tcpdump,C,good-first-issue,2.620E-01,False,0.07324223,negligible,False,Min=0;Median=0.000;Mean=0.456;Max=2;std_dev=0.683,Min=0;Median=0.000;Mean=0.355;Max=3;std_dev=0.616
+transmission/transmission,C,pr welcome,4.604E-11,False,0.460274,medium,False,Min=0;Median=1.000;Mean=0.883;Max=5;std_dev=0.936,Min=0;Median=0.000;Mean=0.192;Max=3;std_dev=0.544
+wazuh/wazuh,C,community,3.570E-06,False,0.3676027,medium,False,Min=0;Median=0.000;Mean=0.772;Max=16;std_dev=1.379,Min=0;Median=0.000;Mean=0.104;Max=1;std_dev=0.309
+YugaByte/yugabyte-db,C,good first issue,,,,,True,,
+zephyrproject-rtos/zephyr,C,Good first issue,,,,,True,,
+zfsonlinux/zfs,C,good first issue,2.200E-16,False,0.4754982,large,False,Min=0;Median=1.000;Mean=1.024;Max=7;std_dev=1.269,Min=0;Median=0.000;Mean=0.135;Max=2;std_dev=0.407
+actor-framework/actor-framework,C++,good first issue,5.642E-03,False,0.08766114,negligible,False,Min=0;Median=0.000;Mean=0.249;Max=3;std_dev=0.557,Min=0;Median=0.000;Mean=0.120;Max=2;std_dev=0.341
+apache/incubator-mxnet,C++,good first issue,1.131E-01,False,-0.09914157,negligible,False,Min=0;Median=3.000;Mean=2.818;Max=9;std_dev=2.061,Min=0;Median=3.000;Mean=3.395;Max=12;std_dev=2.726
+apache/trafficserver,C++,good first issue,4.077E-09,False,0.2228369,small,False,Min=0;Median=0.000;Mean=0.650;Max=6;std_dev=0.983,Min=0;Median=0.000;Mean=0.296;Max=4;std_dev=0.668
+ApolloAuto/apollo,C++,Good first issue,3.491E-01,False,-0.0796406,negligible,False,Min=0;Median=1.000;Mean=1.424;Max=7;std_dev=1.465,Min=0;Median=1.000;Mean=1.614;Max=7;std_dev=1.512
+apple/foundationdb,C++,good first issue,,,,,True,,
+appleseedhq/appleseed,C++,Good First Issue,5.417E-04,False,0.1529637,small,False,Min=0;Median=0.000;Mean=0.199;Max=7;std_dev=0.573,Min=0;Median=0.000;Mean=0.000;Max=0;std_dev=0.000
+ArduPilot/ardupilot,C++,good first issue,,,,,True,,
+arrayfire/arrayfire,C++,good first issue,1.062E-02,False,-0.1059248,negligible,False,Min=0;Median=0.000;Mean=0.160;Max=2;std_dev=0.426,Min=0;Median=0.000;Mean=0.289;Max=2;std_dev=0.550
+aseprite/aseprite,C++,good first issue,3.079E-03,False,0.1404219,negligible,False,Min=0;Median=0.000;Mean=0.444;Max=3;std_dev=0.690,Min=0;Median=0.000;Mean=0.232;Max=2;std_dev=0.452
+AudioKit/AudioKit,C++,good first issue,5.261E-06,False,0.2235306,small,False,Min=0;Median=0.000;Mean=0.645;Max=3;std_dev=0.800,Min=0;Median=0.000;Mean=0.345;Max=4;std_dev=0.690
+bitcoin/bitcoin,C++,good first issue,2.200E-16,False,0.6681215,large,False,Min=0;Median=3.000;Mean=3.655;Max=19;std_dev=2.464,Min=0;Median=1.000;Mean=1.133;Max=8;std_dev=1.329
+catboost/catboost,C++,good first issue,,,,,True,,
+CGAL/cgal,C++,trivial,,,,,True,,
+citra-emu/citra,C++,E-easy,,,,,True,,
+CleverRaven/Cataclysm-DDA,C++,Good First Issue,,,,,True,,
+crawl/crawl,C++,beginner,6.660E-07,False,0.2885193,small,False,Min=0;Median=1.000;Mean=0.819;Max=4;std_dev=0.937,Min=0;Median=0.000;Mean=0.342;Max=2;std_dev=0.604
+dogecoin/dogecoin,C++,good first issue,1.204E-09,False,0.6093046,large,False,Min=0;Median=2.000;Mean=2.048;Max=6;std_dev=1.596,Min=0;Median=0.000;Mean=0.542;Max=18;std_dev=1.748
+electron/electron,C++,beginner friendly,2.200E-16,False,0.8624797,large,False,Min=0;Median=3.000;Mean=3.811;Max=17;std_dev=2.690,Min=0;Median=0.000;Mean=0.373;Max=11;std_dev=1.564
+emscripten-core/emscripten,C++,good first bug,,,,,True,,
+EOSIO/eos,C++,Support,,,,,True,,
+eranif/codelite,C++,good first issue,9.075E-01,True,-0.004520885,negligible,False,Min=0;Median=0.000;Mean=0.200;Max=2;std_dev=0.444,Min=0;Median=0.000;Mean=0.216;Max=2;std_dev=0.485
+ethereum/aleth,C++,good first issue,2.274E-01,False,-0.05719807,negligible,False,Min=0;Median=0.000;Mean=0.413;Max=3;std_dev=0.696,Min=0;Median=0.000;Mean=0.533;Max=4;std_dev=0.868
+ethereum-mining/ethminer,C++,up-for-grabs,,,,,True,,
+ethereum/solidity,C++,good first issue,9.740E-06,False,0.3515635,medium,False,Min=0;Median=1.000;Mean=1.881;Max=10;std_dev=1.760,Min=0;Median=1.000;Mean=0.887;Max=4;std_dev=1.057
+facebook/hhvm,C++,probably easy,2.429E-14,False,0.3261144,small,False,Min=0;Median=0.000;Mean=0.953;Max=5;std_dev=1.228,Min=0;Median=0.000;Mean=0.271;Max=4;std_dev=0.669
+facebook/rocksdb,C++,up-for-grabs,2.200E-16,False,0.5897777,large,False,Min=0;Median=2.000;Mean=2.432;Max=11;std_dev=1.763,Min=0;Median=1.000;Mean=0.796;Max=4;std_dev=0.976
+flutter/engine,C++,easy fix,2.200E-16,False,0.7282659,large,False,Min=0;Median=2.000;Mean=3.075;Max=27;std_dev=3.101,Min=0;Median=0.000;Mean=0.577;Max=4;std_dev=0.868
+GameFoundry/bsf,C++,good first issue,,,,,True,,
+gnuradio/gnuradio,C++,good first issue,4.211E-14,False,0.3391257,medium,False,Min=0;Median=1.000;Mean=0.996;Max=10;std_dev=1.336,Min=0;Median=0.000;Mean=0.316;Max=5;std_dev=0.636
+godotengine/godot,C++,hacktoberfest,,,,,True,,
+harfbuzz/harfbuzz,C++,good first issue,8.726E-13,False,0.3015118,small,False,Min=0;Median=0.000;Mean=0.668;Max=5;std_dev=0.904,Min=0;Median=0.000;Mean=0.188;Max=2;std_dev=0.441
+Icinga/icinga2,C++,good first issue,1.073E-07,False,0.2998201,small,False,Min=0;Median=1.000;Mean=0.769;Max=6;std_dev=0.961,Min=0;Median=0.000;Mean=0.289;Max=4;std_dev=0.606
+JohnSully/KeyDB,C++,good first issue,5.520E-01,True,0.04748941,negligible,False,Min=0;Median=0.000;Mean=0.193;Max=2;std_dev=0.418,Min=0;Median=0.000;Mean=0.138;Max=1;std_dev=0.351
+leanprover/lean,C++,E-easy,6.155E-01,True,0.01458401,negligible,False,Min=0;Median=0.000;Mean=0.127;Max=2;std_dev=0.392,Min=0;Median=0.000;Mean=0.097;Max=2;std_dev=0.314
+ledger/ledger,C++,easy,3.254E-03,False,0.1632895,small,False,Min=0;Median=0.000;Mean=0.431;Max=2;std_dev=0.585,Min=0;Median=0.000;Mean=0.254;Max=3;std_dev=0.518
+LMMS/lmms,C++,good first issue,,,,,True,,
+mapbox/mapbox-gl-native,C++,good first issue,2.285E-08,False,0.3632474,medium,False,Min=0;Median=1.000;Mean=0.872;Max=5;std_dev=1.009,Min=0;Median=0.000;Mean=0.253;Max=2;std_dev=0.490
+minetest/minetest,C++,Beginner Friendly,3.152E-09,False,0.313052,small,False,Min=0;Median=1.000;Mean=1.103;Max=7;std_dev=1.140,Min=0;Median=0.000;Mean=0.514;Max=4;std_dev=0.748
+mlpack/mlpack,C++,good first issue,,,,,True,,
+monero-project/monero,C++,easy,5.061E-14,False,0.4165562,medium,False,Min=0;Median=1.000;Mean=1.372;Max=6;std_dev=1.282,Min=0;Median=0.000;Mean=0.514;Max=4;std_dev=0.826
+mumble-voip/mumble,C++,support,7.765E-04,False,0.1538657,small,False,Min=0;Median=0.000;Mean=0.561;Max=6;std_dev=0.854,Min=0;Median=0.000;Mean=0.316;Max=2;std_dev=0.609
+musescore/MuseScore,C++,good first issue,3.191E-08,False,0.5173388,large,False,Min=0;Median=1.000;Mean=1.706;Max=7;std_dev=1.426,Min=0;Median=0.000;Mean=0.662;Max=5;std_dev=0.893
+NixOS/nix,C++,good-first-bug,2.200E-16,False,0.697863,large,False,Min=0;Median=2.000;Mean=2.550;Max=15;std_dev=2.074,Min=0;Median=0.000;Mean=0.649;Max=6;std_dev=0.946
+OGRECave/ogre,C++,good first issue,,,,,True,,
+omnisci/omniscidb,C++,starter,,,,,True,,
+opencv/opencv,C++,good first issue,7.786E-06,False,0.2485439,small,False,Min=0;Median=4.000;Mean=4.512;Max=16;std_dev=2.398,Min=0;Median=3.000;Mean=3.443;Max=10;std_dev=2.382
+openframeworks/openFrameworks,C++,bitesize,3.234E-08,False,0.4391081,medium,False,Min=0;Median=0.000;Mean=0.657;Max=13;std_dev=0.999,Min=0;Median=0.000;Mean=0.000;Max=0;std_dev=0.000
+OpenRCT2/OpenRCT2,C++,hacktoberfest,5.671E-05,False,0.3087281,small,False,Min=0;Median=1.000;Mean=1.444;Max=7;std_dev=1.417,Min=0;Median=0.500;Mean=0.694;Max=2;std_dev=0.781
+OpenTTD/OpenTTD,C++,good first issue,,,,,True,,
+OSGeo/gdal,C++,good first issue,2.200E-16,False,0.6642018,large,False,Min=0;Median=2.000;Mean=2.339;Max=8;std_dev=1.827,Min=0;Median=0.000;Mean=0.449;Max=4;std_dev=0.776
+osquery/osquery,C++,Hacktoberfest,3.339E-04,False,0.2337363,small,False,Min=0;Median=1.000;Mean=1.216;Max=7;std_dev=1.246,Min=0;Median=0.000;Mean=0.853;Max=13;std_dev=1.604
+owncloud/client,C++,good first issue,,,,,True,,
+panda3d/panda3d,C++,good first issue,2.549E-06,False,0.1864102,small,False,Min=0;Median=0.000;Mean=0.377;Max=5;std_dev=0.684,Min=0;Median=0.000;Mean=0.126;Max=2;std_dev=0.346
+PCSX2/pcsx2,C++,Trivial,2.471E-01,False,0.09743243,negligible,False,Min=0;Median=0.000;Mean=0.614;Max=11;std_dev=1.001,Min=0;Median=0.000;Mean=0.525;Max=5;std_dev=1.037
+PointCloudLibrary/pcl,C++,good first issue,3.666E-01,False,-0.08278986,negligible,False,Min=0;Median=1.000;Mean=1.152;Max=6;std_dev=1.080,Min=0;Median=1.000;Mean=1.325;Max=4;std_dev=1.163
+ponylang/ponyc,C++,good first issue,2.200E-16,False,0.4061775,medium,False,Min=0;Median=0.000;Mean=0.697;Max=5;std_dev=0.867,Min=0;Median=0.000;Mean=0.116;Max=4;std_dev=0.468
+PowerDNS/pdns,C++,easy,2.802E-07,False,0.3149833,small,False,Min=0;Median=1.000;Mean=0.843;Max=7;std_dev=1.015,Min=0;Median=0.000;Mean=0.301;Max=2;std_dev=0.567
+Project-OSRM/osrm-backend,C++,Starter Task,7.152E-04,False,0.1532095,small,False,Min=0;Median=0.000;Mean=0.430;Max=3;std_dev=0.641,Min=0;Median=0.000;Mean=0.233;Max=2;std_dev=0.484
+pytorch/pytorch,C++,newcomer,2.200E-16,False,0.8810805,large,False,Min=1;Median=11.000;Mean=11.847;Max=100;std_dev=8.844,Min=0;Median=0.000;Mean=2.093;Max=9;std_dev=2.589
+qgis/QGIS,C++,Easy fix,,,,,True,,
+qTox/qTox,C++,Good first issue,4.807E-11,False,-0.4112515,medium,False,Min=0;Median=0.000;Mean=0.463;Max=5;std_dev=0.783,Min=0;Median=1.000;Mean=1.271;Max=6;std_dev=1.229
+randombit/botan,C++,good first issue,7.963E-07,False,0.216055,small,False,Min=0;Median=0.000;Mean=0.438;Max=3;std_dev=0.678,Min=0;Median=0.000;Mean=0.145;Max=2;std_dev=0.403
+rethinkdb/rethinkdb,C++,good_for_contributors,,,,,True,,
+ripple/rippled,C++,Good First Issue,2.933E-04,False,0.1276916,negligible,False,Min=0;Median=0.000;Mean=0.335;Max=6;std_dev=0.693,Min=0;Median=0.000;Mean=0.154;Max=2;std_dev=0.408
+RobotLocomotion/drake,C++,good first issue,3.271E-03,False,0.1529647,small,False,Min=0;Median=0.000;Mean=0.521;Max=9;std_dev=0.901,Min=0;Median=0.000;Mean=0.286;Max=3;std_dev=0.599
+shogun-toolbox/shogun,C++,good first issue,1.157E-01,False,0.09601361,negligible,False,Min=0;Median=0.000;Mean=0.479;Max=6;std_dev=0.833,Min=0;Median=0.000;Mean=0.500;Max=5;std_dev=1.178
+slic3r/Slic3r,C++,good first issue,6.942E-01,True,0.01577069,negligible,False,Min=0;Median=0.000;Mean=0.349;Max=3;std_dev=0.574,Min=0;Median=0.000;Mean=0.336;Max=3;std_dev=0.578
+steemit/steem,C++,Community,4.571E-07,False,-0.2742402,small,False,Min=0;Median=0.000;Mean=0.224;Max=3;std_dev=0.547,Min=0;Median=0.000;Mean=0.634;Max=4;std_dev=0.888
+Stellarium/stellarium,C++,good first issue,6.941E-11,False,0.2552824,small,False,Min=0;Median=0.000;Mean=0.393;Max=3;std_dev=0.644,Min=0;Median=0.000;Mean=0.071;Max=2;std_dev=0.311
+stepmania/stepmania,C++,good first issue,6.521E-01,True,0.01943485,negligible,False,Min=0;Median=0.000;Mean=0.328;Max=3;std_dev=0.568,Min=0;Median=0.000;Mean=0.316;Max=2;std_dev=0.580
+supercollider/supercollider,C++,good first issue,,,,,True,,
+telegramdesktop/tdesktop,C++,easy pick,1.286E-02,False,0.1520995,small,False,Min=0;Median=1.000;Mean=0.915;Max=4;std_dev=0.966,Min=0;Median=0.000;Mean=0.682;Max=5;std_dev=0.958
+tensorflow/tensorflow,C++,stat:contributions welcome,,,,,True,,
+vcmi/vcmi,C++,Hacktoberfest,4.628E-01,False,0.03371051,negligible,False,Min=0;Median=0.000;Mean=0.228;Max=2;std_dev=0.474,Min=0;Median=0.000;Mean=0.198;Max=2;std_dev=0.469
+VowpalWabbit/vowpal_wabbit,C++,Good First Issue,6.337E-02,False,0.08509911,negligible,False,Min=0;Median=0.000;Mean=0.474;Max=4;std_dev=0.703,Min=0;Median=0.000;Mean=0.360;Max=3;std_dev=0.608
+wesnoth/wesnoth,C++,Good first issue,1.992E-03,False,0.1472929,small,False,Min=0;Median=0.000;Mean=0.601;Max=4;std_dev=0.742,Min=0;Median=0.000;Mean=0.413;Max=4;std_dev=0.679
+xbmc/xbmc,C++,good first issue,2.952E-02,False,-0.1179509,negligible,False,Min=0;Median=2.000;Mean=1.926;Max=15;std_dev=1.935,Min=0;Median=2.000;Mean=2.144;Max=10;std_dev=1.589
+xenia-project/xenia,C++,good first issue,8.082E-05,False,0.2495275,small,False,Min=0;Median=0.000;Mean=0.334;Max=4;std_dev=0.629,Min=0;Median=0.000;Mean=0.019;Max=1;std_dev=0.139
+yandex/ClickHouse,C++,hacktoberfest,2.200E-16,False,0.742212,large,False,Min=0;Median=3.000;Mean=4.048;Max=43;std_dev=4.080,Min=0;Median=0.000;Mean=0.667;Max=6;std_dev=1.143
+zcash/zcash,C++,community,,,,,True,,
+zeroc-ice/ice,C++,easy,2.830E-02,False,0.07467013,negligible,False,Min=0;Median=0.000;Mean=0.164;Max=2;std_dev=0.413,Min=0;Median=0.000;Mean=0.079;Max=2;std_dev=0.293
+akkadotnet/akka.net,C#,up for grabs,,,,,True,,
+AngleSharp/AngleSharp,C#,up-for-grabs,1.310E-04,False,0.1582533,small,False,Min=0;Median=0.000;Mean=0.215;Max=3;std_dev=0.484,Min=0;Median=0.000;Mean=0.031;Max=1;std_dev=0.173
+aspnet/AspNetCore.Docs,C#,Good first issue,2.200E-16,False,0.5813063,large,False,Min=0;Median=6.000;Mean=6.086;Max=33;std_dev=3.569,Min=0;Median=2.000;Mean=2.967;Max=20;std_dev=3.407
+aspnet/AspNetCore,C#,good first issue,4.707E-10,False,0.3688366,medium,False,Min=0;Median=2.000;Mean=2.859;Max=20;std_dev=3.172,Min=0;Median=0.000;Mean=0.791;Max=6;std_dev=1.223
+aspnet/Extensions,C#,good first issue,5.286E-09,False,0.2985718,small,False,Min=0;Median=0.000;Mean=0.992;Max=6;std_dev=1.331,Min=0;Median=0.000;Mean=0.303;Max=4;std_dev=0.734
+AvaloniaUI/Avalonia,C#,up-for-grabs,4.121E-08,False,0.3658854,medium,False,Min=0;Median=0.000;Mean=0.704;Max=11;std_dev=1.213,Min=0;Median=0.000;Mean=0.062;Max=2;std_dev=0.302
+aws/aws-sdk-net,C#,small,6.108E-05,False,0.1600733,small,False,Min=0;Median=0.000;Mean=0.448;Max=3;std_dev=0.698,Min=0;Median=0.000;Mean=0.224;Max=3;std_dev=0.485
+Azure/azure-powershell,C#,Up for grabs,,,,,True,,
+Azure/azure-sdk-for-net,C#,good first issue,2.200E-16,False,0.8141093,large,False,Min=0;Median=6.000;Mean=6.316;Max=31;std_dev=4.254,Min=0;Median=1.000;Mean=1.453;Max=9;std_dev=1.703
+castleproject/Windsor,C#,up-for-grabs,5.654E-01,True,0.02422777,negligible,False,Min=0;Median=0.000;Mean=0.180;Max=4;std_dev=0.475,Min=0;Median=0.000;Mean=0.129;Max=1;std_dev=0.338
+cefsharp/CefSharp,C#,up-for-grabs,4.048E-16,False,0.3570968,medium,False,Min=0;Median=0.000;Mean=0.592;Max=4;std_dev=0.772,Min=0;Median=0.000;Mean=0.110;Max=2;std_dev=0.382
+CosmosOS/Cosmos,C#,Up for Grabs,,,,,True,,
+dotnet/cli,C#,community,2.628E-10,False,-0.4246832,medium,False,Min=0;Median=0.000;Mean=0.728;Max=4;std_dev=0.943,Min=0;Median=1.000;Mean=1.624;Max=5;std_dev=1.285
+dotnet/coreclr,C#,easy,1.676E-04,False,-0.2290031,small,False,Min=0;Median=1.000;Mean=1.888;Max=14;std_dev=2.398,Min=0;Median=2.000;Mean=2.494;Max=23;std_dev=2.495
+dotnet/corert,C#,up-for-grabs,,,,,True,,
+dotnet/roslyn,C#,Community,,,,,True,,
+duplicati/duplicati,C#,hacktoberfest,1.606E-01,False,0.07099508,negligible,False,Min=0;Median=0.000;Mean=0.512;Max=4;std_dev=0.750,Min=0;Median=0.000;Mean=0.427;Max=5;std_dev=0.760
+elastic/elasticsearch-net,C#,Support,1.886E-06,False,0.2149904,small,False,Min=0;Median=0.000;Mean=0.644;Max=4;std_dev=0.879,Min=0;Median=0.000;Mean=0.295;Max=2;std_dev=0.559
+gitextensions/gitextensions,C#,up-for-grabs,1.019E-15,False,0.5158598,large,False,Min=0;Median=1.000;Mean=0.773;Max=7;std_dev=0.939,Min=0;Median=0.000;Mean=0.000;Max=0;std_dev=0.000
+github-for-unity/Unity,C#,up-for-grabs,,,,,True,,
+github/VisualStudio,C#,good first issue,9.707E-01,True,-0.001649582,negligible,False,Min=0;Median=0.000;Mean=0.208;Max=3;std_dev=0.483,Min=0;Median=0.000;Mean=0.220;Max=3;std_dev=0.521
+jellyfin/jellyfin,C#,good first issue,,,,,True,,
+MahApps/MahApps.Metro,C#,jump in,9.956E-01,True,-0.0003730995,negligible,False,Min=0;Median=0.000;Mean=0.477;Max=4;std_dev=0.788,Min=0;Median=0.000;Mean=0.479;Max=4;std_dev=0.790
+mono/mono,C#,good first issue,5.691E-01,True,0.02789009,negligible,False,Min=0;Median=1.000;Mean=1.598;Max=8;std_dev=1.322,Min=0;Median=1.000;Mean=1.566;Max=7;std_dev=1.381
+mono/monodevelop,C#,up-for-grabs,3.206E-01,False,-0.04213422,negligible,False,Min=0;Median=0.000;Mean=0.552;Max=15;std_dev=1.339,Min=0;Median=0.000;Mean=0.501;Max=4;std_dev=0.754
+MonoGame/MonoGame,C#,Good First Issue,5.978E-01,True,0.03111553,negligible,False,Min=0;Median=1.000;Mean=0.864;Max=5;std_dev=0.943,Min=0;Median=1.000;Mean=0.864;Max=4;std_dev=1.058
+MvvmCross/MvvmCross,C#,up-for-grabs,2.116E-08,False,0.4663175,medium,False,Min=0;Median=1.000;Mean=0.856;Max=7;std_dev=1.088,Min=0;Median=0.000;Mean=0.068;Max=1;std_dev=0.255
+NancyFx/Nancy,C#,Up for Grabs,5.385E-02,False,-0.09725275,negligible,False,Min=0;Median=0.000;Mean=0.606;Max=5;std_dev=0.946,Min=0;Median=0.000;Mean=0.715;Max=3;std_dev=0.874
+nhibernate/nhibernate-core,C#,good first issue,3.049E-02,False,-0.09425687,negligible,False,Min=0;Median=0.000;Mean=0.374;Max=2;std_dev=0.591,Min=0;Median=0.000;Mean=0.534;Max=4;std_dev=0.770
+NLog/NLog,C#,up-for-grabs,,,,,True,,
+NuGet/NuGetGallery,C#,Up for Grabs,,,,,True,,
+nunit/nunit,C#,good first issue,,,,,True,,
+opentk/opentk,C#,good first issue,4.004E-02,False,0.09406633,negligible,False,Min=0;Median=0.000;Mean=0.407;Max=3;std_dev=0.608,Min=0;Median=0.000;Mean=0.304;Max=2;std_dev=0.562
+PowerShell/PowerShell,C#,Hacktoberfest,,,,,True,,
+ppy/osu,C#,good-first-issue,7.977E-16,False,0.4585865,medium,False,Min=0;Median=1.000;Mean=1.772;Max=12;std_dev=1.866,Min=0;Median=0.000;Mean=0.570;Max=7;std_dev=0.980
+QuantConnect/Lean,C#,up for grabs,,,,,True,,
+SixLabors/ImageSharp,C#,hacktoberfest,,,,,True,,
+Sonarr/Sonarr,C#,up-for-grabs,6.525E-15,False,0.3495645,medium,False,Min=0;Median=0.000;Mean=0.635;Max=4;std_dev=0.837,Min=0;Median=0.000;Mean=0.131;Max=2;std_dev=0.371
+umbraco/Umbraco-CMS,C#,good first issue,4.439E-08,False,0.33903,medium,False,Min=0;Median=2.000;Mean=2.725;Max=18;std_dev=2.825,Min=0;Median=1.000;Mean=1.460;Max=13;std_dev=1.713
+VsVim/VsVim,C#,good first issue,1.068E-01,False,0.04390275,negligible,False,Min=0;Median=0.000;Mean=0.126;Max=3;std_dev=0.364,Min=0;Median=0.000;Mean=0.073;Max=1;std_dev=0.262
+xamarin/xamarin-macios,C#,community,,,,,True,,
+cilium/cilium,GO,good-first-issue,2.617E-11,False,0.6075472,large,False,Min=0;Median=1.000;Mean=1.487;Max=17;std_dev=1.962,Min=0;Median=0.000;Mean=0.000;Max=0;std_dev=0.000
+cloudfoundry/cli,GO,Easy,1.631E-01,False,-0.06866102,negligible,False,Min=0;Median=0.000;Mean=0.453;Max=3;std_dev=0.672,Min=0;Median=0.000;Mean=0.621;Max=4;std_dev=0.905
+cockroachdb/cockroach,GO,E-easy,5.327E-12,False,0.4951473,large,False,Min=0;Median=1.000;Mean=1.783;Max=51;std_dev=3.404,Min=0;Median=0.000;Mean=0.319;Max=2;std_dev=0.577
+concourse/concourse,GO,good first issue,5.512E-10,False,0.4162204,medium,False,Min=0;Median=1.000;Mean=0.994;Max=6;std_dev=1.146,Min=0;Median=0.000;Mean=0.244;Max=3;std_dev=0.648
+containers/libpod,GO,Good First Issue,8.549E-13,False,0.6916138,large,False,Min=0;Median=2.000;Mean=2.333;Max=16;std_dev=2.330,Min=0;Median=0.000;Mean=0.349;Max=3;std_dev=0.686
+cosmos/cosmos-sdk,GO,good first issue,2.200E-16,False,0.6756711,large,False,Min=0;Median=1.000;Mean=1.615;Max=20;std_dev=2.107,Min=0;Median=0.000;Mean=0.037;Max=1;std_dev=0.190
+elastic/beats,GO,good first issue,2.200E-16,False,0.7861774,large,False,Min=0;Median=2.000;Mean=2.746;Max=25;std_dev=2.406,Min=0;Median=0.000;Mean=0.214;Max=5;std_dev=0.731
+etcd-io/etcd,GO,good first issue,1.529E-03,False,0.1829741,small,False,Min=0;Median=2.000;Mean=2.653;Max=10;std_dev=1.731,Min=0;Median=2.000;Mean=2.141;Max=10;std_dev=1.604
+ethereum/go-ethereum,GO,good first issue,2.200E-16,False,0.8006761,large,False,Min=0;Median=3.000;Mean=3.373;Max=13;std_dev=2.363,Min=0;Median=0.000;Mean=0.488;Max=4;std_dev=0.799
+flynn/flynn,GO,complexity/easy,5.313E-03,False,0.1565934,small,False,Min=0;Median=0.000;Mean=0.300;Max=6;std_dev=0.713,Min=0;Median=0.000;Mean=0.054;Max=1;std_dev=0.227
+git-lfs/git-lfs,GO,good first issue,7.842E-01,True,0.01532972,negligible,False,Min=0;Median=0.000;Mean=0.566;Max=4;std_dev=0.754,Min=0;Median=0.000;Mean=0.610;Max=10;std_dev=0.988
+go-gitea/gitea,GO,good first issue,,,,,True,,
+goharbor/harbor,GO,community,6.303E-08,False,0.3852186,medium,False,Min=0;Median=1.500;Mean=1.785;Max=11;std_dev=1.545,Min=0;Median=1.000;Mean=0.862;Max=5;std_dev=1.014
+golang/go,GO,Community,2.200E-16,False,0.8708315,large,False,Min=0;Median=5.000;Mean=5.171;Max=14;std_dev=3.136,Min=0;Median=0.000;Mean=0.424;Max=4;std_dev=0.725
+gonum/gonum,GO,good first issue,,,,,True,,
+hashicorp/consul,GO,Hacktoberfest,1.341E-02,False,0.1390567,negligible,False,Min=0;Median=2.000;Mean=2.630;Max=29;std_dev=2.552,Min=0;Median=2.000;Mean=2.112;Max=9;std_dev=1.694
+hashicorp/packer,GO,good first issue,,,,,True,,
+hashicorp/terraform,GO,good first issue,2.040E-02,False,-0.1364758,negligible,False,Min=0;Median=4.000;Mean=4.581;Max=14;std_dev=2.430,Min=0;Median=5.000;Mean=6.723;Max=33;std_dev=6.225
+hashicorp/vault,GO,good-first-issue,1.625E-07,False,0.3454927,medium,False,Min=0;Median=4.000;Mean=4.955;Max=27;std_dev=3.631,Min=0;Median=3.000;Mean=3.248;Max=13;std_dev=2.203
+hyperledger/fabric,GO,good first issue,1.325E-01,False,0.3491162,medium,False,Min=1;Median=2.000;Mean=2.833;Max=6;std_dev=2.137,Min=0;Median=1.000;Mean=1.572;Max=8;std_dev=1.369
+influxdata/influxdb,GO,support,3.205E-02,False,0.1448297,negligible,False,Min=0;Median=1.000;Mean=1.601;Max=9;std_dev=1.597,Min=0;Median=1.000;Mean=1.198;Max=7;std_dev=1.309
+ipfs/go-ipfs,GO,good first issue,7.607E-02,False,0.148048,small,False,Min=0;Median=1.000;Mean=1.114;Max=9;std_dev=1.151,Min=0;Median=0.500;Mean=0.860;Max=5;std_dev=1.107
+jenkins-x/jx,GO,good first issue,,,,,True,,
+jpmorganchase/quorum,GO,good first issue,5.578E-02,False,0.1675849,small,False,Min=0;Median=0.000;Mean=0.448;Max=3;std_dev=0.668,Min=0;Median=0.000;Mean=0.229;Max=2;std_dev=0.490
+kubernetes/community,GO,good first issue,4.115E-08,False,0.4026693,medium,False,Min=0;Median=4.000;Mean=4.761;Max=20;std_dev=2.751,Min=0;Median=2.000;Mean=2.888;Max=12;std_dev=2.882
+kubernetes/kops,GO,good first issue,,,,,True,,
+kubernetes/kubernetes,GO,good first issue,2.200E-16,False,0.8667406,large,False,Min=3;Median=13.000;Mean=14.142;Max=63;std_dev=6.828,Min=0;Median=4.000;Mean=4.583;Max=15;std_dev=3.148
+kubernetes/minikube,GO,good first issue,1.097E-07,False,0.4567376,medium,False,Min=0;Median=3.000;Mean=3.247;Max=11;std_dev=2.191,Min=0;Median=2.000;Mean=1.722;Max=8;std_dev=1.406
+kubernetes/test-infra,GO,good first issue,2.200E-16,False,0.7334962,large,False,Min=0;Median=4.000;Mean=5.096;Max=34;std_dev=3.877,Min=0;Median=1.000;Mean=1.477;Max=9;std_dev=1.752
+kubevirt/kubevirt,GO,good-first-issue,3.908E-06,False,0.4355397,medium,False,Min=0;Median=1.000;Mean=1.191;Max=23;std_dev=2.106,Min=0;Median=0.000;Mean=0.256;Max=2;std_dev=0.498
+lightningnetwork/lnd,GO,beginner,1.056E-07,False,0.5461806,large,False,Min=0;Median=1.000;Mean=1.341;Max=9;std_dev=1.546,Min=0;Median=0.000;Mean=0.156;Max=2;std_dev=0.448
+lxc/lxd,GO,Easy,,,,,True,,
+mattermost/mattermost-server,GO,Up For Grabs,7.739E-01,True,-0.02217023,negligible,False,Min=0;Median=2.000;Mean=2.466;Max=31;std_dev=3.207,Min=0;Median=2.000;Mean=2.279;Max=8;std_dev=1.923
+minio/minio,GO,community,4.846E-16,False,0.645678,large,False,Min=0;Median=1.000;Mean=1.493;Max=8;std_dev=1.445,Min=0;Median=0.000;Mean=0.121;Max=1;std_dev=0.329
+openshift/origin,GO,good first issue,8.122E-03,False,0.1641473,small,False,Min=0;Median=2.000;Mean=2.050;Max=14;std_dev=1.918,Min=0;Median=1.000;Mean=1.496;Max=8;std_dev=1.276
+perkeep/perkeep,GO,Easy,6.389E-05,False,0.09558824,negligible,False,Min=0;Median=0.000;Mean=0.098;Max=2;std_dev=0.306,Min=0;Median=0.000;Mean=0.000;Max=0;std_dev=0.000
+pilosa/pilosa,GO,newcomer,9.071E-03,False,0.09260749,negligible,False,Min=0;Median=0.000;Mean=0.133;Max=2;std_dev=0.365,Min=0;Median=0.000;Mean=0.040;Max=2;std_dev=0.244
+pingcap/tidb,GO,good first issue,6.568E-06,False,0.4688057,medium,False,Min=0;Median=2.000;Mean=2.571;Max=49;std_dev=4.045,Min=0;Median=0.000;Mean=0.636;Max=4;std_dev=0.929
+prometheus/prometheus,GO,hacktoberfest,,,,,True,,
+rkt/rkt,GO,low hanging fruit,,,,,True,,
+sylabs/singularity,GO,community,,,,,True,,
+syncthing/syncthing,GO,good first issue,,,,,True,,
+tendermint/tendermint,GO,good first issue,2.200E-16,False,0.5315903,large,False,Min=0;Median=1.000;Mean=0.983;Max=8;std_dev=1.233,Min=0;Median=0.000;Mean=0.032;Max=1;std_dev=0.177
+terraform-providers/terraform-provider-aws,GO,good first issue,,,,,True,,
+terraform-providers/terraform-provider-azurerm,GO,good first issue,,,,,True,,
+tsuru/tsuru,GO,easy,,,,,True,,
+vitessio/vitess,GO,Good First Issue,2.200E-16,False,0.4358855,medium,False,Min=0;Median=1.000;Mean=1.298;Max=19;std_dev=1.714,Min=0;Median=0.000;Mean=0.359;Max=4;std_dev=0.638
+weaveworks/scope,GO,good-first-issue,2.160E-02,False,0.1889251,small,False,Min=0;Median=0.000;Mean=0.397;Max=8;std_dev=0.885,Min=0;Median=0.000;Mean=0.094;Max=1;std_dev=0.296
+weaveworks/weave,GO,good first issue,7.000E-01,True,0.01907203,negligible,False,Min=0;Median=0.000;Mean=0.317;Max=4;std_dev=0.591,Min=0;Median=0.000;Mean=0.284;Max=3;std_dev=0.541
+AntennaPod/AntennaPod,JAVA,Good first issue,1.956E-03,False,0.2038123,small,False,Min=0;Median=0.000;Mean=0.607;Max=7;std_dev=0.944,Min=0;Median=0.000;Mean=0.269;Max=3;std_dev=0.566
+apache/incubator-druid,JAVA,Starter,,,,,True,,
+apache/incubator-shardingsphere,JAVA,good first issue,2.200E-16,False,0.6857442,large,False,Min=0;Median=3.000;Mean=3.167;Max=21;std_dev=3.135,Min=0;Median=0.000;Mean=0.613;Max=4;std_dev=0.914
+apache/skywalking,JAVA,good first issue,2.200E-16,False,0.7958623,large,False,Min=0;Median=2.000;Mean=2.088;Max=10;std_dev=1.743,Min=0;Median=0.000;Mean=0.094;Max=1;std_dev=0.293
+ballerina-platform/ballerina-lang,JAVA,good first issue,1.062E-01,False,0.1079864,negligible,False,Min=0;Median=1.000;Mean=1.054;Max=16;std_dev=1.847,Min=0;Median=0.000;Mean=1.243;Max=27;std_dev=3.486
+bazelbuild/bazel,JAVA,good first issue,2.200E-16,False,0.7328961,large,False,Min=0;Median=2.000;Mean=2.465;Max=11;std_dev=1.935,Min=0;Median=0.000;Mean=0.491;Max=13;std_dev=1.804
+bisq-network/bisq,JAVA,good first issue,9.320E-06,False,0.4452855,medium,False,Min=0;Median=0.000;Mean=0.940;Max=10;std_dev=1.403,Min=0;Median=0.000;Mean=0.034;Max=1;std_dev=0.186
+checkstyle/checkstyle,JAVA,easy,1.320E-06,False,0.3164431,small,False,Min=0;Median=1.000;Mean=1.129;Max=11;std_dev=1.491,Min=0;Median=0.000;Mean=0.424;Max=3;std_dev=0.697
+crate/crate,JAVA,good first issue,7.585E-04,False,0.1434776,negligible,False,Min=0;Median=0.000;Mean=0.260;Max=3;std_dev=0.542,Min=0;Median=0.000;Mean=0.083;Max=2;std_dev=0.308
+dbeaver/dbeaver,JAVA,good first issue,1.019E-14,False,0.4776646,large,False,Min=0;Median=1.000;Mean=1.091;Max=7;std_dev=1.118,Min=0;Median=0.000;Mean=0.241;Max=2;std_dev=0.521
+eclipse/che,JAVA,level/beginner,4.978E-02,False,0.122766,negligible,False,Min=0;Median=0.000;Mean=0.644;Max=4;std_dev=0.785,Min=0;Median=0.000;Mean=0.489;Max=4;std_dev=0.758
+eclipse/openj9,JAVA,good first issue,,,,,True,,
+elastic/elasticsearch,JAVA,good first issue,2.200E-16,False,0.9083579,large,False,Min=0;Median=5.000;Mean=5.558;Max=60;std_dev=3.973,Min=0;Median=0.000;Mean=0.472;Max=3;std_dev=0.739
+facebook/litho,JAVA,starter-task,,,,,True,,
+flowable/flowable-engine,JAVA,good first issue,4.303E-03,False,0.1970355,small,False,Min=0;Median=1.000;Mean=0.860;Max=4;std_dev=0.913,Min=0;Median=0.000;Mean=0.549;Max=4;std_dev=0.793
+gchq/Gaffer,JAVA,beginner,7.120E-01,True,0.01936376,negligible,False,Min=0;Median=0.000;Mean=0.187;Max=2;std_dev=0.421,Min=0;Median=0.000;Mean=0.182;Max=2;std_dev=0.461
+gocd/gocd,JAVA,good-first-issue,9.851E-03,False,-0.131427,negligible,False,Min=0;Median=0.000;Mean=0.365;Max=3;std_dev=0.634,Min=0;Median=0.000;Mean=0.567;Max=3;std_dev=0.783
+Graylog2/graylog2-server,JAVA,low hanging fruit,1.369E-02,False,0.08561521,negligible,False,Min=0;Median=0.000;Mean=0.353;Max=9;std_dev=0.786,Min=0;Median=0.000;Mean=0.211;Max=2;std_dev=0.456
+hazelcast/hazelcast,JAVA,good first issue,,,,,True,,
+JabRef/jabref,JAVA,good first issue,2.619E-11,False,0.4296492,medium,False,Min=0;Median=1.000;Mean=1.328;Max=9;std_dev=1.551,Min=0;Median=0.000;Mean=0.355;Max=3;std_dev=0.686
+JanusGraph/janusgraph,JAVA,good first issue,4.659E-01,False,-0.06234773,negligible,False,Min=0;Median=0.000;Mean=0.533;Max=3;std_dev=0.720,Min=0;Median=1.000;Mean=0.558;Max=2;std_dev=0.590
+javaparser/javaparser,JAVA,Easy,1.220E-15,False,0.3264087,small,False,Min=0;Median=0.000;Mean=0.529;Max=4;std_dev=0.757,Min=0;Median=0.000;Mean=0.090;Max=2;std_dev=0.320
+jenkinsci/jenkins,JAVA,hacktoberfest,5.592E-01,True,0.02849953,negligible,False,Min=0;Median=2.000;Mean=1.901;Max=16;std_dev=1.791,Min=0;Median=2.000;Mean=1.751;Max=7;std_dev=1.391
+jMonkeyEngine/jmonkeyengine,JAVA,Contribution welcome,4.679E-01,False,0.04949992,negligible,False,Min=0;Median=0.000;Mean=0.354;Max=3;std_dev=0.621,Min=0;Median=0.000;Mean=0.294;Max=2;std_dev=0.576
+junit-team/junit5,JAVA,up-for-grabs,4.904E-10,False,0.4789454,large,False,Min=0;Median=1.000;Mean=0.772;Max=5;std_dev=0.967,Min=0;Median=0.000;Mean=0.038;Max=1;std_dev=0.192
+k9mail/k-9,JAVA,good first issue,7.089E-01,True,-0.01685106,negligible,False,Min=0;Median=0.000;Mean=0.788;Max=13;std_dev=1.245,Min=0;Median=0.000;Mean=0.728;Max=5;std_dev=0.898
+languagetool-org/languagetool,JAVA,easy fix,,,,,True,,
+LawnchairLauncher/Lawnchair,JAVA,Good First Issue,1.393E-01,False,-0.08690638,negligible,False,Min=0;Median=0.000;Mean=0.306;Max=3;std_dev=0.591,Min=0;Median=0.000;Mean=0.545;Max=6;std_dev=1.037
+libgdx/libgdx,JAVA,good first issue,2.200E-16,False,-0.447934,medium,False,Min=0;Median=1.000;Mean=0.969;Max=5;std_dev=1.071,Min=0;Median=2.000;Mean=2.145;Max=9;std_dev=1.618
+liquibase/liquibase,JAVA,hacktoberfest,7.448E-03,False,0.1737107,small,False,Min=0;Median=1.000;Mean=1.678;Max=9;std_dev=1.688,Min=0;Median=1.000;Mean=1.139;Max=5;std_dev=1.167
+mockito/mockito,JAVA,please contribute,5.600E-08,False,0.2643973,small,False,Min=0;Median=1.000;Mean=0.854;Max=5;std_dev=0.978,Min=0;Median=0.000;Mean=0.411;Max=3;std_dev=0.711
+MovingBlocks/Terasology,JAVA,Good First Issue,3.800E-08,False,0.4054075,medium,False,Min=0;Median=0.000;Mean=0.669;Max=6;std_dev=0.947,Min=0;Median=0.000;Mean=0.038;Max=1;std_dev=0.194
+nextcloud/android,JAVA,good first issue,,,,,True,,
+OpenAPITools/openapi-generator,JAVA,Hacktoberfest,,,,,True,,
+oracle/graal,JAVA,good first issue,4.949E-13,False,0.4317919,medium,False,Min=0;Median=1.000;Mean=1.034;Max=7;std_dev=1.153,Min=0;Median=0.000;Mean=0.279;Max=5;std_dev=0.718
+owncloud/android,JAVA,Junior Job,,,,,True,,
+pmd/pmd,JAVA,good first issue,2.044E-15,False,0.358608,medium,False,Min=0;Median=1.000;Mean=0.887;Max=5;std_dev=1.045,Min=0;Median=0.000;Mean=0.256;Max=3;std_dev=0.545
+quarkusio/quarkus,JAVA,good first issue,,,,,True,,
+querydsl/querydsl,JAVA,good first issue,2.180E-02,False,0.09063467,negligible,False,Min=0;Median=0.000;Mean=0.358;Max=4;std_dev=0.630,Min=0;Median=0.000;Mean=0.239;Max=3;std_dev=0.524
+ReactiveX/RxJava,JAVA,PR welcome,1.969E-01,False,0.08957529,negligible,False,Min=0;Median=1.000;Mean=1.081;Max=7;std_dev=1.189,Min=0;Median=1.000;Mean=0.892;Max=5;std_dev=1.054
+rstudio/rstudio,JAVA,good first issue,3.972E-07,False,0.1819582,small,False,Min=0;Median=0.000;Mean=0.401;Max=5;std_dev=0.684,Min=0;Median=0.000;Mean=0.162;Max=2;std_dev=0.422
+runelite/runelite,JAVA,Hacktoberfest,2.200E-16,False,0.9808662,large,False,Min=0;Median=5.000;Mean=6.177;Max=21;std_dev=3.685,Min=0;Median=0.000;Mean=0.200;Max=2;std_dev=0.452
+Sable/soot,JAVA,good first issue,4.808E-02,False,0.1201205,negligible,False,Min=0;Median=0.000;Mean=0.283;Max=3;std_dev=0.514,Min=0;Median=0.000;Mean=0.140;Max=1;std_dev=0.350
+SeleniumHQ/selenium,JAVA,E-easy,2.776E-09,False,0.3631325,medium,False,Min=0;Median=2.000;Mean=2.310;Max=11;std_dev=1.785,Min=0;Median=1.000;Mean=1.254;Max=5;std_dev=1.158
+spotbugs/spotbugs,JAVA,good first issue,3.095E-02,False,0.1582764,small,False,Min=0;Median=0.000;Mean=0.582;Max=4;std_dev=0.839,Min=0;Median=0.000;Mean=0.322;Max=2;std_dev=0.600
+spring-projects/spring-batch,JAVA,status: ideal-for-contribution,,,,,True,,
+spring-projects/spring-boot,JAVA,status: ideal-for-contribution,1.081E-04,False,0.3087872,small,False,Min=0;Median=4.000;Mean=4.322;Max=12;std_dev=2.396,Min=0;Median=3.000;Mean=3.019;Max=11;std_dev=2.325
+spring-projects/spring-framework,JAVA,status: ideal-for-contribution,2.200E-16,False,0.7342048,large,False,Min=0;Median=4.000;Mean=4.088;Max=11;std_dev=2.267,Min=0;Median=1.000;Mean=1.254;Max=6;std_dev=1.355
+spring-projects/spring-security,JAVA,status: ideal-for-contribution,,,,,True,,
+TechEmpower/FrameworkBenchmarks,JAVA,Hacktoberfest,1.328E-06,False,0.2568056,small,False,Min=0;Median=2.000;Mean=1.960;Max=10;std_dev=1.619,Min=0;Median=1.000;Mean=1.471;Max=15;std_dev=2.011
+vaadin/framework,JAVA,Good First Issue,,,,,True,,
+vector-im/riot-android,JAVA,good first issue,3.181E-03,False,-0.1531469,small,False,Min=0;Median=0.000;Mean=0.256;Max=3;std_dev=0.553,Min=0;Median=0.000;Mean=0.431;Max=3;std_dev=0.634
+vespa-engine/vespa,JAVA,need help,2.958E-02,False,0.1062802,negligible,False,Min=0;Median=0.000;Mean=0.319;Max=12;std_dev=1.117,Min=0;Median=0.000;Mean=0.092;Max=2;std_dev=0.334
+wordpress-mobile/WordPress-Android,JAVA,Low Hanging Fruit,1.048E-02,False,0.1317116,negligible,False,Min=0;Median=0.000;Mean=0.476;Max=7;std_dev=0.865,Min=0;Median=0.000;Mean=0.231;Max=2;std_dev=0.466
+zaproxy/zaproxy,JAVA,good first issue,,,,,True,,
+adambard/learnxinyminutes-docs,JAVASCRIPT,quickfix,6.396E-02,False,-0.1110214,negligible,False,Min=0;Median=3.000;Mean=3.292;Max=14;std_dev=2.397,Min=0;Median=3.000;Mean=6.269;Max=88;std_dev=11.939
+adobe/brackets,JAVASCRIPT,Starter bug,,,,,True,,
+ampproject/amphtml,JAVASCRIPT,good first issue,,,,,True,,
+angular/angular.js,JAVASCRIPT,PRs plz!,8.309E-15,False,0.7010951,large,False,Min=0;Median=2.000;Mean=5.418;Max=36;std_dev=7.186,Min=0;Median=0.000;Mean=0.024;Max=1;std_dev=0.154
+apostrophecms/apostrophe,JAVASCRIPT,good first issue,4.681E-06,False,0.1763085,small,False,Min=0;Median=0.000;Mean=0.376;Max=4;std_dev=0.651,Min=0;Median=0.000;Mean=0.132;Max=1;std_dev=0.339
+appium/appium,JAVASCRIPT,Good First Issue,1.182E-01,False,-0.07956411,negligible,False,Min=0;Median=1.000;Mean=0.915;Max=7;std_dev=1.034,Min=0;Median=1.000;Mean=1.061;Max=5;std_dev=1.065
+Automattic/mongoose,JAVASCRIPT,good first issue,8.010E-07,False,0.2250888,small,False,Min=0;Median=2.000;Mean=1.699;Max=7;std_dev=1.394,Min=0;Median=1.000;Mean=1.189;Max=7;std_dev=1.274
+Automattic/wp-calypso,JAVASCRIPT,Good First Issue,,,,,True,,
+balderdashy/sails,JAVASCRIPT,pr welcome,1.324E-13,False,-0.3654125,medium,False,Min=0;Median=0.000;Mean=0.281;Max=3;std_dev=0.558,Min=0;Median=1.000;Mean=1.176;Max=6;std_dev=1.442
+bkimminich/juice-shop,JAVASCRIPT,good first issue,1.186E-09,False,0.3101151,small,False,Min=0;Median=0.000;Mean=0.528;Max=4;std_dev=0.789,Min=0;Median=0.000;Mean=0.077;Max=1;std_dev=0.268
+canjs/canjs,JAVASCRIPT,easy,7.701E-01,True,0.01658255,negligible,False,Min=0;Median=0.000;Mean=0.362;Max=4;std_dev=0.685,Min=0;Median=0.000;Mean=0.356;Max=3;std_dev=0.695
+carbon-design-system/carbon,JAVASCRIPT,Hacktoberfest,7.317E-10,False,0.4609568,medium,False,Min=0;Median=1.000;Mean=1.500;Max=13;std_dev=1.667,Min=0;Median=0.000;Mean=0.469;Max=4;std_dev=0.808
+CartoDB/cartodb,JAVASCRIPT,easy,2.236E-01,False,0.04954856,negligible,False,Min=0;Median=0.000;Mean=0.347;Max=3;std_dev=0.580,Min=0;Median=0.000;Mean=0.308;Max=3;std_dev=0.593
+conversejs/converse.js,JAVASCRIPT,good first issue,2.073E-02,False,0.09481684,negligible,False,Min=0;Median=0.000;Mean=0.389;Max=3;std_dev=0.611,Min=0;Median=0.000;Mean=0.294;Max=3;std_dev=0.603
+coralproject/talk,JAVASCRIPT,support,2.303E-01,False,-0.08019608,negligible,False,Min=0;Median=0.000;Mean=0.565;Max=5;std_dev=0.849,Min=0;Median=0.000;Mean=0.744;Max=9;std_dev=1.204
+EFForg/https-everywhere,JAVASCRIPT,good volunteer task,1.886E-02,False,0.2243074,small,False,Min=0;Median=2.000;Mean=2.338;Max=13;std_dev=1.933,Min=0;Median=1.000;Mean=1.564;Max=4;std_dev=1.273
+elastic/kibana,JAVASCRIPT,good first issue,1.348E-05,False,0.418352,medium,False,Min=0;Median=2.000;Mean=2.709;Max=133;std_dev=6.838,Min=0;Median=0.500;Mean=1.132;Max=5;std_dev=1.455
+embark-framework/embark,JAVASCRIPT,easy,2.959E-01,False,0.04716479,negligible,False,Min=0;Median=0.000;Mean=0.319;Max=5;std_dev=0.691,Min=0;Median=0.000;Mean=0.249;Max=3;std_dev=0.572
+emberjs/data,JAVASCRIPT,Good for New Contributors,3.600E-05,False,-0.2292978,small,False,Min=0;Median=1.000;Mean=1.215;Max=7;std_dev=1.352,Min=0;Median=1.000;Mean=1.927;Max=16;std_dev=2.082
+emberjs/ember.js,JAVASCRIPT,Good for New Contributors,2.733E-03,False,0.181054,small,False,Min=0;Median=2.000;Mean=2.303;Max=15;std_dev=1.888,Min=0;Median=1.000;Mean=1.883;Max=9;std_dev=2.039
+eslint/eslint,JAVASCRIPT,good first issue,1.187E-10,False,0.697037,large,False,Min=0;Median=3.000;Mean=3.190;Max=9;std_dev=2.086,Min=0;Median=1.000;Mean=0.967;Max=10;std_dev=1.903
+expressjs/express,JAVASCRIPT,good first contribution,2.418E-01,False,-0.05265058,negligible,False,Min=0;Median=1.000;Mean=1.033;Max=10;std_dev=1.101,Min=0;Median=1.000;Mean=1.250;Max=7;std_dev=1.346
+facebook/react-native,JAVASCRIPT,Good first issue,,,,,True,,
+facebook/react,JAVASCRIPT,good first issue (taken),1.615E-01,False,0.08135876,negligible,False,Min=0;Median=6.000;Mean=6.712;Max=36;std_dev=4.090,Min=0;Median=6.000;Mean=6.020;Max=17;std_dev=3.961
+firefox-devtools/debugger,JAVASCRIPT,available,1.307E-12,False,-0.4558079,medium,False,Min=0;Median=0.000;Mean=0.847;Max=8;std_dev=1.647,Min=0;Median=2.000;Mean=2.330;Max=10;std_dev=2.377
+FormidableLabs/victory,JAVASCRIPT,good first issue,2.438E-01,False,0.07585756,negligible,False,Min=0;Median=0.000;Mean=0.390;Max=3;std_dev=0.647,Min=0;Median=0.000;Mean=0.254;Max=1;std_dev=0.439
+gatsbyjs/gatsby,JAVASCRIPT,Hacktoberfest,2.200E-16,False,0.9290569,large,False,Min=0;Median=13.000;Mean=16.096;Max=74;std_dev=12.917,Min=0;Median=0.000;Mean=0.378;Max=2;std_dev=0.576
+gorhill/uBlock,JAVASCRIPT,available,,,,,True,,
+HabitRPG/habitica,JAVASCRIPT,good first issue,1.602E-07,False,0.4345884,medium,False,Min=0;Median=1.000;Mean=1.636;Max=10;std_dev=1.577,Min=0;Median=0.000;Mean=0.647;Max=5;std_dev=1.128
+hapijs/hapi,JAVASCRIPT,support,9.760E-11,False,0.3993323,medium,False,Min=0;Median=0.000;Mean=0.668;Max=4;std_dev=0.872,Min=0;Median=0.000;Mean=0.089;Max=2;std_dev=0.365
+highlightjs/highlight.js,JAVASCRIPT,good first issue,1.249E-12,False,0.3335415,medium,False,Min=0;Median=2.000;Mean=1.806;Max=7;std_dev=1.381,Min=0;Median=1.000;Mean=1.097;Max=7;std_dev=1.336
+honestbleeps/Reddit-Enhancement-Suite,JAVASCRIPT,hacktoberfest,6.279E-01,True,0.0252243,negligible,False,Min=0;Median=0.000;Mean=0.802;Max=8;std_dev=1.191,Min=0;Median=0.000;Mean=0.657;Max=4;std_dev=0.861
+infernojs/inferno,JAVASCRIPT,PR welcome,9.202E-09,False,-0.2989269,small,False,Min=0;Median=0.000;Mean=0.169;Max=1;std_dev=0.376,Min=0;Median=0.000;Mean=0.914;Max=10;std_dev=1.554
+jhipster/generator-jhipster,JAVASCRIPT,hacktoberfest,6.418E-01,True,-0.03131724,negligible,False,Min=0;Median=1.000;Mean=1.933;Max=10;std_dev=1.851,Min=0;Median=2.000;Mean=1.863;Max=10;std_dev=1.517
+jquery/jquery,JAVASCRIPT,Support,2.807E-11,False,-0.2900804,small,False,Min=0;Median=1.000;Mean=1.027;Max=8;std_dev=1.199,Min=0;Median=2.000;Mean=1.931;Max=18;std_dev=1.928
+js-org/js.org,JAVASCRIPT,error,6.172E-16,False,0.7770035,large,False,Min=8;Median=18.000;Mean=17.902;Max=26;std_dev=4.358,Min=0;Median=7.000;Mean=9.010;Max=62;std_dev=6.629
+jupyter/notebook,JAVASCRIPT,good first issue,,,,,True,,
+jupyterlab/jupyterlab,JAVASCRIPT,good first issue,,,,,True,,
+jwplayer/jwplayer,JAVASCRIPT,beginner,3.670E-01,False,-0.04672058,negligible,False,Min=0;Median=0.000;Mean=0.233;Max=4;std_dev=0.517,Min=0;Median=0.000;Mean=0.273;Max=2;std_dev=0.504
+Leaflet/Leaflet,JAVASCRIPT,good first issue,6.677E-16,False,0.4651505,medium,False,Min=0;Median=2.000;Mean=2.232;Max=11;std_dev=1.578,Min=0;Median=1.000;Mean=1.049;Max=6;std_dev=1.219
+mapbox/mapbox-gl-js,JAVASCRIPT,good first issue,2.200E-16,False,0.6472324,large,False,Min=0;Median=1.000;Mean=1.206;Max=9;std_dev=1.272,Min=0;Median=0.000;Mean=0.039;Max=1;std_dev=0.195
+marmelab/react-admin,JAVASCRIPT,good first issue,1.092E-08,False,0.520301,large,False,Min=0;Median=2.000;Mean=2.581;Max=9;std_dev=1.614,Min=0;Median=1.000;Mean=1.128;Max=4;std_dev=1.115
+MetaMask/metamask-extension,JAVASCRIPT,good-first-issue,5.386E-14,False,0.5882503,large,False,Min=0;Median=1.000;Mean=1.425;Max=16;std_dev=1.816,Min=0;Median=0.000;Mean=0.133;Max=2;std_dev=0.430
+meteor/meteor,JAVASCRIPT,good first issue,1.088E-15,False,-0.4001952,medium,False,Min=0;Median=1.000;Mean=0.970;Max=6;std_dev=1.084,Min=0;Median=2.000;Mean=2.152;Max=13;std_dev=1.954
+microsoft/ChakraCore,JAVASCRIPT,good first issue,,,,,True,,
+mui-org/material-ui,JAVASCRIPT,support,2.200E-16,False,0.9170149,large,False,Min=0;Median=9.000;Mean=9.857;Max=30;std_dev=4.569,Min=0;Median=2.000;Mean=2.250;Max=7;std_dev=1.945
+nasa/openmct,JAVASCRIPT,Community,1.471E-01,False,0.1065078,negligible,False,Min=0;Median=0.000;Mean=0.579;Max=5;std_dev=1.200,Min=0;Median=0.000;Mean=0.287;Max=8;std_dev=0.710
+NervJS/taro,JAVASCRIPT,good first issue,,,,,True,,
+NodeBB/NodeBB,JAVASCRIPT,good first issue,3.489E-06,False,-0.2431424,small,False,Min=0;Median=0.000;Mean=0.586;Max=4;std_dev=0.803,Min=0;Median=1.000;Mean=1.069;Max=6;std_dev=1.148
+nodejs/node,JAVASCRIPT,good first issue,,,,,True,,
+npm/cli,JAVASCRIPT,Community,9.899E-01,True,0.001248266,negligible,False,Min=0;Median=2.000;Mean=2.058;Max=8;std_dev=1.644,Min=0;Median=2.000;Mean=1.986;Max=9;std_dev=1.546
+nylas/nylas-mail,JAVASCRIPT,hacktoberfest,7.009E-02,False,0.1067912,negligible,False,Min=0;Median=0.000;Mean=0.413;Max=6;std_dev=0.940,Min=0;Median=0.000;Mean=0.439;Max=10;std_dev=1.593
+odota/core,JAVASCRIPT,good first issue,,,,,True,,
+openstreetmap/iD,JAVASCRIPT,good first issue,,,,,True,,
+OrchardCMS/Orchard,JAVASCRIPT,Easy Pick,,,,,True,,
+plotly/plotly.js,JAVASCRIPT,hacktoberfest,3.245E-01,False,0.07350035,negligible,False,Min=0;Median=1.000;Mean=0.810;Max=4;std_dev=0.913,Min=0;Median=0.000;Mean=0.687;Max=4;std_dev=0.841
+poooi/poi,JAVASCRIPT,good first issue,4.268E-02,False,-0.0845446,negligible,False,Min=0;Median=0.000;Mean=0.146;Max=3;std_dev=0.403,Min=0;Median=0.000;Mean=0.232;Max=2;std_dev=0.460
+reactioncommerce/reaction,JAVASCRIPT,good first issue,3.234E-07,False,0.2396009,small,False,Min=0;Median=0.000;Mean=0.612;Max=5;std_dev=0.863,Min=0;Median=0.000;Mean=0.249;Max=3;std_dev=0.567
+renovatebot/renovate,JAVASCRIPT,good first issue,1.731E-09,False,0.6543779,large,False,Min=0;Median=2.000;Mean=2.411;Max=20;std_dev=2.366,Min=0;Median=0.000;Mean=0.290;Max=2;std_dev=0.588
+RocketChat/Rocket.Chat,JAVASCRIPT,hacktoberfest,8.418E-01,True,0.01403902,negligible,False,Min=0;Median=3.000;Mean=3.355;Max=19;std_dev=2.551,Min=0;Median=3.000;Mean=3.242;Max=13;std_dev=2.321
+sandstorm-io/sandstorm,JAVASCRIPT,bite-size,,,,,True,,
+sanity-io/sanity,JAVASCRIPT,good first issue,1.439E-06,False,0.285977,small,False,Min=0;Median=0.000;Mean=0.477;Max=8;std_dev=0.917,Min=0;Median=0.000;Mean=0.040;Max=1;std_dev=0.197
+SAP/openui5,JAVASCRIPT,contribution welcome,,,,,True,,
+Semantic-Org/Semantic-UI,JAVASCRIPT,Need Help,,,,,True,,
+sequelize/sequelize,JAVASCRIPT,good first issue,2.200E-16,False,0.5997038,large,False,Min=0;Median=3.000;Mean=3.698;Max=12;std_dev=2.156,Min=0;Median=1.000;Mean=1.560;Max=12;std_dev=1.918
+serverless/serverless,JAVASCRIPT,good first issue,,,,,True,,
+sitespeedio/sitespeed.io,JAVASCRIPT,good first issue,1.322E-05,False,0.1766638,small,False,Min=0;Median=0.000;Mean=0.394;Max=3;std_dev=0.637,Min=0;Median=0.000;Mean=0.168;Max=2;std_dev=0.413
+stdlib-js/stdlib,JAVASCRIPT,good-first-issue,2.098E-01,False,0.05967144,negligible,False,Min=0;Median=0.000;Mean=0.102;Max=2;std_dev=0.351,Min=0;Median=0.000;Mean=0.027;Max=1;std_dev=0.164
+strapi/strapi,JAVASCRIPT,good first issue,2.200E-16,False,0.9405245,large,False,Min=0;Median=4.000;Mean=5.086;Max=18;std_dev=3.471,Min=0;Median=0.000;Mean=0.150;Max=2;std_dev=0.381
+Studio-42/elFinder,JAVASCRIPT,PR Welcome,7.720E-01,True,0.01152006,negligible,False,Min=0;Median=0.000;Mean=0.414;Max=3;std_dev=0.664,Min=0;Median=0.000;Mean=0.406;Max=3;std_dev=0.678
+transloadit/uppy,JAVASCRIPT,Good first issue,1.596E-09,False,0.4083566,medium,False,Min=0;Median=2.000;Mean=1.728;Max=5;std_dev=1.351,Min=0;Median=0.000;Mean=0.890;Max=8;std_dev=1.390
+trufflesuite/truffle,JAVASCRIPT,good first issue,1.169E-01,False,0.09340931,negligible,False,Min=0;Median=1.000;Mean=0.837;Max=7;std_dev=0.964,Min=0;Median=0.000;Mean=0.708;Max=5;std_dev=0.898
+TryGhost/Ghost,JAVASCRIPT,good first issue,,,,,True,,
+vector-im/riot-web,JAVASCRIPT,Hacktoberfest,8.485E-05,False,0.2290855,small,False,Min=0;Median=1.000;Mean=0.863;Max=5;std_dev=0.990,Min=0;Median=0.000;Mean=0.474;Max=3;std_dev=0.726
+VulcanJS/Vulcan,JAVASCRIPT,up for grabs,9.532E-01,True,0.003175546,negligible,False,Min=0;Median=0.000;Mean=0.728;Max=7;std_dev=1.110,Min=0;Median=0.000;Mean=0.677;Max=4;std_dev=0.967
+WordPress/gutenberg,JAVASCRIPT,Good First Issue,,,,,True,,
+Zarel/Pokemon-Showdown,JAVASCRIPT,good first issue,2.667E-05,False,0.2034004,small,False,Min=0;Median=1.000;Mean=1.106;Max=6;std_dev=1.240,Min=0;Median=0.000;Mean=0.664;Max=4;std_dev=0.892
+ampache/ampache,PHP,easy,1.049E-01,False,0.07839867,negligible,False,Min=0;Median=0.000;Mean=0.320;Max=3;std_dev=0.559,Min=0;Median=0.000;Mean=0.239;Max=2;std_dev=0.525
+ampproject/amp-wp,PHP,Support,,,,,True,,
+Automattic/jetpack,PHP,Hacktoberfest,3.191E-01,False,0.1029024,negligible,False,Min=0;Median=1.000;Mean=1.726;Max=29;std_dev=2.099,Min=0;Median=1.000;Mean=1.438;Max=6;std_dev=1.501
+bolt/bolt,PHP,low hanging fruit,5.529E-02,False,0.1275355,negligible,False,Min=0;Median=0.000;Mean=0.720;Max=6;std_dev=0.980,Min=0;Median=0.000;Mean=0.549;Max=5;std_dev=0.983
+CachetHQ/Cachet,PHP,Support,1.281E-02,False,-0.2104123,small,False,Min=0;Median=0.000;Mean=0.767;Max=6;std_dev=1.082,Min=0;Median=1.000;Mean=1.511;Max=9;std_dev=2.018
+cakephp/cakephp,PHP,support,3.971E-04,False,0.1778819,small,False,Min=0;Median=2.000;Mean=1.786;Max=8;std_dev=1.442,Min=0;Median=1.000;Mean=1.408;Max=8;std_dev=1.516
+codeigniter4/CodeIgniter4,PHP,hacktoberfest,9.694E-03,False,0.6327044,large,False,Min=2;Median=2.000;Mean=2.200;Max=3;std_dev=0.447,Min=0;Median=1.000;Mean=1.016;Max=7;std_dev=1.289
+composer/composer,PHP,Good First Issue,3.329E-13,False,0.7049995,large,False,Min=0;Median=2.000;Mean=2.542;Max=12;std_dev=1.826,Min=0;Median=0.000;Mean=0.541;Max=4;std_dev=0.989
+directus/directus,PHP,Good First Issue,2.200E-16,False,0.8781273,large,False,Min=0;Median=4.000;Mean=3.769;Max=14;std_dev=2.541,Min=0;Median=0.000;Mean=0.289;Max=4;std_dev=0.613
+doctrine/annotations,PHP,Hacktoberfest,9.334E-02,False,0.07913897,negligible,False,Min=0;Median=0.000;Mean=0.361;Max=2;std_dev=0.603,Min=0;Median=0.000;Mean=0.262;Max=3;std_dev=0.534
+doctrine/dbal,PHP,Hacktoberfest,9.740E-02,False,0.07810036,negligible,False,Min=0;Median=1.000;Mean=1.467;Max=8;std_dev=1.379,Min=0;Median=1.000;Mean=1.301;Max=7;std_dev=1.348
+doctrine/orm,PHP,Hacktoberfest,,,,,True,,
+Dolibarr/dolibarr,PHP,good first issue,2.200E-16,False,0.4713877,medium,False,Min=0;Median=1.000;Mean=1.456;Max=31;std_dev=2.265,Min=0;Median=0.000;Mean=0.284;Max=3;std_dev=0.535
+drush-ops/drush,PHP,good first issue,7.250E-01,True,-0.02316503,negligible,False,Min=0;Median=1.000;Mean=0.939;Max=4;std_dev=1.035,Min=0;Median=1.000;Mean=1.028;Max=7;std_dev=1.177
+Elgg/Elgg,PHP,easy,5.880E-01,True,0.01929182,negligible,False,Min=0;Median=0.000;Mean=0.253;Max=3;std_dev=0.543,Min=0;Median=0.000;Mean=0.239;Max=3;std_dev=0.563
+forkcms/forkcms,PHP,Easy Pick,6.897E-01,True,0.01561574,negligible,False,Min=0;Median=0.000;Mean=0.228;Max=3;std_dev=0.509,Min=0;Median=0.000;Mean=0.221;Max=3;std_dev=0.545
+FriendsOfPHP/PHP-CS-Fixer,PHP,easy pick,8.032E-05,False,0.1979686,small,False,Min=0;Median=1.000;Mean=1.096;Max=4;std_dev=1.040,Min=0;Median=1.000;Mean=0.771;Max=8;std_dev=1.038
+getgrav/grav,PHP,hacktoberfest,8.535E-01,True,-0.01102941,negligible,False,Min=0;Median=0.000;Mean=0.706;Max=5;std_dev=0.961,Min=0;Median=0.000;Mean=0.792;Max=6;std_dev=1.185
+glpi-project/glpi,PHP,good first issue,8.042E-02,False,0.1657748,small,False,Min=0;Median=0.000;Mean=0.522;Max=7;std_dev=0.808,Min=0;Median=0.000;Mean=0.267;Max=2;std_dev=0.521
+humhub/humhub,PHP,Support,4.014E-04,False,0.3351206,medium,False,Min=0;Median=0.000;Mean=0.568;Max=4;std_dev=0.816,Min=0;Median=0.000;Mean=0.133;Max=3;std_dev=0.571
+invoiceninja/invoiceninja,PHP,Hacktoberfest,1.420E-01,False,0.2435644,small,False,Min=0;Median=1.000;Mean=1.200;Max=4;std_dev=1.317,Min=0;Median=0.000;Mean=0.649;Max=4;std_dev=0.877
+joomla/joomla-cms,PHP,good first issue,3.512E-01,False,0.07487868,negligible,False,Min=0;Median=2.000;Mean=2.929;Max=10;std_dev=2.709,Min=0;Median=2.000;Mean=2.316;Max=18;std_dev=1.949
+librenms/librenms,PHP,Hacktoberfest,2.200E-16,False,0.6075816,large,False,Min=0;Median=3.000;Mean=3.440;Max=19;std_dev=2.308,Min=0;Median=1.000;Mean=1.277;Max=9;std_dev=1.523
+magento/magento2,PHP,up for grabs,2.200E-16,False,0.8211359,large,False,Min=0;Median=5.000;Mean=5.779;Max=35;std_dev=5.042,Min=0;Median=0.000;Mean=0.484;Max=4;std_dev=0.763
+mautic/mautic,PHP,hacktoberfest,2.200E-16,False,0.4762351,large,False,Min=0;Median=1.000;Mean=1.380;Max=6;std_dev=1.330,Min=0;Median=0.000;Mean=0.393;Max=4;std_dev=0.790
+MISP/MISP,PHP,good first issue,2.200E-16,False,0.4753316,large,False,Min=0;Median=1.000;Mean=0.813;Max=4;std_dev=0.931,Min=0;Median=0.000;Mean=0.076;Max=1;std_dev=0.265
+nextcloud/server,PHP,good first issue,,,,,True,,
+openemr/openemr,PHP,first-timers-only,2.134E-14,False,0.2626728,small,False,Min=0;Median=0.000;Mean=0.544;Max=4;std_dev=0.867,Min=0;Median=0.000;Mean=0.120;Max=2;std_dev=0.351
+opnsense/core,PHP,support,,,,,True,,
+owncloud/core,PHP,junior job,,,,,True,,
+phalcon/cphalcon,PHP,hacktoberfest,8.380E-04,False,-0.189408,small,False,Min=0;Median=0.000;Mean=0.450;Max=3;std_dev=0.687,Min=0;Median=1.000;Mean=0.826;Max=4;std_dev=1.020
+phan/phan,PHP,probably easy,,,,,True,,
+phpmyadmin/phpmyadmin,PHP,newbie,1.133E-04,False,0.3521277,medium,False,Min=0;Median=1.000;Mean=1.300;Max=6;std_dev=1.334,Min=0;Median=0.000;Mean=0.550;Max=3;std_dev=0.876
+pimcore/pimcore,PHP,PR Welcome,2.200E-16,False,0.5153629,large,False,Min=0;Median=1.000;Mean=1.255;Max=10;std_dev=1.511,Min=0;Median=0.000;Mean=0.171;Max=2;std_dev=0.417
+PrestaShop/PrestaShop,PHP,Trivial,1.327E-03,False,0.1762675,small,False,Min=0;Median=3.000;Mean=3.293;Max=21;std_dev=2.448,Min=0;Median=2.000;Mean=2.620;Max=7;std_dev=1.687
+rectorphp/rector,PHP,easy pick,,,,,True,,
+roundcube/roundcubemail,PHP,trivial,4.644E-03,False,0.1390742,negligible,False,Min=0;Median=1.000;Mean=0.955;Max=4;std_dev=0.958,Min=0;Median=1.000;Mean=0.725;Max=5;std_dev=0.878
+salesagility/SuiteCRM,PHP,Good First Issue,1.417E-04,False,0.1980451,small,False,Min=0;Median=1.000;Mean=1.067;Max=7;std_dev=1.287,Min=0;Median=0.000;Mean=0.629;Max=4;std_dev=0.867
+sebastianbergmann/phpunit,PHP,good first issue,6.423E-01,True,0.02920499,negligible,False,Min=0;Median=1.000;Mean=1.124;Max=7;std_dev=1.242,Min=0;Median=1.000;Mean=1.057;Max=8;std_dev=1.182
+sonata-project/SonataAdminBundle,PHP,Easy Pick,1.482E-01,False,0.08651198,negligible,False,Min=0;Median=1.000;Mean=1.665;Max=7;std_dev=1.453,Min=0;Median=1.000;Mean=1.468;Max=6;std_dev=1.457
+splitbrain/dokuwiki,PHP,good first issue,3.102E-07,False,0.2148407,small,False,Min=0;Median=0.000;Mean=0.639;Max=5;std_dev=0.829,Min=0;Median=0.000;Mean=0.308;Max=2;std_dev=0.552
+Sylius/Sylius,PHP,Good First Issue,2.200E-16,False,0.6628125,large,False,Min=0;Median=2.000;Mean=1.773;Max=12;std_dev=1.457,Min=0;Median=0.000;Mean=0.291;Max=4;std_dev=0.723
+symfony/symfony-docs,PHP,good first issue,2.200E-16,False,0.882603,large,False,Min=0;Median=5.000;Mean=5.315;Max=21;std_dev=2.997,Min=0;Median=0.000;Mean=0.732;Max=7;std_dev=1.341
+symfony/symfony,PHP,Good first issue,2.200E-16,False,0.8306197,large,False,Min=1;Median=6.000;Mean=7.039;Max=43;std_dev=4.698,Min=0;Median=0.000;Mean=1.342;Max=11;std_dev=2.369
+vanilla/vanilla,PHP,Good first contribution,4.924E-02,False,-0.06825975,negligible,False,Min=0;Median=0.000;Mean=0.271;Max=3;std_dev=0.547,Min=0;Median=0.000;Mean=0.343;Max=3;std_dev=0.574
+woocommerce/woocommerce,PHP,good first issue,2.200E-16,False,0.54428,large,False,Min=0;Median=5.000;Mean=4.756;Max=18;std_dev=2.762,Min=0;Median=2.000;Mean=2.315;Max=9;std_dev=1.844
+wp-cli/wp-cli,PHP,good-first-issue,5.552E-04,False,0.2154478,small,False,Min=0;Median=1.000;Mean=0.782;Max=5;std_dev=0.945,Min=0;Median=0.000;Mean=0.412;Max=3;std_dev=0.660
+yiisoft/yii,PHP,Easy Pick,,,,,True,,
+yiisoft/yii2,PHP,complexity:easy,2.200E-16,False,0.7595438,large,False,Min=0;Median=3.000;Mean=3.878;Max=19;std_dev=2.769,Min=0;Median=0.000;Mean=0.808;Max=10;std_dev=1.643
+Yoast/wordpress-seo,PHP,support,4.296E-03,False,0.2289933,small,False,Min=0;Median=1.000;Mean=0.986;Max=13;std_dev=1.219,Min=0;Median=0.000;Mean=0.588;Max=4;std_dev=0.963
+zendframework/zend-code,PHP,EasyFix,,,,,True,,
+zendframework/zend-eventmanager,PHP,EasyFix,,,,,True,,
+ZoneMinder/zoneminder,PHP,good first issue,1.207E-01,False,0.09046223,negligible,False,Min=0;Median=1.000;Mean=0.663;Max=4;std_dev=0.775,Min=0;Median=0.000;Mean=0.562;Max=4;std_dev=0.820
+aio-libs/aiohttp,PYTHON,good first issue,4.478E-14,False,0.6111057,large,False,Min=0;Median=2.000;Mean=1.975;Max=12;std_dev=1.710,Min=0;Median=0.000;Mean=0.446;Max=3;std_dev=0.685
+andresriancho/w3af,PYTHON,easy,1.830E-05,False,0.2078775,small,False,Min=0;Median=0.000;Mean=0.243;Max=3;std_dev=0.513,Min=0;Median=0.000;Mean=0.000;Max=0;std_dev=0.000
+angr/angr,PYTHON,good first issue,9.748E-03,False,0.212381,small,False,Min=0;Median=0.000;Mean=0.650;Max=5;std_dev=0.883,Min=0;Median=0.000;Mean=0.333;Max=3;std_dev=0.674
+ansible/ansible,PYTHON,easyfix,2.200E-16,False,0.5254342,large,False,Min=2;Median=16.000;Mean=18.011;Max=49;std_dev=10.785,Min=0;Median=8.000;Mean=8.444;Max=27;std_dev=6.723
+ansible/awx,PYTHON,good first issue,,,,,True,,
+apache/airflow,PYTHON,good first issue,2.200E-16,False,0.8196974,large,False,Min=5;Median=12.000;Mean=13.494;Max=53;std_dev=6.803,Min=0;Median=5.000;Mean=5.698;Max=19;std_dev=3.541
+astropy/astropy,PYTHON,Hacktoberfest,4.586E-11,False,0.5680457,large,False,Min=0;Median=1.000;Mean=1.126;Max=8;std_dev=1.296,Min=0;Median=0.000;Mean=0.023;Max=1;std_dev=0.152
+Azure/azure-cli,PYTHON,good first issue,2.200E-16,False,0.7033661,large,False,Min=0;Median=3.000;Mean=3.651;Max=26;std_dev=2.642,Min=0;Median=1.000;Mean=1.083;Max=7;std_dev=1.415
+beetbox/beets,PYTHON,bitesize,2.200E-16,False,0.5154535,large,False,Min=0;Median=1.000;Mean=1.102;Max=8;std_dev=1.131,Min=0;Median=0.000;Mean=0.195;Max=2;std_dev=0.452
+biopython/biopython,PYTHON,good first issue,2.200E-16,False,0.4263864,medium,False,Min=0;Median=1.000;Mean=0.863;Max=7;std_dev=0.982,Min=0;Median=0.000;Mean=0.181;Max=2;std_dev=0.441
+blaze/blaze,PYTHON,easy,3.026E-01,False,-0.04891472,negligible,False,Min=0;Median=0.000;Mean=0.155;Max=3;std_dev=0.413,Min=0;Median=0.000;Mean=0.203;Max=2;std_dev=0.443
+blockstack/blockstack-core,PYTHON,good first issue,5.577E-05,False,0.1919841,small,False,Min=0;Median=0.000;Mean=0.400;Max=4;std_dev=0.667,Min=0;Median=0.000;Mean=0.164;Max=3;std_dev=0.442
+bokeh/bokeh,PYTHON,good first issue,2.200E-16,False,0.5693112,large,False,Min=0;Median=1.000;Mean=1.457;Max=7;std_dev=1.419,Min=0;Median=0.000;Mean=0.226;Max=2;std_dev=0.492
+boto/boto,PYTHON,support,2.200E-16,False,-0.4851297,large,False,Min=0;Median=0.000;Mean=1.279;Max=12;std_dev=2.046,Min=0;Median=3.000;Mean=2.775;Max=10;std_dev=2.104
+buildbot/buildbot,PYTHON,good first issue,4.992E-01,False,0.03122922,negligible,False,Min=0;Median=1.000;Mean=1.153;Max=5;std_dev=1.088,Min=0;Median=1.000;Mean=1.092;Max=5;std_dev=1.067
+celery/celery,PYTHON,good first issue,2.200E-16,False,0.3849246,medium,False,Min=0;Median=2.000;Mean=2.445;Max=9;std_dev=1.662,Min=0;Median=1.000;Mean=1.540;Max=65;std_dev=3.477
+certbot/certbot,PYTHON,good first issue,,,,,True,,
+ckan/ckan,PYTHON,Easy,1.194E-09,False,0.3250461,small,False,Min=0;Median=1.000;Mean=0.887;Max=5;std_dev=1.044,Min=0;Median=0.000;Mean=0.310;Max=3;std_dev=0.570
+cloudera/hue,PYTHON,good first issue,1.905E-06,False,0.3564312,medium,False,Min=0;Median=1.000;Mean=0.925;Max=4;std_dev=1.071,Min=0;Median=0.000;Mean=0.330;Max=6;std_dev=0.643
+cobbler/cobbler,PYTHON,Good first issue,1.071E-01,False,0.1253342,negligible,False,Min=0;Median=0.500;Mean=0.636;Max=3;std_dev=0.750,Min=0;Median=0.000;Mean=0.494;Max=3;std_dev=0.750
+conda/conda,PYTHON,good-first-issue,1.546E-15,False,0.4535667,medium,False,Min=0;Median=1.000;Mean=1.057;Max=5;std_dev=1.074,Min=0;Median=0.000;Mean=0.269;Max=3;std_dev=0.606
+cupy/cupy,PYTHON,good-first-issue,9.266E-02,False,0.1205674,negligible,False,Min=0;Median=1.000;Mean=0.806;Max=9;std_dev=1.241,Min=0;Median=0.000;Mean=0.559;Max=3;std_dev=0.761
+cython/cython,PYTHON,good first issue,,,,,True,,
+dask/dask,PYTHON,good first issue,9.452E-13,False,0.5777152,large,False,Min=0;Median=1.000;Mean=1.756;Max=9;std_dev=1.644,Min=0;Median=0.000;Mean=0.333;Max=4;std_dev=0.690
+DataDog/dd-agent,PYTHON,community,4.221E-08,False,0.2465102,small,False,Min=0;Median=0.000;Mean=1.022;Max=8;std_dev=1.478,Min=0;Median=0.000;Mean=0.350;Max=3;std_dev=0.642
+divio/django-cms,PYTHON,Hacktoberfest,9.842E-01,True,0.0008452042,negligible,False,Min=0;Median=1.000;Mean=0.836;Max=7;std_dev=1.048,Min=0;Median=0.000;Mean=0.870;Max=7;std_dev=1.148
+django-oscar/django-oscar,PYTHON,Good first issue,4.242E-01,False,0.05358577,negligible,False,Min=0;Median=1.000;Mean=0.743;Max=3;std_dev=0.846,Min=0;Median=0.000;Mean=0.681;Max=5;std_dev=0.875
+encode/django-rest-framework,PYTHON,good first issue,3.379E-01,False,0.0480813,negligible,False,Min=0;Median=3.000;Mean=3.483;Max=12;std_dev=2.140,Min=0;Median=3.000;Mean=3.421;Max=12;std_dev=2.709
+fail2ban/fail2ban,PYTHON,easyfix,,,,,True,,
+Flexget/Flexget,PYTHON,Good first issue,5.528E-02,False,0.09003476,negligible,False,Min=0;Median=1.000;Mean=0.723;Max=3;std_dev=0.819,Min=0;Median=0.000;Mean=0.623;Max=4;std_dev=0.867
+fonttools/fonttools,PYTHON,good-first-issue,1.229E-07,False,0.2214477,small,False,Min=0;Median=0.000;Mean=0.429;Max=3;std_dev=0.630,Min=0;Median=0.000;Mean=0.169;Max=3;std_dev=0.460
+fossasia/open-event-server,PYTHON,hacktoberfest,2.570E-05,False,0.312955,small,False,Min=0;Median=1.000;Mean=0.874;Max=6;std_dev=1.133,Min=0;Median=0.000;Mean=0.295;Max=2;std_dev=0.587
+frappe/erpnext,PYTHON,support,2.200E-16,False,0.592929,large,False,Min=0;Median=1.000;Mean=1.481;Max=24;std_dev=1.920,Min=0;Median=0.000;Mean=0.145;Max=2;std_dev=0.370
+frappe/frappe,PYTHON,hacktoberfest,2.200E-16,False,0.7365264,large,False,Min=0;Median=2.000;Mean=3.123;Max=20;std_dev=2.764,Min=0;Median=0.000;Mean=0.704;Max=4;std_dev=1.030
+freedomofpress/securedrop,PYTHON,good first issue,3.989E-02,False,0.0885647,negligible,False,Min=0;Median=0.000;Mean=0.410;Max=6;std_dev=0.795,Min=0;Median=0.000;Mean=0.316;Max=4;std_dev=0.745
+freqtrade/freqtrade,PYTHON,Good first issue,4.902E-03,False,0.2930693,small,False,Min=0;Median=1.000;Mean=1.109;Max=6;std_dev=1.476,Min=0;Median=0.000;Mean=0.400;Max=3;std_dev=0.814
+getredash/redash,PYTHON,hacktoberfest,2.145E-07,False,0.2867451,small,False,Min=0;Median=2.000;Mean=1.847;Max=6;std_dev=1.421,Min=0;Median=1.000;Mean=1.175;Max=5;std_dev=1.355
+getsentry/sentry,PYTHON,Easy Task,6.938E-02,False,0.08342361,negligible,False,Min=0;Median=1.000;Mean=1.404;Max=42;std_dev=2.633,Min=0;Median=1.000;Mean=1.045;Max=6;std_dev=1.029
+git-cola/git-cola,PYTHON,good first issue,1.505E-06,False,0.1375025,negligible,False,Min=0;Median=0.000;Mean=0.296;Max=3;std_dev=0.574,Min=0;Median=0.000;Mean=0.110;Max=2;std_dev=0.322
+googleapis/google-cloud-python,PYTHON,good first issue,2.390E-04,False,0.1941422,small,False,Min=0;Median=1.000;Mean=1.176;Max=5;std_dev=1.393,Min=0;Median=0.000;Mean=0.680;Max=5;std_dev=1.016
+internetarchive/openlibrary,PYTHON,hacktoberfest,1.559E-10,False,0.2411874,small,False,Min=0;Median=0.000;Mean=0.438;Max=16;std_dev=1.224,Min=0;Median=0.000;Mean=0.000;Max=0;std_dev=0.000
+ipython/ipython,PYTHON,good first issue,,,,,True,,
+keras-team/keras,PYTHON,stat:contributions welcome,,,,,True,,
+Kinto/kinto,PYTHON,easy-pick,,,,,True,,
+kivy/kivy,PYTHON,easy,,,,,True,,
+lbryio/lbry-sdk,PYTHON,good first issue,1.382E-04,False,0.2119923,small,False,Min=0;Median=0.000;Mean=0.536;Max=10;std_dev=1.203,Min=0;Median=0.000;Mean=0.125;Max=2;std_dev=0.366
+mailpile/Mailpile,PYTHON,Low Hanging Fruit,9.053E-09,False,0.2982364,small,False,Min=0;Median=0.000;Mean=0.533;Max=8;std_dev=0.964,Min=0;Median=0.000;Mean=0.043;Max=2;std_dev=0.252
+matplotlib/matplotlib,PYTHON,Good first issue,1.144E-11,False,0.7387393,large,False,Min=0;Median=2.000;Mean=2.854;Max=19;std_dev=2.398,Min=0;Median=0.000;Mean=0.414;Max=2;std_dev=0.628
+matrix-org/synapse,PYTHON,good first issue,2.200E-16,False,0.5433647,large,False,Min=0;Median=1.000;Mean=1.745;Max=17;std_dev=1.769,Min=0;Median=0.000;Mean=0.441;Max=4;std_dev=0.807
+mesonbuild/meson,PYTHON,good first issue,2.200E-16,False,0.7453168,large,False,Min=0;Median=3.000;Mean=3.005;Max=12;std_dev=2.031,Min=0;Median=0.000;Mean=0.607;Max=5;std_dev=1.066
+mirumee/saleor,PYTHON,Hacktoberfest,2.200E-16,False,0.4807262,large,False,Min=0;Median=1.000;Mean=1.057;Max=14;std_dev=1.450,Min=0;Median=0.000;Mean=0.122;Max=3;std_dev=0.415
+mopidy/mopidy,PYTHON,good first issue,1.351E-07,False,0.1983132,small,False,Min=0;Median=0.000;Mean=0.361;Max=6;std_dev=0.682,Min=0;Median=0.000;Mean=0.099;Max=3;std_dev=0.369
+mozilla/kuma,PYTHON,good first issue,1.957E-01,False,-0.06034452,negligible,False,Min=0;Median=0.000;Mean=0.338;Max=3;std_dev=0.650,Min=0;Median=0.000;Mean=0.411;Max=3;std_dev=0.667
+mypaint/mypaint,PYTHON,bitesize,,,,,True,,
+networkx/networkx,PYTHON,Good First Issue,2.200E-16,False,0.5511589,large,False,Min=0;Median=1.000;Mean=1.652;Max=7;std_dev=1.457,Min=0;Median=0.000;Mean=0.387;Max=3;std_dev=0.679
+nltk/nltk,PYTHON,good first issue,2.200E-16,False,0.5343058,large,False,Min=0;Median=1.000;Mean=0.837;Max=5;std_dev=0.956,Min=0;Median=0.000;Mean=0.016;Max=1;std_dev=0.127
+numba/numba,PYTHON,easy,1.372E-05,False,0.2241875,small,False,Min=0;Median=0.000;Mean=0.720;Max=6;std_dev=1.018,Min=0;Median=0.000;Mean=0.305;Max=3;std_dev=0.609
+numenta/nupic,PYTHON,newbie,2.922E-01,False,-0.08224715,negligible,False,Min=0;Median=0.000;Mean=0.234;Max=3;std_dev=0.502,Min=0;Median=0.000;Mean=0.483;Max=5;std_dev=1.090
+OpenMined/PySyft,PYTHON,hacktoberfest,6.101E-03,False,0.2169358,small,False,Min=0;Median=2.000;Mean=2.089;Max=7;std_dev=1.443,Min=0;Median=1.000;Mean=1.752;Max=13;std_dev=2.100
+openshift/openshift-ansible,PYTHON,good first issue,3.767E-05,False,-0.2483302,small,False,Min=0;Median=1.000;Mean=1.164;Max=6;std_dev=1.290,Min=0;Median=1.000;Mean=2.312;Max=12;std_dev=2.528
+oppia/oppia,PYTHON,good first issue,,,,,True,,
+pandas-dev/pandas,PYTHON,good first issue,2.200E-16,False,0.8940428,large,False,Min=0;Median=6.000;Mean=7.225;Max=119;std_dev=7.515,Min=0;Median=0.000;Mean=0.530;Max=4;std_dev=0.877
+pantsbuild/pants,PYTHON,good first issue,2.199E-09,False,0.3512494,medium,False,Min=0;Median=0.000;Mean=0.588;Max=10;std_dev=0.899,Min=0;Median=0.000;Mean=0.093;Max=2;std_dev=0.330
+polyaxon/polyaxon,PYTHON,good first issue,2.475E-05,False,0.2436061,small,False,Min=0;Median=0.000;Mean=0.321;Max=3;std_dev=0.573,Min=0;Median=0.000;Mean=0.029;Max=1;std_dev=0.170
+PrefectHQ/prefect,PYTHON,good first issue,,,,,True,,
+psf/requests,PYTHON,Contributor Friendly,,,,,True,,
+pyca/cryptography,PYTHON,good first issue,3.563E-01,False,0.07504363,negligible,False,Min=0;Median=1.000;Mean=0.749;Max=4;std_dev=0.851,Min=0;Median=0.000;Mean=0.646;Max=3;std_dev=0.838
+pyinstaller/pyinstaller,PYTHON,good first issue,2.200E-16,False,0.4774347,large,False,Min=0;Median=1.000;Mean=1.278;Max=5;std_dev=1.185,Min=0;Median=0.000;Mean=0.338;Max=3;std_dev=0.576
+pymc-devs/pymc3,PYTHON,beginner friendly,2.200E-16,False,0.4290976,medium,False,Min=0;Median=1.000;Mean=0.922;Max=6;std_dev=1.128,Min=0;Median=0.000;Mean=0.158;Max=2;std_dev=0.390
+pypa/pip,PYTHON,good first issue,,,,,True,,
+pypa/pipenv,PYTHON,good first issue,5.411E-02,False,-0.161463,small,False,Min=0;Median=1.000;Mean=1.679;Max=10;std_dev=1.970,Min=0;Median=2.000;Mean=2.780;Max=17;std_dev=3.404
+python/mypy,PYTHON,good-first-issue,2.200E-16,False,0.6755803,large,False,Min=0;Median=1.000;Mean=1.682;Max=14;std_dev=1.818,Min=0;Median=0.000;Mean=0.105;Max=3;std_dev=0.390
+python-pillow/Pillow,PYTHON,Hacktoberfest,4.374E-01,False,-0.04085686,negligible,False,Min=0;Median=1.000;Mean=0.867;Max=5;std_dev=0.997,Min=0;Median=1.000;Mean=0.920;Max=5;std_dev=0.975
+pyviz/holoviews,PYTHON,good first issue,8.319E-10,False,0.2726984,small,False,Min=0;Median=0.000;Mean=0.517;Max=4;std_dev=0.751,Min=0;Median=0.000;Mean=0.143;Max=2;std_dev=0.390
+quantopian/zipline,PYTHON,Beginner Friendly,7.750E-01,True,0.02428394,negligible,False,Min=0;Median=0.000;Mean=0.427;Max=8;std_dev=0.782,Min=0;Median=0.000;Mean=0.333;Max=2;std_dev=0.540
+qutebrowser/qutebrowser,PYTHON,easy,,,,,True,,
+readthedocs/readthedocs.org,PYTHON,Good First Issue,1.728E-10,False,0.3862788,medium,False,Min=0;Median=1.000;Mean=0.994;Max=7;std_dev=1.157,Min=0;Median=0.000;Mean=0.330;Max=6;std_dev=0.781
+robotframework/robotframework,PYTHON,good first issue,1.874E-03,False,0.1965089,small,False,Min=0;Median=0.000;Mean=0.583;Max=3;std_dev=0.737,Min=0;Median=0.000;Mean=0.309;Max=2;std_dev=0.562
+sabnzbd/sabnzbd,PYTHON,Support,3.592E-01,False,-0.03038823,negligible,False,Min=0;Median=0.000;Mean=0.190;Max=3;std_dev=0.479,Min=0;Median=0.000;Mean=0.220;Max=3;std_dev=0.498
+saltstack/salt,PYTHON,good first issue,2.200E-16,False,0.4307607,medium,False,Min=1;Median=6.000;Mean=6.564;Max=19;std_dev=2.996,Min=0;Median=4.000;Mean=4.049;Max=16;std_dev=3.495
+scikit-image/scikit-image,PYTHON,good first issue,7.449E-15,False,0.4845457,large,False,Min=0;Median=1.000;Mean=1.318;Max=11;std_dev=1.359,Min=0;Median=0.000;Mean=0.362;Max=3;std_dev=0.620
+scikit-learn/scikit-learn,PYTHON,Easy,2.200E-16,False,0.8612159,large,False,Min=0;Median=5.000;Mean=6.096;Max=50;std_dev=5.384,Min=0;Median=0.000;Mean=0.333;Max=2;std_dev=0.583
+scipy/scipy,PYTHON,good first issue,2.200E-16,False,0.7357763,large,False,Min=0;Median=3.000;Mean=3.014;Max=14;std_dev=2.137,Min=0;Median=1.000;Mean=0.658;Max=4;std_dev=0.815
+scrapy/scrapy,PYTHON,good first issue,2.200E-16,False,0.6938354,large,False,Min=0;Median=1.000;Mean=1.747;Max=12;std_dev=1.520,Min=0;Median=0.000;Mean=0.232;Max=3;std_dev=0.515
+SheffieldML/GPy,PYTHON,good first issue,5.295E-01,True,-0.04214559,negligible,False,Min=0;Median=0.000;Mean=0.167;Max=2;std_dev=0.531,Min=0;Median=0.000;Mean=0.177;Max=3;std_dev=0.454
+spack/spack,PYTHON,good first issue,2.200E-16,False,0.7611975,large,False,Min=0;Median=2.000;Mean=3.483;Max=61;std_dev=5.519,Min=0;Median=0.000;Mean=0.182;Max=2;std_dev=0.408
+sphinx-doc/sphinx,PYTHON,good first issue,,,,,True,,
+sqlalchemy/sqlalchemy,PYTHON,easy,,,,,True,,
+sqlmapproject/sqlmap,PYTHON,support,,,,,True,,
+StackStorm/st2,PYTHON,complexity:easy,2.949E-03,False,0.2232469,small,False,Min=0;Median=0.000;Mean=0.444;Max=3;std_dev=0.692,Min=0;Median=0.000;Mean=0.133;Max=1;std_dev=0.344
+stamparm/maltrail,PYTHON,support,1.652E-02,False,0.09803922,negligible,False,Min=0;Median=0.000;Mean=0.114;Max=2;std_dev=0.367,Min=0;Median=0.000;Mean=0.000;Max=0;std_dev=0.000
+statsmodels/statsmodels,PYTHON,good first issue,2.031E-06,False,0.3753777,medium,False,Min=0;Median=1.000;Mean=0.803;Max=4;std_dev=0.973,Min=0;Median=0.000;Mean=0.184;Max=2;std_dev=0.441
+sympy/sympy,PYTHON,good first issue,2.200E-16,False,0.5823517,large,False,Min=0;Median=2.000;Mean=2.737;Max=16;std_dev=2.212,Min=0;Median=0.000;Mean=0.926;Max=10;std_dev=1.600
+Theano/Theano,PYTHON,Easy fix,5.621E-04,False,0.2719989,small,False,Min=0;Median=0.000;Mean=0.887;Max=7;std_dev=1.329,Min=0;Median=0.000;Mean=0.234;Max=2;std_dev=0.476
+tldr-pages/tldr,PYTHON,community,2.200E-16,False,0.6477914,large,False,Min=0;Median=4.000;Mean=5.871;Max=69;std_dev=8.400,Min=0;Median=1.000;Mean=2.067;Max=58;std_dev=5.766
+unknown-horizons/unknown-horizons,PYTHON,good first issue,8.875E-01,True,0.003977932,negligible,False,Min=0;Median=0.000;Mean=0.141;Max=2;std_dev=0.370,Min=0;Median=0.000;Mean=0.153;Max=2;std_dev=0.425
+vispy/vispy,PYTHON,for-new-contributors,1.657E-03,False,0.2335892,small,False,Min=0;Median=0.000;Mean=0.411;Max=4;std_dev=0.693,Min=0;Median=0.000;Mean=0.093;Max=1;std_dev=0.294
+wagtail/wagtail,PYTHON,good first issue,1.781E-03,False,0.3113354,small,False,Min=0;Median=1.000;Mean=1.861;Max=12;std_dev=1.728,Min=0;Median=1.000;Mean=1.000;Max=5;std_dev=1.029
+WeblateOrg/weblate,PYTHON,hacktoberfest,1.792E-10,False,0.3197004,small,False,Min=0;Median=0.000;Mean=0.699;Max=5;std_dev=0.903,Min=0;Median=0.000;Mean=0.194;Max=2;std_dev=0.432
+xonsh/xonsh,PYTHON,newcomer,4.290E-01,False,0.07020767,negligible,False,Min=0;Median=1.000;Mean=0.821;Max=8;std_dev=1.157,Min=0;Median=0.000;Mean=0.900;Max=10;std_dev=1.865
+ytdl-org/youtube-dl,PYTHON,easy,2.200E-16,False,0.6595269,large,False,Min=0;Median=5.000;Mean=5.447;Max=26;std_dev=3.014,Min=0;Median=2.000;Mean=2.158;Max=9;std_dev=2.157
+zulip/zulip,PYTHON,good first issue,,,,,True,,
+bundler/bundler,RUBY,good first issue,2.776E-14,False,-0.3461489,medium,False,Min=0;Median=1.000;Mean=0.956;Max=7;std_dev=1.129,Min=0;Median=2.000;Mean=1.874;Max=9;std_dev=1.618
+CocoaPods/CocoaPods,RUBY,d1:easy,,,,,True,,
+cucumber/cucumber-ruby,RUBY,good first issue,9.340E-01,True,-0.003059441,negligible,False,Min=0;Median=0.000;Mean=0.398;Max=5;std_dev=0.642,Min=0;Median=0.000;Mean=0.473;Max=4;std_dev=0.831
+diaspora/diaspora,RUBY,quickfix,7.495E-09,False,-0.4946451,large,False,Min=0;Median=0.000;Mean=0.764;Max=7;std_dev=1.013,Min=0;Median=2.000;Mean=3.595;Max=42;std_dev=6.921
+education/classroom,RUBY,good first issue,,,,,True,,
+elastic/logstash,RUBY,hacktoberfest,3.890E-13,False,-0.3464794,medium,False,Min=0;Median=1.000;Mean=1.003;Max=5;std_dev=1.104,Min=0;Median=2.000;Mean=2.509;Max=11;std_dev=2.574
+fastlane/fastlane,RUBY,complexity: you can do this,,,,,True,,
+fatfreecrm/fat_free_crm,RUBY,good first issue,6.799E-01,True,-0.01162267,negligible,False,Min=0;Median=0.000;Mean=0.167;Max=2;std_dev=0.410,Min=0;Median=0.000;Mean=0.202;Max=3;std_dev=0.512
+fog/fog,RUBY,easy,1.142E-14,False,0.495607,large,False,Min=0;Median=1.000;Mean=1.507;Max=9;std_dev=1.953,Min=0;Median=0.000;Mean=0.051;Max=1;std_dev=0.222
+github/linguist,RUBY,Good First Issue,1.312E-04,False,-0.1867285,small,False,Min=0;Median=2.000;Mean=2.289;Max=7;std_dev=1.546,Min=0;Median=3.000;Mean=3.075;Max=14;std_dev=2.276
+gitlabhq/gitlabhq,RUBY,easyfix,2.200E-16,False,-0.9171671,large,False,Min=0;Median=0.000;Mean=0.282;Max=4;std_dev=0.609,Min=0;Median=4.000;Mean=5.219;Max=22;std_dev=3.661
+hashicorp/vagrant,RUBY,needs-community-help,1.151E-06,False,-0.2247434,small,False,Min=0;Median=2.000;Mean=2.025;Max=7;std_dev=1.534,Min=0;Median=3.000;Mean=3.117;Max=15;std_dev=2.624
+Homebrew/brew,RUBY,good first issue,8.335E-03,False,0.1741357,small,False,Min=0;Median=2.000;Mean=2.627;Max=15;std_dev=2.002,Min=0;Median=2.000;Mean=2.045;Max=7;std_dev=1.540
+Homebrew/homebrew-cask-fonts,RUBY,good first issue,6.911E-01,True,0.02873199,negligible,False,Min=0;Median=1.000;Mean=1.101;Max=5;std_dev=1.226,Min=0;Median=1.000;Mean=0.997;Max=9;std_dev=1.107
+inspec/inspec,RUBY,Good first issue,4.890E-04,False,0.380345,medium,False,Min=0;Median=1.000;Mean=1.190;Max=6;std_dev=1.193,Min=0;Median=0.000;Mean=0.500;Max=4;std_dev=0.962
+jekyll/jekyll,RUBY,support,1.132E-12,False,0.7791411,large,False,Min=0;Median=2.000;Mean=2.187;Max=12;std_dev=1.946,Min=0;Median=0.000;Mean=0.000;Max=0;std_dev=0.000
+jruby/jruby,RUBY,beginner,9.939E-07,False,0.2146035,small,False,Min=0;Median=0.000;Mean=0.738;Max=7;std_dev=0.988,Min=0;Median=0.000;Mean=0.398;Max=4;std_dev=0.774
+opal/opal,RUBY,good first issue,4.520E-06,False,0.1323142,negligible,False,Min=0;Median=0.000;Mean=0.274;Max=5;std_dev=0.611,Min=0;Median=0.000;Mean=0.088;Max=2;std_dev=0.296
+publify/publify,RUBY,good first issue,2.408E-05,False,-0.1321636,negligible,False,Min=0;Median=0.000;Mean=0.021;Max=1;std_dev=0.144,Min=0;Median=0.000;Mean=0.182;Max=3;std_dev=0.461
+puppetlabs/puppet,RUBY,Community,1.779E-03,False,-0.1472709,small,False,Min=0;Median=1.000;Mean=1.150;Max=7;std_dev=1.181,Min=0;Median=1.000;Mean=1.554;Max=7;std_dev=1.464
+rails/rails,RUBY,good first issue,2.200E-16,False,0.5035182,large,False,Min=1;Median=10.000;Mean=10.966;Max=27;std_dev=4.172,Min=0;Median=4.000;Mean=5.632;Max=25;std_dev=5.910
+rapid7/metasploit-framework,RUBY,newbie-friendly,3.456E-09,False,0.3169811,small,False,Min=0;Median=2.000;Mean=2.569;Max=7;std_dev=1.632,Min=0;Median=1.000;Mean=1.694;Max=7;std_dev=1.454
+rubocop-hq/rubocop,RUBY,good first issue,2.200E-16,False,0.5445776,large,False,Min=0;Median=2.000;Mean=2.402;Max=9;std_dev=1.791,Min=0;Median=0.000;Mean=0.868;Max=5;std_dev=1.087
+rubygems/rubygems,RUBY,good first issue,5.048E-01,True,0.02905185,negligible,False,Min=0;Median=1.000;Mean=0.868;Max=5;std_dev=1.048,Min=0;Median=1.000;Mean=0.805;Max=5;std_dev=1.007
+rubygems/rubygems.org,RUBY,starter,8.020E-09,False,0.2851272,small,False,Min=0;Median=0.000;Mean=0.662;Max=11;std_dev=1.014,Min=0;Median=0.000;Mean=0.227;Max=3;std_dev=0.564
+solidusio/solidus,RUBY,Beginner-Friendly,3.566E-04,False,0.3163855,small,False,Min=0;Median=1.000;Mean=1.049;Max=11;std_dev=1.218,Min=0;Median=0.000;Mean=0.442;Max=2;std_dev=0.666
+spree/spree,RUBY,Good First Issue,7.823E-01,True,-0.01800525,negligible,False,Min=0;Median=1.000;Mean=1.265;Max=6;std_dev=1.221,Min=0;Median=1.000;Mean=1.531;Max=10;std_dev=1.755
+tootsuite/mastodon,RUBY,fit for beginners,1.852E-14,False,0.7921047,large,False,Min=0;Median=2.000;Mean=3.418;Max=110;std_dev=9.094,Min=0;Median=0.000;Mean=0.059;Max=2;std_dev=0.343
+zammad/zammad,RUBY,hacktoberfest,2.200E-16,False,0.4140546,medium,False,Min=0;Median=0.000;Mean=0.633;Max=4;std_dev=0.863,Min=0;Median=0.000;Mean=0.028;Max=1;std_dev=0.166
+angular/angular,TYPESCRIPT,good first issue,2.200E-16,False,0.5621912,large,False,Min=2;Median=8.000;Mean=8.389;Max=21;std_dev=3.650,Min=0;Median=4.000;Mean=4.860;Max=30;std_dev=3.622
+angular/components,TYPESCRIPT,good first issue,6.461E-01,True,0.03441456,negligible,False,Min=0;Median=3.000;Mean=3.246;Max=11;std_dev=2.055,Min=0;Median=3.000;Mean=3.190;Max=10;std_dev=2.424
+ant-design/ant-design,TYPESCRIPT,good first issue,2.200E-16,False,0.7837277,large,False,Min=0;Median=8.000;Mean=7.886;Max=19;std_dev=3.369,Min=0;Median=2.000;Mean=2.620;Max=10;std_dev=2.550
+BabylonJS/Babylon.js,TYPESCRIPT,good first issue,2.833E-12,False,0.4459374,medium,False,Min=0;Median=1.000;Mean=1.880;Max=11;std_dev=1.683,Min=0;Median=0.000;Mean=0.776;Max=6;std_dev=1.003
+botpress/botpress,TYPESCRIPT,contributor-friendly,,,,,True,,
+DefinitelyTyped/DefinitelyTyped,TYPESCRIPT,Level:Starter,2.200E-16,False,0.9443667,large,False,Min=0;Median=43.000;Mean=39.676;Max=93;std_dev=23.233,Min=0;Median=2.000;Mean=2.644;Max=7;std_dev=1.773
+desktop/desktop,TYPESCRIPT,good first issue,2.200E-16,False,0.69,large,False,Min=0;Median=2.000;Mean=2.227;Max=8;std_dev=1.578,Min=0;Median=0.000;Mean=0.550;Max=12;std_dev=1.760
+Foundry376/Mailspring,TYPESCRIPT,Hacktoberfest,5.542E-07,False,0.3699593,medium,False,Min=0;Median=0.000;Mean=0.604;Max=10;std_dev=1.055,Min=0;Median=0.000;Mean=0.020;Max=1;std_dev=0.140
+grafana/grafana,TYPESCRIPT,beginner friendly,2.200E-16,False,0.7050919,large,False,Min=0;Median=6.000;Mean=6.562;Max=57;std_dev=4.517,Min=0;Median=2.000;Mean=2.596;Max=8;std_dev=1.940
+jupyter-widgets/ipywidgets,TYPESCRIPT,good first issue,,,,,True,,
+microsoft/TypeScript,TYPESCRIPT,Good First Issue,,,,,True,,
+microsoft/vscode,TYPESCRIPT,good first issue,,,,,True,,
+mozilla/voice-web,TYPESCRIPT,good first issue,9.929E-02,False,0.1421175,negligible,False,Min=0;Median=1.000;Mean=1.082;Max=5;std_dev=1.112,Min=0;Median=0.000;Mean=1.135;Max=10;std_dev=1.990
+NativeScript/NativeScript,TYPESCRIPT,good first issue,,,,,True,,
+nteract/nteract,TYPESCRIPT,hacktoberfest,4.697E-06,False,0.3590757,medium,False,Min=0;Median=0.000;Mean=0.573;Max=5;std_dev=0.803,Min=0;Median=0.000;Mean=0.065;Max=1;std_dev=0.250
+storybookjs/storybook,TYPESCRIPT,good first issue,,,,,True,,
+vuetifyjs/vuetify,TYPESCRIPT,good first issue,2.200E-16,False,0.7307109,large,False,Min=0;Median=4.000;Mean=4.113;Max=11;std_dev=2.445,Min=0;Median=0.500;Mean=1.089;Max=5;std_dev=1.443
