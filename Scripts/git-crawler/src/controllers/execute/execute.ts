@@ -112,11 +112,44 @@ async function run(repo: Repository, language: string) {
 }
 
 export async function treatment(req: Request, res: Response) {
-  removeHelpWantedVariations()
+
+
+  res.status(HttpStatus.OK).json(statsNewComerLabelsOcurrencies());
+}
+
+function statsNewComerLabelsOcurrencies() {
+  const repositories = loadRepositoriesSamplesData()
+  let unique = [...new Set(newcomer_labels)];
+  let newcomer_labels_count: {
+    [key: string]: number
+  } = {}
+
+  unique.forEach(label => newcomer_labels_count = { ...newcomer_labels_count, [label]: 0 })
+
+
+  repositories
+    .filter(repo => repo.has_newcomer_labels)
+    .forEach(repo =>
+      repo.newcomer_labels!.forEach(label => {
+        newcomer_labels_count[label.name.toLowerCase()]++
+      })
+    )
+
+  var sortable = [];
+  for (var newcomer_label in newcomer_labels_count) {
+    sortable.push([newcomer_label, newcomer_labels_count[newcomer_label]]);
+  }
+
+  sortable.sort(function (a: any, b: any) {
+    return b[1] - a[1];
+  });
+
+  return sortable
+  // return [...new Set(repositories.map(repo => newcomer_labels))]
 }
 
 //Remove all help-wanted variations from newcomerlabels set and gerenate payload and graphs again
-export async function removeHelpWantedVariations() {
+function removeHelpWantedVariations() {
   const repositories = loadRepositoriesSamplesData()
 
   const helpWantedVariations = [
@@ -133,40 +166,41 @@ export async function removeHelpWantedVariations() {
 
   let cont = 0
   repositories.forEach(repo => {
-    // console.log("---------------------------------------")
-    
-    
-    let help = repo.newcomer_labels?.filter(label => helpWantedVariations.includes(label.name.toLowerCase())).length || 0
-    if (help > 0) {
-      console.log(repo.language + " - " + repo.nameconcat)
-      console.log(repo.newcomer_labels?.filter(label => helpWantedVariations.includes(label.name.toLowerCase())))
-      const removed_help_wanted = repo.newcomer_labels?.filter(label => !helpWantedVariations.includes(label.name.toLowerCase()))
-      let removed = removed_help_wanted?.length || 0
-      if(removed > 0) {
-        cont++
-      }
+
+    // Conta quantas ocorrências de help-wanted e quantas após a remoção das variações.    
+    // let help = repo.newcomer_labels?.filter(label => helpWantedVariations.includes(label.name.toLowerCase())).length || 0
+    // if (help > 0) {
+    //   console.log(repo.language + " - " + repo.nameconcat)
+    //   console.log(repo.newcomer_labels?.filter(label => helpWantedVariations.includes(label.name.toLowerCase())))
+    //   const removed_help_wanted = repo.newcomer_labels?.filter(label => !helpWantedVariations.includes(label.name.toLowerCase()))
+    //   let removed = removed_help_wanted?.length || 0
+    //   if(removed > 0) {
+    //     cont++
+    //   }
+    // }
+    //
+
+    const removed_help_wanted = repo.newcomer_labels?.filter(label => !helpWantedVariations.includes(label.name.toLowerCase()))
+    repo.newcomer_labels = removed_help_wanted
+
+    if (removed_help_wanted && removed_help_wanted.length > 0) {
+      repo.has_newcomer_labels = true
+    } else {
+      repo.has_newcomer_labels = false
+
     }
-    // const removed_help_wanted = repo.newcomer_labels?.filter(label => !helpWantedVariations.includes(label.name.toLowerCase()))
-    // repo.newcomer_labels = removed_help_wanted
-
-    // if (removed_help_wanted && removed_help_wanted.length > 0) {
-    //   repo.has_newcomer_labels = true
-    // } else {
-    //   repo.has_newcomer_labels = false
-
-    // }
-    // console.log("removed = " + JSON.stringify(repo.newcomer_labels))
-    // console.log("has_newcomer_labels = " + repo.has_newcomer_labels )
-    // let language = repo.language!
-    // if(language == "C++"){
-    //   language = "cplusplus"
-    // }
-    // if(language == "C#"){
-    //   language = "csharp"
-    // }
-    // save(`${repo.owner}-${repo.name}`.replace(/\//g, ''), repo, language)
-    // generateGraph(`${repo.owner}-${repo.name}`.replace(/\//g, ''), repo, language)
-    // console.log("---------------------------------------")
+    console.log("removed = " + JSON.stringify(repo.newcomer_labels))
+    console.log("has_newcomer_labels = " + repo.has_newcomer_labels)
+    let language = repo.language!
+    if (language == "C++") {
+      language = "cplusplus"
+    }
+    if (language == "C#") {
+      language = "csharp"
+    }
+    save(`${repo.owner}-${repo.name}`.replace(/\//g, ''), repo, language)
+    generateGraph(`${repo.owner}-${repo.name}`.replace(/\//g, ''), repo, language)
+    console.log("---------------------------------------")
   })
   console.log(cont)
 }
