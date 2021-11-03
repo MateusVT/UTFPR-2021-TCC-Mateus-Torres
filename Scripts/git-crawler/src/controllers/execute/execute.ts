@@ -119,33 +119,37 @@ export async function treatment(req: Request, res: Response) {
 
 function statsNewComerLabelsOcurrencies() {
   const repositories = loadRepositoriesSamplesData()
-  let unique = [...new Set(newcomer_labels)];
-  let newcomer_labels_count: {
-    [key: string]: number
-  } = {}
-
-  unique.forEach(label => newcomer_labels_count = { ...newcomer_labels_count, [label]: 0 })
+  const languages = ["c", "c++", "c#", "go", "java", "javascript", "php", "python", "ruby", "typescript"] as const
 
 
-  repositories
-    .filter(repo => repo.has_newcomer_labels)
-    .forEach(repo =>
-      repo.newcomer_labels!.forEach(label => {
-        newcomer_labels_count[label.name.toLowerCase()]++
-      })
-    )
+  return languages.map(lang => {
+    let unique = [...new Set(newcomer_labels)];
+    let newcomer_labels_count: {
+      [key: string]: number
+    } = {}
 
-  var sortable = [];
-  for (var newcomer_label in newcomer_labels_count) {
-    sortable.push([newcomer_label, newcomer_labels_count[newcomer_label]]);
-  }
+    unique.forEach(label => newcomer_labels_count = { ...newcomer_labels_count, [label]: 0 })
+    repositories
+      .filter(repo => repo.language?.toLocaleLowerCase() == lang)
+      .filter(repo => repo.has_newcomer_labels)
+      .forEach(repo =>
+        repo.newcomer_labels!.forEach(label => {
+          newcomer_labels_count[label.name.toLowerCase()]++
+        })
+      )
 
-  sortable.sort(function (a: any, b: any) {
-    return b[1] - a[1];
-  });
+    var sortable = [];
+    for (var newcomer_label in newcomer_labels_count) {
+      sortable.push({ label: newcomer_label, count: newcomer_labels_count[newcomer_label] });
+    }
 
-  return sortable
-  // return [...new Set(repositories.map(repo => newcomer_labels))]
+    sortable.sort(function (a: any, b: any) {
+      return b.count - a.count;
+    });
+
+    return { language: lang, topFive: sortable.slice(0, 5) }
+  })
+
 }
 
 //Remove all help-wanted variations from newcomerlabels set and gerenate payload and graphs again
@@ -353,7 +357,7 @@ function loadRepositoriesSampleByLanguage(type?: string) {
 
 //Loads the samples data by language.
 function loadRepositoriesSamplesData() {
-  const languages = ["c", "cplusplus", "csharp", "go", "java", "javascript", "php", "python", "ruby", "typescript"] as const
+  // const languages = ["c", "cplusplus", "csharp", "go", "java", "javascript", "php", "python", "ruby", "typescript"] as const
   let repositories: Repository[] = []
   languages.forEach(language => {
 

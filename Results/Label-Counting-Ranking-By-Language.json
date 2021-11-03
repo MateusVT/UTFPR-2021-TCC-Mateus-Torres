@@ -1,0 +1,252 @@
+[
+    {
+        "language": "c",
+        "topFive": [
+            {
+                "label": "help wanted",
+                "count": 34
+            },
+            {
+                "label": "good first issue",
+                "count": 22
+            },
+            {
+                "label": "community",
+                "count": 5
+            },
+            {
+                "label": "easy",
+                "count": 4
+            },
+            {
+                "label": "support",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "language": "c++",
+        "topFive": [
+            {
+                "label": "help wanted",
+                "count": 54
+            },
+            {
+                "label": "good first issue",
+                "count": 51
+            },
+            {
+                "label": "hacktoberfest",
+                "count": 13
+            },
+            {
+                "label": "easy",
+                "count": 5
+            },
+            {
+                "label": "community",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "language": "c#",
+        "topFive": [
+            {
+                "label": "help wanted",
+                "count": 25
+            },
+            {
+                "label": "good first issue",
+                "count": 23
+            },
+            {
+                "label": "up-for-grabs",
+                "count": 13
+            },
+            {
+                "label": "hacktoberfest",
+                "count": 8
+            },
+            {
+                "label": "up for grabs",
+                "count": 7
+            }
+        ]
+    },
+    {
+        "language": "go",
+        "topFive": [
+            {
+                "label": "help wanted",
+                "count": 33
+            },
+            {
+                "label": "good first issue",
+                "count": 32
+            },
+            {
+                "label": "hacktoberfest",
+                "count": 9
+            },
+            {
+                "label": "help-wanted",
+                "count": 5
+            },
+            {
+                "label": "community",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "language": "java",
+        "topFive": [
+            {
+                "label": "help wanted",
+                "count": 38
+            },
+            {
+                "label": "good first issue",
+                "count": 37
+            },
+            {
+                "label": "hacktoberfest",
+                "count": 10
+            },
+            {
+                "label": "status: ideal-for-contribution",
+                "count": 4
+            },
+            {
+                "label": "support",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "language": "javascript",
+        "topFive": [
+            {
+                "label": "help wanted",
+                "count": 53
+            },
+            {
+                "label": "good first issue",
+                "count": 46
+            },
+            {
+                "label": "hacktoberfest",
+                "count": 15
+            },
+            {
+                "label": "help-wanted",
+                "count": 5
+            },
+            {
+                "label": "support",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "language": "php",
+        "topFive": [
+            {
+                "label": "help wanted",
+                "count": 33
+            },
+            {
+                "label": "good first issue",
+                "count": 26
+            },
+            {
+                "label": "hacktoberfest",
+                "count": 23
+            },
+            {
+                "label": "support",
+                "count": 10
+            },
+            {
+                "label": "easy pick",
+                "count": 5
+            }
+        ]
+    },
+    {
+        "language": "python",
+        "topFive": [
+            {
+                "label": "good first issue",
+                "count": 67
+            },
+            {
+                "label": "help wanted",
+                "count": 55
+            },
+            {
+                "label": "hacktoberfest",
+                "count": 27
+            },
+            {
+                "label": "easy",
+                "count": 10
+            },
+            {
+                "label": "support",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "language": "ruby",
+        "topFive": [
+            {
+                "label": "help wanted",
+                "count": 21
+            },
+            {
+                "label": "good first issue",
+                "count": 18
+            },
+            {
+                "label": "hacktoberfest",
+                "count": 5
+            },
+            {
+                "label": "easy",
+                "count": 2
+            },
+            {
+                "label": "help-wanted",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "language": "typescript",
+        "topFive": [
+            {
+                "label": "help wanted",
+                "count": 20
+            },
+            {
+                "label": "good first issue",
+                "count": 14
+            },
+            {
+                "label": "hacktoberfest",
+                "count": 5
+            },
+            {
+                "label": "support",
+                "count": 2
+            },
+            {
+                "label": "beginner friendly",
+                "count": 1
+            }
+        ]
+    }
+]
